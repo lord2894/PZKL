@@ -1,0 +1,36 @@
+﻿374-1 Deal
+Participant obj913 Минск
+Participant obj914 Москва
+СЧИТАТЬ ЧТО
+V Cn
+
+374-2 Deal
+Participant obj916 Россия
+Participant obj913 Минск
+ПООБЕЩАТЬ С 21 ИЮНЬ ОГРАНИЧИТЬ ПОСТАВКА ГОЛУБОЙ ТОПЛИВО В СОСЕДНИЙ РЕСПУБЛИКА НА 85 ОТ ПЛАНОВЫЙ ОБЪЁМ ЕСЛИ
+V Pr W N V N N N Pr A N Pr W Pr A N Cn
+
+374-3 Deal
+Participant obj918 ОАО | Газпром
+Participant obj916 Россия
+О ВОЗМОЖНЫЙ ОГРАНИЧЕНИЕ ПОСТАВКА ГОЛУБОЙ ТОПЛИВО В СЛУЧАЙ НЕУПЛАТА ЗАДОЛЖЕННОСТЬ КОТОРЫЙ СОСТАВЛЯТЬ УЖЕ ОКОЛО 200 МИЛЛИОН ДОЛЛАР БЕЛОРУССКИЙ СТОРОНА ДОЛГО ВЫЖИДАТЬ И НАКОНЕЦ ОТРЕАГИРОВАТЬ НА ГАЗОВЫЙ УЛЬТИМАТУМ
+Pr A N N N N Pr N N N A V Av Pr W N N A N Av V Cn Av V Pr A N
+
+374-4 Deal
+Participant obj916 Россия
+Participant obj918 ОАО | Газпром
+ПРИЧЁМ ОТРЕАГИРОВАТЬ ТРАДИЦИОННО СОСЕД СЧИТАТЬ ЧТО ЭТО
+Cn V Av N V Cn W
+
+374-5 Deal
+Participant obj918 ОАО | Газпром
+Participant obj913 Минск
+200 МИЛЛИОН ДОЛЛАР – РОВНО СТОЛЬКО СКОЛЬКО СОСТАВЛЯТЬ ДОЛГ
+W N N W Av Av Cn V N
+
+374-6 Deal
+Participant obj913 Минск
+Participant obj917 Белоруссия
+О ЭТО ЗАЯВИТЬ ОДИН ЗАММИНИСТРА ЭНЕРГЕТИКА
+Pr W V A N N
+

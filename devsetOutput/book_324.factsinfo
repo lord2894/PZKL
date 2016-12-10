@@ -1,0 +1,24 @@
+﻿324-1 Deal
+Participant obj691 министерство | министерство внутренних дел | министерство внутренних дел Пакистана
+Participant obj687 Беназир | Бхутто
+ЗАЯВИТЬ О ТОТ ЧТО
+V Pr A Cn
+
+324-2 Deal
+Participant obj687 Беназир | Бхутто
+Participant obj692 агенство | France-Presse
+ОСВОБОДИТЬ ИЗ-ПОД ДОМАШНИЙ АРЕСТ СООБЩАТЬ
+V Pr A N V
+
+324-3 Deal
+Participant obj687 Беназир | Бхутто
+Participant obj689 партия | Народная партия
+НА МИТИНГ ОППОЗИЦИЯ В ПЯТНИЦА ЗА ПОСЛЕДНИЙ ДЕНЬ БЫТЬ АРЕСТОВАТЬ 5000 АКТИВИСТ
+Pr N N Pr N Pr A N V V W N
+
+324-4 Deal
+Participant obj687 Беназир | Бхутто
+Participant obj692 агенство | France-Presse
+ЗАЯВИТЬ ПО ТЕЛЕФОН
+V Pr N
+
