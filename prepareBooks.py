@@ -156,15 +156,17 @@ def getTexts(dir):
     return booksTexts
 
 def main():
+    if not os.path.exists("E:\\PycharmProjects\\PZKL\\testsetNorm"):
+        os.makedirs("E:\\PycharmProjects\\PZKL\\testsetNorm", mode=0o777)
     #books ={}
     booksTexts = {}
-    booksTexts.update(getTexts('E:\\PycharmProjects\\PZKL\\devset'))
+    booksTexts.update(getTexts('E:\\PycharmProjects\\PZKL\\testset'))
     #books.update(getFactsSents("testset_short_3.txt"))
     #facts = {}
     corefs = {}
     corefsFiles = {}
     #facts.update(getFacts('E:\\PycharmProjects\\PZKL\\devset'))
-    corefsFiles.update(getCorefs('E:\\PycharmProjects\\PZKL\\devset'))
+    corefsFiles.update(getCorefs('E:\\PycharmProjects\\PZKL\\testset'))
     for book in corefsFiles:
         for corefNum in corefsFiles[book]:
             if "corf" in corefsFiles[book][corefNum]:
@@ -193,7 +195,7 @@ def main():
        u'>', u'<', ]
     outputSents = set()
     for book in booksTexts:
-        output = open("E:\\PycharmProjects\\PZKL\\devsetNorm\\"+book+".txt","w",encoding="utf-8-sig")
+        output = open("E:\\PycharmProjects\\PZKL\\testsetNorm\\"+book+".txt","w",encoding="utf-8-sig")
         tokens = tokenizer.tokenize(booksTexts[book])
         normTokens = []
         for token in tokens:
@@ -245,12 +247,22 @@ def main():
                                 else:
                                     normTokensCor.append(token)
                             if len(normTokensCor) == 1:
-                                newNormTokens = [x if x != normTokensCor[0] else str(corefNum) + "FactEntity" for x in newNormTokens]
+                                corefEntity = corefNum + "FactEntity"
+                                newNormTokens = [x if x != normTokensCor[0] else corefEntity for x in newNormTokens]
+                                # if '111FactEntity' in newNormTokens:
+                                #     print("error")
                             else:
-                                normText = ' '.join(newNormTokens)
-                                normCor = ' '.join(normTokensCor)
-                                normText = normText.replace(normCor, str(corefNum) + "FactEntity")
-                                newNormTokens = tokenizer.tokenize(normText)
+                                #normText = ' '.join(newNormTokens)
+                                normText = ""
+                                for tok in newNormTokens:
+                                    normText += " "+tok
+                                normText = normText.strip()
+                                normCor = ' '.join(normTokensCor).strip()
+                                corefEntity = corefNum + "FactEntity"
+                                normText = normText.replace(" "+normCor+" ", " "+corefEntity+" ")
+                                newNormTokens = normText.split()
+                                # if '111FactEntity' in newNormTokens:
+                                #     print("error")
                 k += 1
         newTokens = newNormTokens
         prevToken = ""

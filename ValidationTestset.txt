@@ -1,0 +1,4 @@
+allFactsPatternsCount =  193
+allFactsRuFactEvalCount =  114
+trueFactsPatternsCount =  77
+0.39896373056994816 0.6754385964912281 0.501628664495114

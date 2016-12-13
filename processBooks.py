@@ -6,6 +6,7 @@ from nltk.tokenize import TweetTokenizer
 import re
 import json
 from collections import Counter
+import shutil
 
 def getTexts(dir):
     booksTexts = {}
@@ -135,10 +136,14 @@ def getPatterns(inputFile):
     return jsonDicts
 
 def main():
+    if os.path.exists("E:\\PycharmProjects\\PZKL\\devsetOutput"):
+        shutil.rmtree("E:\\PycharmProjects\\PZKL\\devsetOutput")
+    if not os.path.exists("E:\\PycharmProjects\\PZKL\\devsetOutput"):
+        os.makedirs("E:\\PycharmProjects\\PZKL\\devsetOutput", mode=0o777)
     books = {}
     books.update(getTexts('E:\\PycharmProjects\\PZKL\\devsetNorm'))
     patterns = {}
-    patterns.update(getPatterns('E:\\PycharmProjects\\PZKL\\testsetPatterns.txt'))
+    patterns.update(getPatterns('E:\\PycharmProjects\\PZKL\\testsetPatternNO.txt'))
     result = {}
     corefsFiles = {}
     corefsFiles.update(getCorefs('E:\\PycharmProjects\\PZKL\\devset'))
@@ -194,11 +199,14 @@ def main():
                         outputFileFacts.write(" |")
                 outputFileFacts.write("\n")
                 outputFileFacts.write("Participant obj"+partNum2)
-                for l,coref in enumerate(corefs[book][partNum2]["corf"]):
-                    outputFileFacts.write(" "+coref)
-                    if l != len(corefs[book][partNum2]["corf"])-1:
-                        outputFileFacts.write(" |")
-                outputFileFacts.write("\n\n")
+                try:
+                    for l,coref in enumerate(corefs[book][partNum2]["corf"]):
+                        outputFileFacts.write(" "+coref)
+                        if l != len(corefs[book][partNum2]["corf"])-1:
+                            outputFileFacts.write(" |")
+                    outputFileFacts.write("\n\n")
+                except Exception as e:
+                    print(book,res,e)
                 #.factinfo
                 outputFileFactsInfo.write(bookNum+"-"+str(ind+1)+" Deal\n")
                 partNum1 = parts["objects"][res]["first"].replace("FactEntity","")

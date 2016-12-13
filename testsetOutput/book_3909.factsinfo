@@ -1,0 +1,30 @@
+﻿3909-1 Deal
+Participant obj1831 производитель | производитель персональных компьютеров | Dell
+Participant obj1832 компания | EMC | EMC Corp
+ПОКУПАТЬ
+V
+
+3909-2 Deal
+Participant obj1832 компания | EMC | EMC Corp
+Participant obj1832 компания | EMC | EMC Corp
+ОБЪЯВИТЬ О ДОСТИЖЕНИЕ ПРИНЦИПИАЛЬНЫЙ ДОГОВОРЁННОСТЬ ПО УСЛОВИЕ ПОГЛОЩЕНИЕ ОДИН ИЗ МИРОВОЙ ЛИДЕР НА РЫНОК ХРАНЕНИЕ ДАТЬ
+V Pr N A N Pr N N A Pr A N Pr N N V
+
+3909-3 Deal
+Participant obj1832 компания | EMC | EMC Corp
+Participant obj1831 производитель | производитель персональных компьютеров | Dell
+НА БИРЖА В МИНУВШИЙ СРЕДА КОГДА ВПЕРВЫЕ СТАТЬ ИЗВЕСТНО О ВОЗМОЖНЫЙ СОГЛАШЕНИЕ С
+Pr N Pr A N Cn Av V Av Pr A N Pr
+
+3909-4 Deal
+Participant obj1834 США
+Participant obj1832 компания | EMC | EMC Corp
+ОБЪЯВИТЬ О ПОВЫШЕНИЕ ПРОЦЕНТНЫЙ СТАВКА КРОМЕ ТОТ ЭТОТ ЗАТРАТА ДОЛЖНЫЙ ЧАСТИЧНО ОКУПИТЬСЯ ЗА СЧЁТ СХЕМА ПРОВЕДЕНИЕ РАСЧЁТ С АКЦИОНЕР
+V Pr N A N Pr A A N A Av V Pr N N N N Pr N
+
+3909-5 Deal
+Participant obj1831 производитель | производитель персональных компьютеров | Dell
+Participant obj1832 компания | EMC | EMC Corp
+ГОТОВЫЙ ВЫКУПИТЬ АКЦИЯ ОПЕРАТОР ХРАНЕНИЕ ДАТЬ ЗА 33,15 ЗА ШТУКА ЭТО НА 27 ПРЕВЫШАТЬ КОТИРОВКА
+A V N N N V Pr W Pr N W Pr W V N
+

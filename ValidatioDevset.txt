@@ -1,0 +1,6 @@
+Start Validation
+allFactsPatternsCount =  48
+allFactsRuFactEvalCount =  30
+error book_455 0
+trueFactsPatternsCount =  19
+0.3958333333333333 0.6333333333333333 0.4871794871794872

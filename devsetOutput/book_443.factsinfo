@@ -1,29 +1,5 @@
 ﻿443-1 Deal
 Participant obj1179 станция | МКС
-Participant obj1179 станция | МКС
-И ДОЛЖНЫЙ БЫТЬ ИСПОЛЬЗОВАТЬ В КАЧЕСТВО СПАСАТЕЛЬНЫЙ КОРАБЛЬ В СЛУЧАЙ НЕПРЕДВИДЕННЫЙ ОБСТОЯТЕЛЬСТВО НА
-Cn A V V Pr N A N Pr N A N Pr
-
-443-2 Deal
-Participant obj1214 экипаж | экипаж МКС
-Participant obj1187 земля
-ШАТТЛ ПРИ СТАРТ 7 АСТРОНАВТ И ВОЗВРАЩАТЬСЯ НА
-N Pr N W N Cn V Pr
-
-443-3 Deal
-Participant obj1180 экспедиция | семнадцатая экспедиция МКС
-Participant obj1179 станция | МКС
-ИМЕТЬ НАДЁЖНЫЙ СПАСАТЕЛЬНЫЙ КОРАБЛЬ НА ШАТТЛ ДИСКАВЕРИ STS 124 НА
-V A A N Pr N N W W Pr
-
-443-4 Deal
-Participant obj1187 земля
-Participant obj1193 Роскосмос
-НА КОРАБЛЬ СОЮЗ ТМА 12 БЫТЬ БЕЗОПАСНЫЙ ГЛАВА
-Pr N N W W V A N
-
-443-5 Deal
-Participant obj1179 станция | МКС
 Participant obj1188 Сергей | Волков
 ОСТАТЬСЯ ДВА РОССИЙСКИЙ КОСМОНАВТ
 V Num A N

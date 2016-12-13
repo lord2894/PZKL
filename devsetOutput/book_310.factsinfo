@@ -1,36 +1,6 @@
 ﻿310-1 Deal
-Participant obj666 MySQL
-Participant obj662 компания | Oracle
-ЗАЯВИТЬ ЧТО ВЫСТУПАТЬ ПРОТИВ СДЕЛКА ПО СЛИЯНИЕ
-V Cn V Pr N Pr N
-
-310-2 Deal
-Participant obj662 компания | Oracle
-Participant obj664 Майкл | Видениус
-УЖЕ ЗАЯВИТЬ ЧТО НЕ ВЫЯВИТЬ В ЭТО ОБЪЕДИНЕНИЕ ПРОТИВОРЕЧИЕ
-Av V Cn W V Pr W N N
-
-310-3 Deal
-Participant obj664 Майкл | Видениус
-Participant obj669 министерство | министерство торговли | министерство торговли КНР
-ОБРАЩАТЬСЯ К ФАС И
-V Pr N Cn
-
-310-4 Deal
 Participant obj663 компания | Sun | Sun Microsystems
 Participant obj666 MySQL
 НАПОМНИТЬ ПРИОБРЕСТИ
 V V
-
-310-5 Deal
-Participant obj666 MySQL
-Participant obj666 MySQL
-ИЗНАЧАЛЬНО ТАКЖЕ ВЫСТУПАТЬ ПРОТИВ ЭТОТ СДЕЛКА ЗАЯВИТЬ ЧТО ОНА ЛИШИТЬ
-Av Cn V Pr A N V Cn Pn V
-
-310-6 Deal
-Participant obj666 MySQL
-Participant obj664 Майкл | Видениус
-ВОЗМОЖНОСТЬ РАЗВИВАТЬСЯ ОТ ЧТО СЕРЬЁЗНО ПОСТРАДАТЬ КЛИЕНТ ЭТОТ СИСТЕМА В КОНЕЦ ДЕКАБРЬ ОДНАКО ОНА ЗАКОНЧИТЬ СВОЙ РАССЛЕДОВАНИЕ ОБЪЕДИНЕНИЕ И ЗАЯВИТЬ ЧТО НЕ ВИДЕТЬ В ОН НИКАКОЙ ПРОТИВОРЕЧИЕ
-N V Pr Cn Av V N A N Pr N N Cn Pn V A N N Cn V Cn W V Pr Pn A N
 
