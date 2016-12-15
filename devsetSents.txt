@@ -1,420 +1,420 @@
-﻿КОГДА СТАТЬ ИЗВЕСТНО ЧТО 0FactEntity СДЕЛАТЬ ПРЕДЛОЖЕНИЕ 1FactEntity ПОСТУПИТЬ АНАЛОГИЧНЫЙ ОБРАЗ ПОСЛЕ ЭТОТ ВСТРЕЧА СЕЧИН РАССКАЗАТЬ ЖУРНАЛИСТ ЧТО 0FactEntity МОЧЬ ВЫКУПИТЬ ДОЛЯ BP В ТНК-ВР
-Cn V Av Cn 0FactEntity V N 1FactEntity V A N Pr A N N V N Cn 0FactEntity N V N W Pr N
-
-Я ОСОБЕННО ПРИЯТНО ОТМЕТИТЬ ТОТ ФАКТ ЧТО 0FactEntity ОСТАВАТЬСЯ ОДИН ИЗ КРУПНЫЙ ИНВЕСТОР В РОССИЙСКИЙ ЭКОНОМИКА ПРИЗНАВАТЬ ТЕМ САМЫЙ ПОТЕНЦИАЛ РОСНЕФТЬ И НЕФТЕГАЗОВЫЙ СЕКТОР 1FactEntity
-Pn Av Av V A N Cn 0FactEntity V A Pr A N Pr A N V Cn A N N Cn A N 1FactEntity
-
-0FactEntity ИНВЕСТИРОВАТЬ 15 МИЛЛИОН ДОЛЛАР В АМЕРИКАНСКИЙ 0FactEntity 1FactEntity КОТОРЫЙ ПРИНАДЛЕЖАТЬ ПОИСКОВЫЙ СИСТЕМА 1FactEntity.COM
-0FactEntity V W N N Pr A 0FactEntity 1FactEntity A V A N 1FactEntity.COM
-
-0FactEntity ПО НЕКОТОРЫЕ ПОКАЗАТЕЛЬ КРУПНЫЙ 0FactEntity МИР ПОДПИСАТЬ СОГЛАШЕНИЕ О ПОКУПКА КОНТРОЛЬНЫЙ ДОЛЯ В 1FactEntity УПРАВЛЯТЬ 13 Ю ФИЛИАЛ В КАЛИФОРНИЯ И НЬЮ-ЙОРК
-0FactEntity Pr A N A 0FactEntity N V N Pr N A N Pr 1FactEntity V W N N Pr N Cn N
-
-YAHOO ПОКУПАТЬ 1FactEntity ЗА МИЛЛИАРД ДОЛЛАР В ПОНЕДЕЛЬНИК ПРЕЗИДЕНТ И ГЛАВНЫЙ ИСПОЛНИТЕЛЬНЫЙ ДИРЕКТОР YAHOO МАРИСС МАЙЕР ОБЪЯВИТЬ О ПОКУПКА В МИКРОБЛОГ 0FactEntity НА 1FactEntity
-W V 1FactEntity Pr N N Pr N N Cn A A N W N N V Pr N Pr N 0FactEntity Pr 1FactEntity
-
-ОДИН КОМПАНИЯ ПОЛУЧИТЬ СОВМЕСТНЫЙ ПОДДЕРЖКА 0FactEntity И 1FactEntity ОБЩИЙ ОБЪЁМ 3 МИЛЛИОН РУБЛЬ СТАТЬ 2FactEntity
-A N V A N 0FactEntity Cn 1FactEntity A N W N N V 2FactEntity
-
-В ФЕВРАЛЬ ЭТО ГОД 0FactEntity НЕ СМОЧЬ ВОВРЕМЯ ПРОВЕСТИ ПЛАТЁЖ ПО КРЕДИТ 1FactEntity СООБЩИТЬ РБК ПРЕДСТАВИТЕЛЬ ОБЛАСТНОЙ ДЕПАРТАМЕНТ ФИНАНСЫ
-Pr N W N 0FactEntity W V Av V N Pr N 1FactEntity V N N A N N
-
-НА ДАННЫЙ МОМЕНТ 1FactEntity НАХОДИТЬСЯ ПОД ЭКОНОМИЧЕСКИЙ САНКЦИЯ США ЕС НОРВЕГИЯ ЯПОНИЯ АВСТРАЛИЯ И 0FactEntity
-Pr A N 1FactEntity V Pr A N N N N N N Cn 0FactEntity
-
-0FactEntity КУПИТЬ NYSE В 2011 ГОД 0FactEntity СОВМЕСТНО С 1FactEntity ПРЕДЛАГАТЬ ЗА ОНА 11 МИЛЛИАРД ДОЛЛАР США ПЛАНИРОВАТЬ В ДАЛЬНЕЙШИЙ РАЗДЕЛИТЬ АКТИВ 1FactEntity ДОСТАТЬСЯ БЫ ТОРГОВЛЯ АКЦИЯ А 0FactEntity ДЕРИВАТИВ
-0FactEntity V W Pr W N 0FactEntity Av Pr 1FactEntity V Pr Pn W N N N V Pr A V N 1FactEntity V W N N Cn 0FactEntity N
-
-ОТМЕТИТЬ ТАКЖЕ ЧТО МЕЖДУ 1FactEntity И ПЕРВОЕ КАНАЛ УЖЕ ЗАКЛЮЧИТЬ ДОГОВОР НА ПРИОБРЕТЕНИЕ ПРАВО НА РЕТРАНСЛЯЦИЯ ТАКОЙ ПОПУЛЯРНЫЙ ПРОГРАММА КАК ПРОЖЕКТОРПЕРИСХИЛТОН И БОЛЬШОЙ РАЗНИЦА
-V Cn Cn Pr 1FactEntity Cn N N Av V N Pr N N Pr N A A N Cn N Cn A N
-
-0FactEntity ВЕСТИ ПЕРЕГОВОРЫ С 1FactEntity О ПОСТАВКА СМАРТФОН НА РОССИЙСКИЙ РЫНОК СООБЩИТЬ ПРЕСС-СЕКРЕТАРЬ 1FactEntity АЛИЙ БЕКЕТОВ
-0FactEntity V N Pr 1FactEntity Pr N N Pr A N V N 1FactEntity N N
-
-В ФЕВРАЛЬ 2011 ГОД 1FactEntity ДОГОВАРИВАТЬСЯ О СЛИЯНИЕ С ФРАНКФУРТСКИЙ DEUTSCHE BORSE В РАМКА СДЕЛКА НА 9,5 МИЛЛИАРД ДОЛЛАР США
-Pr N W N 1FactEntity V Pr N Pr A W W Pr N N Pr W N N N
-
-ЗА ПОСЛЕДНИЙ ГОД АКТИВ 0FactEntity В ГАЗОВЫЙ ОТРАСЛЬ ЗНАЧИТЕЛЬНО УВЕЛИЧИТЬСЯ ЗА СЧЁТ ПРИОБРЕТЕНИЕ КОНТРОЛЬНЫЙ ПАКЕТ В ИТЕР И 100 1FactEntity
-Pr A N N 0FactEntity Pr A N Av V Pr N N A N Pr V Cn W 1FactEntity
-
-ОДИН КОНТРАКТ БЫТЬ ПОДПИСАТЬ С ЧЕМПИОН МИР 2FactEntity ВЕСЕЛИН ТОПАЛОВ ДВА С КЛАССИЧЕСКИЙ ЧЕМПИОН МИР 1FactEntity ПРЕЗИДЕНТ 2FactEntity 0FactEntity СООБЩИТЬ ЧТО ОН ПОДПИСАТЬ ТРИ ВАЖНЫЙ КОНТРАКТ
-A N V V Pr N N 2FactEntity N N Num Pr A N N 1FactEntity N 2FactEntity 0FactEntity V Cn Pn V Num A N
-
-0FactEntity ГОТОВЫЙ ПРИОБРЕСТИ 10 1FactEntity АНДРЕЙ ТЕРНОВСКИЙ
-0FactEntity A V W 1FactEntity N A
+﻿В ДЕКАБРЬ КОМИССИЯ ЕВРОПЕЙСКИЙ СОЮЗ ПРИГРОЗИТЬ НАЛОЖИТЬ ШТРАФ В РАЗМЕР 2 МИЛЛИОН ДОЛЛАР В СУТКИ НА 0FactEntity ЕСЛИ НЕ БЫТЬ РАСКРЫТЫЙ КОД ИНТЕРФЕЙС К ОПЕРАЦИОННЫЙ СИСТЕМА WINDOWS
+Pr N N A N V V N Pr N W N N Pr N Pr 0FactEntity Cn W V A N N Pr A N W
 
 КРУПНЫЙ 0FactEntity РОССИЯ 0FactEntity ПОДКОНТРОЛЬНЫЙ СОВЛАДЕЛЕЦ БАНКА РОССИЯ ЮРИЙ КОВАЛЬЧУК ВОЙТИ В СОСТАВ АКЦИОНЕР ЛЮКСЕМБУРГСКИЙ 0FactEntity 1FactEntity КОТОРЫЙ ПЕРЕДАТЬ 0FactEntity 30 АКЦИЯ 0FactEntity 2FactEntity
 A 0FactEntity N 0FactEntity A N N N N N V Pr N N A 0FactEntity 1FactEntity A V 0FactEntity W N 0FactEntity 2FactEntity
 
-В РАМКА ПАРТНЕРСТВО 1FactEntity И 0FactEntity БЫТЬ ДЕЛИТЬ ДОХОД ОТ ПОКАЗ РЕКЛАМА В РОЛИК ТЕЛЕ 0FactEntity В 1FactEntity
-Pr N N 1FactEntity Cn 0FactEntity V V N Pr N N Pr N N 0FactEntity Pr 1FactEntity
-
-0FactEntity ПОКУПАТЬ 1FactEntity ЗА 67 МИЛЛИАРД
-0FactEntity V 1FactEntity Pr W N
-
-В ДЕКАБРЬ КОМИССИЯ ЕВРОПЕЙСКИЙ СОЮЗ ПРИГРОЗИТЬ НАЛОЖИТЬ ШТРАФ В РАЗМЕР 2 МИЛЛИОН ДОЛЛАР В СУТКИ НА 0FactEntity ЕСЛИ НЕ БЫТЬ РАСКРЫТЫЙ КОД ИНТЕРФЕЙС К ОПЕРАЦИОННЫЙ СИСТЕМА WINDOWS
-Pr N N A N V V N Pr N W N N Pr N Pr 0FactEntity Cn W V A N N Pr A N W
-
-В РАМКА СДЕЛКА ВР СДЕЛАТЬ ПРЕДЛОЖЕНИЕ О ВЫКУП ДОПОЛНИТЕЛЬНЫЙ 600 МИЛЛИОН АКЦИЯ 1FactEntity СОСТАВЛЯТЬ ДОЛЯ В 5,66 В 1FactEntity У ОНА МАТЕРИНСКИЙ 0FactEntity ПО ЦЕНА 8,00 ДОЛЛАР США ЗА АКЦИЯ
-Pr N N N V N Pr N A W N N 1FactEntity V N Pr W Pr 1FactEntity Pr Pn A 0FactEntity Pr N W N N Pr N
-
-РАНЕЕ СООБЩАТЬСЯ ЧТО ПРОИЗВОДИТЕЛЬ ДОКУМЕНТАЛЬНЫЙ ФИЛЬМ О ПЕСНЯ HAPPY BIRTHDAY 0FactEntity РЕШИТЬ ОБРАТИТЬСЯ В СУД ПОСЛЕ ТОТ КАК ПОД УГРОЗА КРУПНЫЙ ШТРАФ БЫТЬ ВЫНУДИТЬ ЗАПЛАТИТЬ 1,5 ТЫСЯЧА ДОЛЛАР ЗА ИСПОЛЬЗОВАНИЕ ПЕСНЬ ПО МНЕНИЕ ИСТЕЦ В ДЕЙСТВИТЕЛЬНОСТЬ 1FactEntity ОБЛАДАТЬ ПРАВО ЛИШЬ НА ФОРТЕПИАННЫЙ АРАНЖИРОВКА ПЕСНЬ КОТОРЫЙ БЫТЬ СОЗДАТЬ В 1935 ГОД И НЕ ИМЕТЬ ПРАВО ВЗИМАТЬ ЛИЦЕНЗИОННЫЙ ГОНОРАР ЗА ИСПОЛЬЗОВАНИЕ ОНА ТЕКСТ ИЛИ МЕЛОДИЯ
-Av V Cn N A N Pr N W W 0FactEntity V V Pr N Pr A Cn Pr N A N V V V W N N Pr N N Pr N N Pr N 1FactEntity V N W Pr A N N A V V Pr W N Cn W V N V A N Pr N Pn N Cn N
-
-17 АПРЕЛЬ 2013 ГОД 0FactEntity КОТОРЫЙ УПРАВЛЯТЬ ИЛЬЯ ЩЕРБОВИЧ ВЫКУПИТЬ У 2FactEntity 1FactEntity И ЛЕВ ЛЕВИЕВА 48 АКЦИЯ СОЦ 3FactEntity В КОНТАКТ БЫТЬ ЗАРЕГИСТРИРОВАТЬ 19 ЯНВАРЬ 2007 ГОД И ОН УЧРЕДИТЕЛЬ СТАТЬ 2FactEntity 1FactEntity 60 И ОН ОТЕЦ ПРЕДПРИНИМАТЕЛЬ 1FactEntity 10 ПАВЕЛ ДУРОВ 20 И ЛЕВЫЙ ЛЕВАЕВ 10
-W N W N 0FactEntity A V N N V Pr 2FactEntity 1FactEntity Cn A N W N W 3FactEntity Pr N V V W N W N Cn Pn N V 2FactEntity 1FactEntity W Cn Pn N N 1FactEntity W N N W Cn A N W
-
-УГРОЗА НАД 0FactEntity НАВИСЛЫЙ ИЗ-ЗА КОНФЛИКТ МЕЖДУ РУКОВОДСТВО МОДНЫЙ 0FactEntity И 1FactEntity ПОСЛЕДНИЙ ОБВИНЯТЬ 0FactEntity В ПРОСРОЧКА ПОГАШЕНИЕ ВЕКСЕЛЬ НА СУММА ОКОЛО 20 МИЛЛИОН РУБЛЬ
-N Pr 0FactEntity A Pr N Pr N A 0FactEntity Cn 1FactEntity A V 0FactEntity Pr N N N Pr N Pr W N N
-
-ПО ДАННЫЕ ИНТЕРНЕТОМ-ИЗДАНИЕ TECHCRUNCH В МАРТ ЭТО ГОД 0FactEntity ТАКЖЕ ПРИКУПИТЬ АКЦИЯ 1FactEntity ПОТРАТИТЬ НА ПРИОБРЕТЕНИЕ 0,7 90 МИЛЛИОН ДОЛЛАР
-Pr Pa N W Pr N W N 0FactEntity Cn V N 1FactEntity V Pr N W W N N
-
-НА ДАННЫЙ МОМЕНТ 1FactEntity НАХОДИТЬСЯ ПОД ЭКОНОМИЧЕСКИЙ САНКЦИЯ 0FactEntity ЕС НОРВЕГИЯ ЯПОНИЯ АВСТРАЛИЯ И КАНАДА
-Pr A N 1FactEntity V Pr A N 0FactEntity N N N N Cn N
-
-ИЗВЕСТНО ЧТО 0FactEntity ХОТЕТЬ ИЗБАВИТЬСЯ ОТ РОССИЙСКИЙ РАДИОСТАНЦИЯ ЕЩЁ 2 ГОД НАЗАД ТОГДА И СТАТЬ ПОДЫСКИВАТЬ ПОКУПАТЕЛЬ АКТИВ В СВОЙ ВРЕМЯ БЫТЬ ПРЕДЛОЖИТЬ И 1FactEntity ПРОФ-МЕДИА ВЛАДИМИР ПОТАНИН И 1FactEntity АЛИШЕР УСМАНОВ А АЛЬФА-ГРУППА МИХАИЛ ФРИДМАН
-Av Cn 0FactEntity V V Pr A N Av W N Av Av Cn V V N N Pr A N V V Cn 1FactEntity N N N Cn 1FactEntity N N Cn N N N
-
-0FactEntity УСТУПИТЬ 2FactEntity КОНТРОЛЬ НАД 2FactEntity ВОЗВРАЩАТЬСЯ К 1FactEntity ПО СООБЩЕНИЕ ГАЗЕТА ВЕДОМОСТЬ 4 ЯНВАРЬ 100 АКЦИЯ 2FactEntity ПРИНАДЛЕЖАТЬ СТРУКТУРА 0FactEntity БЫТЬ ПРОДАТЬ СТРУКТУРА ДРУГОЙ ПРЕДПРИНИМАТЕЛЬ 1FactEntity В СВОЙ ВРЕМЯ СОЗДАТЬ 2FactEntity И КОНТРОЛИРОВАТЬ ЕЁ ДО ЛЕТО 2007 ГОД
-0FactEntity V 2FactEntity N Pr 2FactEntity V Pr 1FactEntity Pr N N N W N W N 2FactEntity V N 0FactEntity V V N A N 1FactEntity Pr A N V 2FactEntity Cn V A Pr N W N
-
-В ЭТО ГОД ПРЕМЬЕР-МИНИСТР 0FactEntity ПРЕДПОЛАГАТЬ ДОСРОЧНО ВЫПЛАТИТЬ 1FactEntity ЕЩЁ 12 МИЛЛИАРД ДОЛЛАР
-Pr W N N 0FactEntity V Av V 1FactEntity Av W N N
-
 0FactEntityORATION АМЕРИКАНСКИЙ МЕДИАМАГНАТ РУПЕРТ МЁРДОК ПРОДАТЬ 100 РАДИОСТАНЦИЯ 2FactEntity 3FactEntity 4FactEntity И 5FactEntity РОССИЙСКИЙ СЕНАТОР И ХОЗЯИН ЕЩЁ ДВА РАДИОСТАНЦИЯ МОЙ СЕМЬЯ И 95,2 FM 1FactEntity
 0FactEntityORATION A N N N V W N 2FactEntity 3FactEntity 4FactEntity Cn 5FactEntity A N Cn N Av Num N A N Cn W W 1FactEntity
-
-ЭКОНОМИКА 0FactEntity ПЛАНИРОВАТЬСЯ УЛУЧШИТЬ ЗА СЧЁТ ПОВЫШЕНИЕ ЗАКУПОЧНЫЙ ЦЕНА ДЛЯ ПИКАЛЕВСКИЙ СОДА И 1FactEntity
-N 0FactEntity V V Pr N N A N Pr A N Cn 1FactEntity
-
-1FactEntity МОЧЬ ПРЕКРАТИТЬ СВОЙ РАБОТА ИЗ-ЗА ОСТАНОВКА ПОСТАВКА ГАЗА НА 1FactEntity О ЭТО СООБЩАТЬ ВЕДОМОСТЬ ССЫЛАТЬСЯ НА ПИСЬМО ИЗ 0FactEntity
-1FactEntity N V A N Pr N N N Pr 1FactEntity Pr W V N V Pr N Pr 0FactEntity
-
-РУКОВОДСТВО 0FactEntity УЖЕ СООБЩИТЬ О СВОЙ БЕСПОВОРОТНЫЙ РЕШЕНИЕ НЕ ПРОДЛЕВАТЬ ДАЛЕЕ КОНТРАКТ С 1FactEntity ЯВЛЯТЬСЯ ВЛАДЕЛЕЦ БРЕНД 2FactEntity
-N 0FactEntity Av V Pr A A N W V Av N Pr 1FactEntity V N N 2FactEntity
-
-0FactEntity СТАТЬ ВЛАДЕЛЕЦ 1FactEntity В 2009 ГОД
-0FactEntity V N 1FactEntity Pr W N
-
-ЖУРД СООБЩАТЬ ЧТО 0FactEntity ПРОДАТЬ СВОЙ ДОЛЯ СТРУКТУРА ПОЛИТТЕХНОЛОГ 1FactEntity
-N V Cn 0FactEntity V A N N N 1FactEntity
-
-0FactEntity КОНСТАТИРОВАТЬ ЧТО МТС 1FactEntity И МЕГАФОН УСТАНОВИТЬ МОНОПОЛЬНО ВЫСОКИЙ ЦЕНА НА РОУМИНГ НА ТЕРРИТОРИЯ РОССИЯ И В СНГ КРОМЕ ТОТ ГЛАВА МИНСВЯЗИ ОТМЕТИТЬ ЧТО РАСЦЕНКА НА УСЛУГА РОУМИНГ ПРЕДОСТАВЛЯТЬ РОССИЙСКИЙ ОПЕРАТОР ДОЛЖНЫЙ СНИЗИТЬСЯ ПОСЛЕ ТОТ КАК 0FactEntity НАЛОЖИТЬ НА ОНИ ШТРАФ ЗА МОНОПОЛЬНО ВЫСОКИЙ ЦЕНА
-0FactEntity V Cn N 1FactEntity Cn N V Av A N Pr N Pr N N Cn Pr N Pr A N N V Cn N Pr N N V A N A V Pr A Cn 0FactEntity V Pr Pn N Pr Av A N
-
-В 1FactEntity ТАКЖЕ ВЛОЖИТЬСЯ ТАКОЙ 1FactEntity КАК U S VENTURE PARTNER CMEA CAPITAL И PIVOTNORTH CAPITAL
-Pr 1FactEntity Cn V A 1FactEntity Cn W W W W W W Cn W W
-
-0FactEntity ТАКЖЕ СОГЛАСОВАТЬ ОСНОВНОЙ УСЛОВИЕ СДЕЛКА C 1FactEntity АЛЬФА-ГРУППА ACCESS INDUSTRY И ГРУППА КОМПАНИЯ РЕНОВЫЙ О ПРИОБРЕТЕНИЕ ОСТАТЬСЯ 50 ДОЛЯ 1FactEntity В Т0FactEntity - ВР ЗА ДЕНЕЖНЫЙ СРЕДСТВО В РАЗМЕР 28,0 МИЛЛИАРД ДОЛЛАР США ПРИ УСЛОВИЕ ДОСТИЖЕНИЕ ДОГОВОРЁННОСТЬ ПО ОБЯЗЫВАТЬ ДОКУМЕНТ ПОЛУЧЕНИЕ КОРПОРАТИВНЫЙ И РЕГУЛЯТОРНЫЙ ОДОБРЕНИЕ И ВЫПОЛНЕНИЕ НЕКОТОРЫЙ ДРУГОЙ УСЛОВИЕ
-0FactEntity Cn V A N N W 1FactEntity N W W Cn N N A Pr N V W N 1FactEntity Pr Т0FactEntity W N Pr A N Pr N W N N N Pr N N N Pr V N N A Cn A N Cn N A A N
-
-КОНТРАКТ БЫТЬ В 1961 ГОД ЗАКЛЮЧИТЬ МЕЖДУ 0FactEntity И ГЕРМАНСКИЙ ПРОДЮСЕР БЕРТ КЕМПФЕРТ ПРЕДСТАВЛЯТЬ 1FactEntity
-N V Pr W N V Pr 0FactEntity Cn A N N N V 1FactEntity
-
-БЫТЬ КРУПНЫЙ В МИР ЭКСПОРТЁР НЕФТЬ 0FactEntity ПЛАНИРОВАТЬ ОТПРАВЛЯТЬ КРУПНЫЙ ПОТРЕБИТЕЛЬ ЭНЕРГОНОСИТЕЛЬ 1FactEntity БОЛЕЕ 300 ТЫСЯЧА БАРРЕЛЬ В ДЕНЬ
-V A Pr N N N 0FactEntity V V A N N 1FactEntity Av W N N Pr N
-
-0FactEntity НАПОМНИТЬ ПРИОБРЕСТИ 1FactEntity ЗА 1 МИЛЛИАРД ДОЛЛАР В 2008 ГОД
-0FactEntity V V 1FactEntity Pr W N N Pr W N
-
-ПО СЛУХ ЗАИНТЕРЕСОВАННОСТЬ В ИНВЕСТИЦИЯ В 1FactEntity УЖЕ ПРОЯВИТЬ GOOGLE 0FactEntity SKYPE UNION SQUARE VENTURE И ДРУГОЙ
-Pr N N Pr N Pr 1FactEntity Av V W 0FactEntity W W W W Cn A
-
-0FactEntity ЗАПРЕТИТЬ ВВОЗИТЬ ОВОЩ И ФРУКТ ИЗ 1FactEntity
-0FactEntity V V N Cn N Pr 1FactEntity
-
-ТАКОЙ ЖЕ УВЕДОМЛЕНИЕ 0FactEntity ПОЛУЧИТЬ ОТ 1FactEntity О КОРРЕКТИРОВКА ОБЪЁМ И СТОИМОСТЬ ПРОДУКЦИЯ СООБЩИТЬ В ПИСЬМО СВОЙ КЛИЕНТ И ООО ФРУТА СЕРВИС ПОСТАВЛЯТЬ ПЛОДООВОЩНОЙ ПРОДУКЦИЯ
-A W N 0FactEntity V Pr 1FactEntity Pr N N Cn N N V Pr N A N Cn N N N V A N
-
-ОТНОШЕНИЕ 1FactEntity И ЮЖНЫЙ КОРЕЯ РЕЗКО ОБОСТРИТЬСЯ В КОНЕЦ 2012 ГОД ПОСЛЕ ТОТ КАК ПХЕНЬЯН ЗАПУСТИТЬ БАЛЛИСТИЧЕСКИЙ РАКЕТА ЧТО ПОВЛЕЧЬ ЗА СЕБЯ УЖЕСТОЧЕНИЕ САНКЦИЯ 0FactEntity ПРОТИВ 1FactEntity
-N 1FactEntity Cn A N Av V Pr N W N Pr A Cn N V A N Cn V Pr Pn N N 0FactEntity Pr 1FactEntity
-
-1FactEntity НАЧАТЬ ПРИЁМ ЗАЯВКА НА РЕГИСТРАЦИЯ ДОМЕННЫЙ ИМЯ В КИРИЛЛИЧЕСКИЙ ЗОНА РФ И ПЕРВОЕ ЗАЯВЛЕНИЕ ПОСТУПИТЬ ОТ 0FactEntity КРЕМЛЬ НА ИМЯ КРЕМЛЬ РФ ВСЕГО В РЕГИСТРАЦИОННЫЙ ЦЕНТР ПОСТУПИТЬ ОКОЛО ДЕСЯТКА ЗАЯВКА В ТОТ ЧИСЛО НА ИМЯ ЕКАТЕРИНБУРГ РФ И ЕКБУРГ РФ ОНИ ПОДАТЬ 0FactEntity
-1FactEntity V N N Pr N A N Pr A N N Cn N N V Pr 0FactEntity N Pr N N N Av Pr A N V Pr N N Pr A N Pr N N N Cn N N Pn V 0FactEntity
-
-НА ДАННЫЙ МОМЕНТ 1FactEntity НАХОДИТЬСЯ ПОД ЭКОНОМИЧЕСКИЙ САНКЦИЯ США ЕС 0FactEntity ЯПОНИЯ АВСТРАЛИЯ И КАНАДА
-Pr A N 1FactEntity V Pr A N N N 0FactEntity N N Cn N
-
-КОГДА СТАТЬ ИЗВЕСТНО ЧТО РОСНЕФТЬ СДЕЛАТЬ ПРЕДЛОЖЕНИЕ 0FactEntity ПОСТУПИТЬ АНАЛОГИЧНЫЙ ОБРАЗ РОСНЕФТЬ ОБРАЩАТЬСЯ К 1FactEntity С ПРЕДЛОЖЕНИЕ О ПРОДАЖА ЕЁ ДОЛЯ В ТНК - 1FactEntity ЕЩЁ ЛЕТОМ 2012 ГОД
-Cn V Av Cn N V N 0FactEntity V A N N V Pr 1FactEntity Pr N Pr N A N Pr W W 1FactEntity Av Av W N
-
-КАНЦЛЕР ТАКЖЕ ЗАЯВИТЬ ЧТО 0FactEntity НЕ НАМЕРИТЬ НАРАЩИВАТЬ БЮДЖЕТ 1FactEntity НЕСМОТРЯ НА ПЛАН НАТО СОЗДАТЬ НОВОЕ СИЛА БЫСТРЫЙ РЕАГИРОВАНИЕ
-N Cn V Cn 0FactEntity W V V N 1FactEntity Pr Pr N N V N N A N
-
-1FactEntity ВСЕРЬЁЗ ЗАИНТЕРЕСОВАТЬ В НАЛАЖИВАНИЕ ПАРТНЁРСТВО С 0FactEntity И ДАЖЕ ПОДАТЬ ЗАЯВКА НА УЧАСТИЕ В 0FactEntity 1FactEntity ПОДАТЬ ЗАЯВКА НА СОТРУДНИЧЕСТВО С 0FactEntity
-1FactEntity Av V Pr N N Pr 0FactEntity Cn W V N Pr N Pr 0FactEntity 1FactEntity V N Pr N Pr 0FactEntity
-
-ИЗВЕСТНО ЧТО 0FactEntity ХОТЕТЬ ИЗБАВИТЬСЯ ОТ РОССИЙСКИЙ РАДИОСТАНЦИЯ ЕЩЁ 2 ГОД НАЗАД ТОГДА И СТАТЬ ПОДЫСКИВАТЬ ПОКУПАТЕЛЬ АКТИВ В СВОЙ ВРЕМЯ БЫТЬ ПРЕДЛОЖИТЬ И 1FactEntity ВЛАДИМИР ПОТАНИН И АФ МЕДИА 1FactEntity АЛИШЕР УСМАНОВ А АЛЬФА-ГРУППА МИХАИЛ ФРИДМАН
-Av Cn 0FactEntity V V Pr A N Av W N Av Av Cn V V N N Pr A N V V Cn 1FactEntity N N Cn Int N 1FactEntity N N Cn N N N
-
-0FactEntity ЗАВЕРШИТЬ СДЕЛКА ПО ПОКУПКА 100 АКЦИЯ 1FactEntity ДОЛЯ 2FactEntity 0FactEntity ВЫКУПИТЬ ЗА 27,73 МИЛЛИАРД ДОЛЛАР США
-0FactEntity V N Pr N W N 1FactEntity N 2FactEntity 0FactEntity V Pr W N N N
-
-ЗАПАД ПООБЕЩАТЬ 1FactEntity САНКЦИЯ ЗА КРУШЕНИЕ MH17 В ЧАСТНОСТЬ РЕЧЬ МОЧЬ ИДТИ О ПРИСОЕДИНЕНИЕ 0FactEntity К СПЕКТРАЛЬНЫЙ САНКЦИЯ ПРОТИВ ЦЕЛОЕ РЯД КРУПНЫЙ РОССИЙСКИЙ КОМПАНИЯ КОТОРЫЙ УЖЕ ВВЕСТИ США
-N V 1FactEntity N Pr N W Pr N N N V Pr N 0FactEntity Pr A N Pr N N A A N A Av V N
-
-НА ДАННЫЙ МОМЕНТ 1FactEntity НАХОДИТЬСЯ ПОД ЭКОНОМИЧЕСКИЙ САНКЦИЯ США ЕС НОРВЕГИЯ ЯПОНИЯ 0FactEntity И КАНАДА
-Pr A N 1FactEntity V Pr A N N N N N 0FactEntity Cn N
-
-В ИЮНЬ ИСТЕКАТЬ СРОК САНКЦИЯ 0FactEntity ПРОТИВ РФ
-Pr N V N N 0FactEntity Pr N
-
-ЧЕРНОГОРИЯ ПРИСОЕДИНИТЬСЯ К САНКЦИЯ 0FactEntity ПРОТИВ 1FactEntity ВВ0FactEntityТИ В СВЯЗЬ С УКРАИНСКИЙ КРИЗИС ЧТОБЫ КАК МОЖНО СКОРЕЕ ВСТУПИТЬ В 0FactEntity И НАТО ЗАЯВИТЬ ПРЕЗИДЕНТ СТРАНА ФИЛИП ВУЯН
-N V Pr N 0FactEntity Pr 1FactEntity ВВ0FactEntityТИ Pr N Pr A N Cn Cn Av Cn V Pr 0FactEntity Cn N V N N N Pa
-
-В СЕРЕДИНА ЯНВАРЬ 2013 ГОД ПОЯВИТЬСЯ СООБЩЕНИЕ ЧТО В ПОКУПКА БИЗНЕС TELE 2 В РОССИЯ ЗАИНТЕРЕСОВАТЬ 0FactEntity НА 82 ПРИНАДЛЕЖАЩИЙ АЛИШЕР УСМАНОВ
-Pr N N W N V N Cn Pr N N W W Pr N V 0FactEntity Pr W A N N
-
-ПОСЛЕ СМЕРТЬ ПО ЗАВЕЩАНИЕ ОНА ПЕРЕЙТИ В СОБСТВЕННОСТЬ ОБНАЖЁННЫЙ НИКОЛАЙ ФЕШИНА ДРУГОЙ ВАЖНЫЙ ЛОТ ВЕЧЕРНИЙ ТОРГ SOTHEBYS
-Pr N Pr N Pn V Pr N A N N A A N A N W
-
-1FactEntity БЫТЬ ОТРЕЗАТЬ ОТ ВСЕМИРНЫЙ ПАУТИНА КАБЕЛЬНЫЙ ТЕЛЕКОММУНИКАЦИЯ В РЕЗУЛЬТАТ НАЛОЖИТЬ ВАШИНГТОН ЭМБАРГО НА ТОРГОВЛЯ С КОММУНИСТИЧЕСКИЙ ГОСУДАРСТВО
-1FactEntity V V Pr A N A N Pr N V N N Pr N Pr A N
-
-0FactEntity ВПЕРВЫЕ ПРИОБРЕСТИ АКЦИЯ 1FactEntity В МАЙ 2009 ГОД
-0FactEntity Av V N 1FactEntity Pr N W N
-
-0FactEntity ЗАВЕРШИТЬ СДЕЛКА ПО ПОКУПКА 100 АКЦИЯ 1FactEntity
-0FactEntity V N Pr N W N 1FactEntity
-
-0FactEntity ОБЪЯВИТЬ О ЗАКЛЮЧЕНИЕ СОГЛАШЕНИЕ С 1FactEntity О ПРОДАЖА СВОЙ 50 ПРОЦЕНТНЫЙ ДОЛЯ В 2FactEntity ЗА 469 МИЛЛИОН КОТОРЫЙ БЫТЬ ВЫПЛАТИТЬ НАЛИЧНЫЙ
-0FactEntity V Pr N N Pr 1FactEntity Pr N A W A N Pr 2FactEntity Pr W N A V V A
-
-0FactEntity ВВЕСТИ САНКЦИЯ ПРОТИВ 1FactEntity РАДИ ВСТУПЛЕНИЕ В ЕС 0FactEntity ПРИСОЕДИНИТЬСЯ К САНКЦИЯ ЕВРОСОЮЗ ПРОТИВ 1FactEntity ВВЕСТИ В СВЯЗЬ С УКРАИНСКИЙ КРИЗИС ЧТОБЫ КАК МОЖНО СКОРЕЕ ВСТУПИТЬ В ЕС И НАТО ЗАЯВИТЬ ПРЕЗИДЕНТ СТРАНА ФИЛИП ВУЯН
-0FactEntity V N Pr 1FactEntity Pr N Pr N 0FactEntity V Pr N N Pr 1FactEntity V Pr N Pr A N Cn Cn Av Cn V Pr N Cn N V N N N Pa
-
-ОДИН КОНТРАКТ БЫТЬ ПОДПИСАТЬ С ЧЕМПИОН МИР 2FactEntity ВЕСЕЛИН 1FactEntity ДВА С КЛАССИЧЕСКИЙ ЧЕМПИОН МИР ВЛАДИМИР КРАМНИК ПРЕЗИДЕНТ 2FactEntity 0FactEntity СООБЩИТЬ ЧТО ОН ПОДПИСАТЬ ТРИ ВАЖНЫЙ КОНТРАКТ
-A N V V Pr N N 2FactEntity N 1FactEntity Num Pr A N N N N N 2FactEntity 0FactEntity V Cn Pn V Num A N
-
-В МАЙ ЭТО ГОД СООБЩАТЬСЯ ЧТО ФЕДЕРАЛЬНЫЙ ЗАКОН ПРЕДУСМОТРЕТЬ ПРЕДОСТАВЛЕНИЕ В 2013 ГОД ГОСУДАРСТВЕННЫЙ ГАРАНТИЯ 0FactEntity ОАО КИНОСТУДИЯ 1FactEntity В ОБЪЁМ 1,53 МИЛЛИАРД РУБЛЬ
-Pr N W N V Cn A N V N Pr W N A N 0FactEntity N N 1FactEntity Pr N W N N
-
-0FactEntity И 1FactEntity ДОГОВОРИТЬСЯ О ПЕРЕСМОТР ГАЗОВЫЙ СОГЛАШЕНИЕ 2009 ГОД И РЕСТРУКТУРИЗАЦИЯ 2FactEntity
-0FactEntity Cn 1FactEntity V Pr N A N W N Cn N 2FactEntity
-
-ПО СЛУХ ЗАИНТЕРЕСОВАННОСТЬ В ИНВЕСТИЦИЯ В 1FactEntity УЖЕ ПРОЯВИТЬ 0FactEntity ЯНДЕКС SKYPE UNION SQUARE VENTURE И ДРУГОЙ
-Pr N N Pr N Pr 1FactEntity Av V 0FactEntity N W W W W Cn A
-
-0FactEntity КОНСТАТИРОВАТЬ ЧТО МТС ВЫМПЕЛКОМ И 1FactEntity УСТАНОВИТЬ МОНОПОЛЬНО ВЫСОКИЙ ЦЕНА НА РОУМИНГ НА ТЕРРИТОРИЯ РОССИЯ И В СНГ КРОМЕ ТОТ ГЛАВА МИНСВЯЗИ ОТМЕТИТЬ ЧТО РАСЦЕНКА НА УСЛУГА РОУМИНГ ПРЕДОСТАВЛЯТЬ РОССИЙСКИЙ ОПЕРАТОР ДОЛЖНЫЙ СНИЗИТЬСЯ ПОСЛЕ ТОТ КАК 0FactEntity НАЛОЖИТЬ НА ОНИ ШТРАФ ЗА МОНОПОЛЬНО ВЫСОКИЙ ЦЕНА
-0FactEntity V Cn N N Cn 1FactEntity V Av A N Pr N Pr N N Cn Pr N Pr A N N V Cn N Pr N N V A N A V Pr A Cn 0FactEntity V Pr Pn N Pr Av A N
-
-СТАРШИЙ ДИРЕКТОР СОВЕТ НАЦИОНАЛЬНЫЙ БЕЗОПАСНОСТЬ ПО ЕВРОПЕЙСКИЙ ДЕЛО ЧАРЛЬЗ КУПЧАН ЗАЯВИТЬ ЧТО ОБАМА БЫТЬ ДОГОВАРИВАТЬСЯ С ЛИДЕР 0FactEntity О РАСШИРЕНИЕ САНКЦИЯ В ОТНОШЕНИЕ 1FactEntity В ХОД ПЕРЕГОВОРЫ НА ПОЛЕ САММИТ
-N N N A N Pr A N N N V Cn N V V Pr N 0FactEntity Pr N N Pr N 1FactEntity Pr N N Pr N N
-
-САНКЦИЯ ЯВЛЯТЬСЯ ЕДИНСТВЕННЫЙ СРЕДСТВО НАЖАТЬ НА РОССИЯ СЧИТАТЬ КАНЦЛЕР 0FactEntity АНГЕЛ МЕРКЕЛЬ ПИСАТЬ ВЕДОМОСТЬ
-N V A N V Pr N V N 0FactEntity N N V N
-
-МИХАИЛ ЛЕСИН ТАКЖЕ ОПРОВЕРГНУТЬ ИНФОРМАЦИЯ О ТОТ ЧТО ГЛАВНЫЙ РЕДАКТОР ЭХО 0FactEntity ПРЕДЛАГАТЬ ВЫКУПИТЬ РАДИОСТАНЦИЯ И ЗАЯВИТЬ ЧТО 1FactEntity НЕ БЫТЬ ПРОДАВАТЬ ЭТОТ РЕСУРС
-N N Cn V N Pr A Cn A N N 0FactEntity V V N Cn V Cn 1FactEntity W V V A N
-
-0FactEntity КОТОРЫЙ В 1990 Е ГОД ЯВЛЯТЬСЯ ДЕПУТАТ ГОСУДАРСТВЕННЫЙ ДУМА ОТ ЛДПР И СПОНСОР ЭТОТ ПАРТИЯ В ОДИН ПОЛОВИНА 2007 ГОД БЫТЬ ОБВИНИТЬ В НЕЗАКОННЫЙ ПРЕДПРИНИМАТЕЛЬСТВО И НЕУПЛАТА НАЛОГ В ОСОБО КРУПНЫЙ РАЗМЕР ПОСЛЕ ЭТО ОН ПРОДАТЬ РУССНЕФТЬ 1FactEntity И ПОКИНУТЬ РОССИЯ
-0FactEntity A Pr W N N V N A N Pr N Cn N A N Pr A N W N V V Pr A N Cn N N Pr Av A N Pr W Pn V N 1FactEntity Cn V N
-
-О ВОЗМОЖНЫЙ НОВЫЙ САНКЦИЯ НАМЕКНУТЬ И КЕРРИ КОТОРЫЙ ЗАЯВИТЬ ЧТО 0FactEntity СТАРАТЬСЯ СДЕЛАТЬ ТАК ЧТОБЫ ЕВРОПЕЙСКИЙ ПАРТНЁР АКТИВНЫЙ БЫТЬ ВОВЛЕЧЬ В НАЛОЖЕНИЕ САНКЦИЯ НА 1FactEntity
-Pr A A N V Cn N A V Cn 0FactEntity V V Cn Cn A N A V V Pr N N Pr 1FactEntity
-
-ПО НЕКОТОРЫЕ ДАННЫЕ ЗАИНТЕРЕСОВАННОСТЬ В 1FactEntity РОССИЯ ПРОЯВЛЯТЬ И 0FactEntity
-Pr A Pa N Pr 1FactEntity N V Cn 0FactEntity
-
-YAHOO РАНЕЕ ПОКУПАТЬ НЕБОЛЬШОЙ РАСТИ 0FactEntity ТАКОЙ КАК 1FactEntity И FLICKR НО С ВРЕМЯ ПРЕКРАЩАТЬ ОНИ ПОДДЕРЖИВАТЬ
-W Av V A V 0FactEntity A Cn 1FactEntity Cn W Cn Pr N V Pn V
-
-19 ОКТЯБРЬ 2012 ГОД СОВЕТ ДИРЕКТОР БРИТАНСКИЙ НЕФТЕГАЗОВЫЙ 0FactEntity BP ЕДИНОГЛАСНО УТВЕРДИТЬ ПРОДАЖА ПРИНАДЛЕЖАЩИЙ ОНА 50 АКЦИЯ ОДИН ИЗ КРУПНЫЙ РОССИЙСКИЙ 0FactEntity ТНК-BP 0FactEntity ЗА ОКОЛО 17 МИЛЛИАРД ДОЛЛАР США НАЛИЧНЫЙ И 13 АКЦИЯ 0FactEntity
-W N W N N N A A 0FactEntity W Av V N A Pn W N A Pr A A 0FactEntity W 0FactEntity Pr Pr W N N N A Cn W N 0FactEntity
-
-МЕЖДУ ТЕМ ПИСАТЬ КОММЕРСАНТЪ 1FactEntity ИМЕТЬ СЛОЖНОСТЬ И В РАСПЛАТА С ДРУГОЙ КРЕДИТОР О ТОТ ЧТО ТЕЛЕ 1FactEntity ДОЛЖНЫЙ ОН 8 МИЛЛИОН РУБЛЬ ЗАЯВИТЬ БЫВШИЙ ГЛАВА РУССКИЙ ВИННО-ВОДОЧНЫЙ КОМПАНИЯ И СОВЛАДЕЛЕЦ 1FactEntity 0FactEntity
-Pr Cn V N 1FactEntity V N Cn Pr N Pr A N Pr A Cn N 1FactEntity A Pn W N N V A N A A N Cn N 1FactEntity 0FactEntity
-
-ИЗВЕСТНО ЧТО 0FactEntity ХОТЕТЬ ИЗБАВИТЬСЯ ОТ РОССИЙСКИЙ РАДИОСТАНЦИЯ ЕЩЁ 2 ГОД НАЗАД ТОГДА И СТАТЬ ПОДЫСКИВАТЬ ПОКУПАТЕЛЬ АКТИВ В СВОЙ ВРЕМЯ БЫТЬ ПРЕДЛОЖИТЬ И ХОЛДИНГ ПРОФ-МЕДИА ВЛАДИМИР ПОТАНИН И АФ МЕДИА ХОЛДИНГ АЛИШЕР УСМАНОВ А 1FactEntity МИХАИЛ ФРИДМАН
-Av Cn 0FactEntity V V Pr A N Av W N Av Av Cn V V N N Pr A N V V Cn N N N N Cn Int N N N N Cn 1FactEntity N N
-
-КРОМЕ ТОТ В 2010 ГОД 0FactEntity ВЛОЖИТЬ В 1FactEntity СУММА ОТ 100 ДО 200 МИЛЛИОН ДОЛЛАР
-Pr A Pr W N 0FactEntity V Pr 1FactEntity N Pr W Pr W N N
-
-ПОКА САМЫЙ КРУПНЫЙ СЛИЯНИЕ В МИР IT КОРПОРАЦИЯ ЯВЛЯТЬСЯ СОГЛАШЕНИЕ МЕЖДУ 0FactEntity И 1FactEntity КОТОРЫЙ НАПОМНИТЬ БЫТЬ ОБЪЯВИТЬ В МАЙ ЭТО ГОД
-Av A A N Pr N W N V N Pr 0FactEntity Cn 1FactEntity A V V V Pr N W N
-
-0FactEntity ОБЪЯВИТЬ О ВЫДЕЛЕНИЕ 1FactEntity ГРАНТ В 29 МИЛЛИОН ДОЛЛАР ДЛЯ БОРЬБА С КОРРУПЦИЯ И ДОГОВОРНЫЙ МАТЧ
-0FactEntity V Pr N 1FactEntity N Pr W N N Pr N Pr N Cn A N
 
 ОДНАКО В ДЕКАБРЬ 0FactEntity ЗАПРЕТИТЬ ИМПОРТ И ПРОДАЖА В ИНДИЯ ПРОДУКТ 1FactEntity ИЗ-ЗА ПАТЕНТНЫЙ ИСК ШВЕДСКИЙ 1FactEntity 2FactEntity
 Cn Pr N 0FactEntity V N Cn N Pr N N 1FactEntity Pr A N A 1FactEntity 2FactEntity
 
-1FactEntity ОФИЦИАЛЬНО ОБЪЯВИТЬ О ПОКУПКА 0FactEntity 3COM
-1FactEntity Av V Pr N 0FactEntity W
-
-YAHOO РАНЕЕ ПОКУПАТЬ НЕБОЛЬШОЙ РАСТИ КОМПАНИЯ ТАКОЙ КАК 0FactEntity И 1FactEntity НО С ВРЕМЯ ПРЕКРАЩАТЬ ОНИ ПОДДЕРЖИВАТЬ – НЕВЕРНЫЙ ВЫДЕЛИТЬ ФАКТ
-W Av V A V N A Cn 0FactEntity Cn 1FactEntity Cn Pr N V Pn V W A V N
-
-ГЛАВНОЕ ЖЕ ПРИЗ ЭТО МЕРОПРИЯТИЕ СТАТЬ ГРАНТ ХОРОШИЙ ПРОЕКТ НА ОБУЧЕНИЕ ПО ПРОГРАММА STAR IN GARAGE ОБРАЗОВАТЕЛЬНЫЙ ПРОЕКТ КОМПАНИЯ 0FactEntity ПРИ ПОДДЕРЖКА 1FactEntity 2FactEntity И 3FactEntity ПРЕДПРИНИМАТЕЛЬСТВО США РОССИЯ
-A W N W N V N A N Pr N Pr N W W W A N N 0FactEntity Pr N 1FactEntity 2FactEntity Cn 3FactEntity N N N
-
-ТАКОЙ ЖЕ УВЕДОМЛЕНИЕ 0FactEntity ПОЛУЧИТЬ ОТ ПОСТАВЩИК КРАСНЫЙ РЫБА ЗАО СК РИТЕЙЛ О КОРРЕКТИРОВКА ОБЪЁМ И СТОИМОСТЬ ПРОДУКЦИЯ СООБЩИТЬ В ПИСЬМО СВОЙ КЛИЕНТ И 1FactEntity ПОСТАВЛЯТЬ ПЛОДООВОЩНОЙ ПРОДУКЦИЯ
-A W N 0FactEntity V Pr N A N N W N Pr N N Cn N N V Pr N A N Cn 1FactEntity V A N
-
-0FactEntity ЯВЛЯТЬСЯ ОПЕРАТОР ВНЕБИРЖЕВОЙ ФЬЮЧЕРСНЫЙ РЫНОК ОБЪЯВИТЬ О ПРИОБРЕТЕНИЕ 1FactEntity И СИМВОЛ КРЕПОСТЬ АМЕРИКАНСКИЙ КАПИТАЛИЗМ С 220 ЛЕТНИЙ ИСТОРИЯ 1FactEntity ЗА 8,2 МИЛЛИАРД ДОЛЛАР США 6,1 МИЛЛИАРД ЕВРО 0FactEntity КУПИТЬ 1FactEntity
-0FactEntity V N A A N V Pr N 1FactEntity Cn N N A N Pr W A N 1FactEntity Pr W N N N W N N 0FactEntity V 1FactEntity
-
-ДВА КИНОПРОЕКТ 1FactEntity ТРЕК ИЛЬЯ СЕВЕРОВ И САМЫЙ РЫЖИЙ ЛИС АЛЕКСАНДРА СТРЕЛЯНЫЙ ПОЛУЧИТЬ ПОДДЕРЖКА 0FactEntity
-Num N 1FactEntity N N N Cn A N N N A V N 0FactEntity
-
-В 1FactEntity ТАКЖЕ ВЛОЖИТЬСЯ ТАКОЙ 1FactEntity КАК U S VENTURE PARTNER CMEA CAPITAL И 0FactEntity
-Pr 1FactEntity Cn V A 1FactEntity Cn W W W W W W Cn 0FactEntity
-
-КРОМЕ ТОТ ВИДЕО 0FactEntity ЛЕГАЛЬНО РАЗМЕЩАТЬСЯ НА 1FactEntity
-Pr A N 0FactEntity Av V Pr 1FactEntity
-
-2FactEntity ЗАВЕРШИТЬ СДЕЛКА ПО ПОКУПКА 100 АКЦИЯ ТНК - 0FactEntity
-2FactEntity V N Pr N W N W W 0FactEntity
-
-ПО ДАННЫЕ СМИ АКЦИЯ ПРИНАДЛЕЖАТЬ РАНЕЕ БЫВШИЙ ГЛАВРЕД ИЗДАНИЕ 0FactEntity БЫТЬ ВЫКУПИТЬ 1FactEntity И КИНОРЕЖИССЁР НИКИТА МИХАЛКОВ
-Pr Pa N N V Av A N N 0FactEntity V V 1FactEntity Cn N N N
-
-НА ТРЕТЬЕ МЕСТО ПОКУПКА КРУПНЫЙ 0FactEntity СТРУКТУРА 1FactEntityА РОССИЯ
-Pr N N N A 0FactEntity N 1FactEntityА N
-
-В ЧАСТНОСТЬ 0FactEntity ОФИЦИАЛЬНО ПОДТВЕРДИТЬ ИНФОРМАЦИЯ О ПОДПИСАНИЕ СОГЛАШЕНИЕ О ОСНОВНЫЙ УСЛОВИЕ СДЕЛКА С 1FactEntity О ПРИОБРЕТЕНИЕ 50 ДОЛЯ В Т0FactEntity - 1FactEntity В ОБМЕН НА 17,1 МИЛЛИАРД ДОЛЛАР США НАЛИЧНЫЙ И 12,84 АКЦИЯ 0FactEntity ЯВЛЯТЬСЯ В НАСТОЯЩЕЕ 1FactEntityЕМЯ КАЗНАЧЕЙСКИЙ
-Pr N 0FactEntity Av V N Pr N N Pr A N N Pr 1FactEntity Pr N W N Pr Т0FactEntity W 1FactEntity Pr N Pr W N N N A Cn W N 0FactEntity V Pr N 1FactEntityЕМЯ A
-
-ЗА ПОСЛЕДНИЙ ГОД АКТИВ 0FactEntity В ГАЗОВЫЙ ОТРАСЛЬ ЗНАЧИТЕЛЬНО УВЕЛИЧИТЬСЯ ЗА СЧЁТ ПРИОБРЕТЕНИЕ КОНТРОЛЬНЫЙ ПАКЕТ В 1FactEntity И 100 ТНК-ВР
-Pr A N N 0FactEntity Pr A N Av V Pr N N A N Pr 1FactEntity Cn W N
-
-ТЕПЕРЬ КАК УТВЕРЖДАТЬ В Х5 RETAIL GROUP КУДА ВХОДИТЬ СЕТЬ МАГАЗИН ПЯТЁРОЧКА ПЕРЕКРЁСТОК И КАРУСЕЛЬ О ПОВЫШЕНИЕ ЦЕНА СООБЩИТЬ ДВА ПОСТАВЩИК РЫБА И МОРЕПРОДУКТ И КОМПАНИЯ ПОСТАВЛЯТЬ ОВОЩ И ФРУКТ В ЧАСТНОСТЬ 1FactEntity ЗАНИМАТЬСЯ ПОСТАВКА КРЕВЕТКА СООБЩИТЬ ЧТО С 11 АВГУСТ ЦЕНА В СВЯЗЬ С УВЕЛИЧЕНИЕ ЗАТРАТА НА ТРАНСПОРТИРОВКА И ХРАНЕНИЕ ТОВАР А ТАКЖЕ И ПЕРЕХОД НА ПРЕДВАРИТЕЛЬНЫЙ СИСТЕМА ОПЛАТА СЫРЬЁ С ПОСТАВЩИК ПОВЫШАТЬСЯ НА 20 36
-Av Cn V Pr W W W N V N N N N Cn N Pr N N V Num N N Cn N Cn N V N Cn N Pr N 1FactEntity V N N V Cn Pr W N N Pr N Pr N N Pr N Cn N N Cn Cn Cn N Pr A N N N Pr N V Pr W W
-
-ПОСЛЕ ЭТОТ ВСТРЕЧА СЕЧИН РАССКАЗАТЬ ЖУРНАЛИСТ ЧТО 0FactEntity МОЧЬ ВЫКУПИТЬ ДОЛЯ 1FactEntity В ТНК-ВР
-Pr A N N V N Cn 0FactEntity N V N 1FactEntity Pr N
-
-СОСЕД СЧИТАТЬ ЧТО ЭТО 0FactEntity ДОЛЖНЫЙ 4FactEntity ЗА ТРАНЗИТ ГОЛУБОЙ ТОПЛИВО В ЕВРОПА 200 МИЛЛИОН ДОЛЛАР – РОВНО СТОЛЬКО СКОЛЬКО СОСТАВЛЯТЬ ДОЛГ МИНСК ПЕРЕД МОСКВА
-N V Cn W 0FactEntity A 4FactEntity Pr N N N Pr N W N N W Av Av Cn V N N Pr N
-
-СЕЙЧАС ПРОДОЛЖАТЬ ОН 0FactEntity АССИГНОВАТЬ 115 МИЛЛИОН ДОЛЛАР НА ПРОДВИЖЕНИЕ РАЗВИТИЕ И ТУРИЗМ В ГОРОД НАШ ПОЗИЦИЯ ПО ЕДИНСТВО 1FactEntity ОСТАВАТЬСЯ ПРЕЖНИЙ И МЫ ПО-ПРЕЖНЕМУ ПРОТЯГИВАТЬ РУКА НАШ АРАБСКИЙ СОСЕД ДОБАВИТЬ ОН
-Av V Pn 0FactEntity V W N N Pr N N Cn N Pr N A N Pr N 1FactEntity V A Cn Pn Av V N A A N V Pn
-
-0FactEntity ПОДТВЕРДИТЬ ЗАКРЫТИЕ СДЕЛКА С 1FactEntity В ПЕРВОЕ КВАРТАЛ 2011 ГОД
-0FactEntity V N N Pr 1FactEntity Pr N N W N
-
-0FactEntity КУПИТЬ 1FactEntity 0FactEntity ЯВЛЯТЬСЯ ОПЕРАТОР ВНЕБИРЖЕВОЙ ФЬЮЧЕРСНЫЙ РЫНОК ОБЪЯВИТЬ О ПРИОБРЕТЕНИЕ 1FactEntity И СИМВОЛ КРЕПОСТЬ АМЕРИКАНСКИЙ КАПИТАЛИЗМ С 220 ЛЕТНИЙ ИСТОРИЯ 1FactEntity ЗА 8,2 МИЛЛИАРД ДОЛЛАР США 6,1 МИЛЛИАРД ЕВРО
-0FactEntity V 1FactEntity 0FactEntity V N A A N V Pr N 1FactEntity Cn N N A N Pr W A N 1FactEntity Pr W N N N W N N
-
-ПОДЧЁРКИВАТЬСЯ ЧТО ПОПУЛЯРНОСТЬ TELEGRAM ВОЗРАСТИ ПОСЛЕ ТОТ КАК 1FactEntity БЫТЬ КУПИТЬ 0FactEntity ЗА 19 МИЛЛИАРД ДОЛЛАР
-V Cn N W V Pr A Cn 1FactEntity V V 0FactEntity Pr W N N
-
-1FactEntity ТРЕБОВАТЬ ЧТОБЫ 0FactEntity СНЯТЬ ОГРАНИЧЕНИЕ НА ИМПОРТ СЕЛЬСКОХОЗЯЙСТВЕННЫЙ ПРОДУКЦИЯ ИЗ 1FactEntity И ЧТОБЫ 0FactEntity ПОДПИСАТЬ ЭНЕРГЕТИЧЕСКИЙ ХАРТИЯ
-1FactEntity V Cn 0FactEntity V N Pr N A N Pr 1FactEntity Cn Cn 0FactEntity V A N
-
-1FactEntity И 0FactEntity РАСШИРЯТЬ ПРОГРАММА ПОДДЕРЖКА ИННОВАЦИОННЫЙ СТАРТAПОВ
-1FactEntity Cn 0FactEntity V N N A W
-
-0FactEntity ОДОБРИТЬ ПРОДАЖА АКЦИЯ ТНК - 0FactEntity 1FactEntity
-0FactEntity V N N W W 0FactEntity 1FactEntity
-
-В СЕНТЯБРЬ 2013 ГОД МОБИЛЬНЫЙ БИЗНЕС 0FactEntity БЫТЬ ПРОДАТЬ 0FactEntity 1FactEntity ЗА 7,5 МИЛЛИАРД ДОЛЛАР
-Pr N W N A N 0FactEntity V V 0FactEntity 1FactEntity Pr W N N
-
-ЕЩЁ В 2004 ГОД 1FactEntity НАЛОЖИТЬ НА 0FactEntity ШТРАФ В РАЗМЕР 500 МИЛЛИОН ДОЛЛАР ЗА ЗЛОУПОТРЕБЛЕНИЕ СВОЙ МОНОПОЛЬНЫЙ ПОЛОЖЕНИЕ
-Av Pr W N 1FactEntity V Pr 0FactEntity N Pr N W N N Pr N A A N
-
-0FactEntity ПРИОБРЕСТИ 1FactEntity И СНЯТЬ СЕМЬ ЭПИЗОД ЗВЁЗДНЫЙ ВОЙНА
-0FactEntity V 1FactEntity Cn V Num N A N
-
-В 1FactEntity ТАКЖЕ ВЛОЖИТЬСЯ ТАКОЙ 1FactEntity КАК U S VENTURE PARTNER 0FactEntity И PIVOTNORTH CAPITAL
-Pr 1FactEntity Cn V A 1FactEntity Cn W W W W 0FactEntity Cn W W
-
-ОСНОВАТЕЛЬ MYSQL МАЙКЛ ВИДЕНИУС ЗАЯВИТЬ ЧТО ВЫСТУПАТЬ ПРОТИВ СДЕЛКА ПО СЛИЯНИЕ 0FactEntity И 1FactEntity
-N W N N V Cn V Pr N Pr N 0FactEntity Cn 1FactEntity
-
-1FactEntity НАЧАТЬ ПРИЁМ ЗАЯВКА НА РЕГИСТРАЦИЯ ДОМЕННЫЙ ИМЯ В КИРИЛЛИЧЕСКИЙ ЗОНА РФ И ПЕРВОЕ ЗАЯВЛЕНИЕ ПОСТУПИТЬ ОТ 0FactEntity НА ИМЯ КРЕМЛЬ РФ
-1FactEntity V N N Pr N A N Pr A N N Cn N N V Pr 0FactEntity Pr N N N
-
-РОСНЕФТЬ ОБРАЩАТЬСЯ К 0FactEntity С ПРЕДЛОЖЕНИЕ О ПРОДАЖА ЕЁ ДОЛЯ В ТНК - 0FactEntity ЕЩЁ ЛЕТОМ 2012 ГОД 0FactEntity ОДОБРИТЬ ПРОДАЖА АКЦИЯ ТНК - 0FactEntity РОСНЕФТЬ
-N V Pr 0FactEntity Pr N Pr N A N Pr W W 0FactEntity Av Av W N 0FactEntity V N N W W 0FactEntity N
-
-ВТОРОЕ ПО РАЗМЕР ВКЛАД ИНВЕСТОР ВЫСТУПИТЬ 0FactEntity МLC В 1FactEntity ТАКЖЕ ВЛОЖИТЬСЯ ТАКОЙ 1FactEntity КАК U S VENTURE PARTNER CMEA CAPITAL И PIVOTNORTH CAPITAL
-A Pr N N N V 0FactEntity W Pr 1FactEntity Cn V A 1FactEntity Cn W W W W W W Cn W W
-
-ЗА ЭТОТ СОБЫТИЕ СЛЕДОВАТЬ ПОЛУЧЕНИЕ РОССИЯ ПРАВО НА ПРОВЕДЕНИЕ ЧЕМПИОНАТ МИР ПО ФУТБОЛ 2018 СДЕЛКА 0FactEntity ПО ПРИОБРЕТЕНИЕ 25 ПЕРВОЕ 1FactEntity И БЫСТРЫЙ РЕАКЦИЯ TWITTER НА ВЗРЫВ В ДОМОДЕДОВО
-Pr A N V N N N Pr N N N Pr N W N 0FactEntity Pr N W N 1FactEntity Cn A N W Pr N Pr N
-
-НА ДАННЫЙ МОМЕНТ 1FactEntity НАХОДИТЬСЯ ПОД ЭКОНОМИЧЕСКИЙ САНКЦИЯ США ЕС НОРВЕГИЯ 0FactEntity АВСТРАЛИЯ И КАНАДА
-Pr A N 1FactEntity V Pr A N N N N 0FactEntity N Cn N
-
-СУД ЛОС-АНДЖЕЛЕС ПОСТАНОВИТЬ ЧТО 0FactEntity НЕ ПРИНАДЛЕЖАТЬ АВТОРСКИЙ ПРАВО НА ПЕСНЯ HAPPY BIRTHDAY TO YOU С ДНЁМ РОЖДЕНИЕ ТЫ ПЕРЕДАВАТЬ ИЗДАНИЕ LOS ANGELES TIME ПО ДАННЫЕ ИЗДАНИЕ 0FactEntity ПРЕТЕНДОВАТЬ НА АВТОРСТВО С ТОТ ПОРА КАК ЗАПЛАТИТЬ 15 МИЛЛИОН ДОЛЛАР ЗА ПОКУПКА 1FactEntity ПРЕЕМНИЦА CLAYTON F SUMMY CO КОТОРЫЙ ПРИНАДЛЕЖАТЬ ПРАВО НА ПЕСНЯ
-N N V Cn 0FactEntity W V A N Pr N W W W W Pr Av N Pn V N W W W Pr Pa N 0FactEntity V Pr N Pr A N Cn V W N N Pr N 1FactEntity N W W W W A V N Pr N
-
-ЕСЛИ ДЕНЬГА ТАК И НЕ ПОСТУПИТЬ НА СЧЁТ 0FactEntity ПОСТАВКА ЭЛЕКТРИЧЕСТВО В 1FactEntity ПРЕКРАТИТЬСЯ В ПОЛНОЧЬ 29 ИЮНЬ
-Cn N Cn Cn W V Pr N 0FactEntity N N Pr 1FactEntity V Pr N W N
-
-НА ПЕРВОЕ МЕСТО ОКАЗАТЬСЯ СДЕЛКА ПО ПРИОБРЕТЕНИЕ 0FactEntity 1FactEntity В ДЕКАБРЬ 2010 ГОД ПРИМЕЧАТЕЛЬНО ЧТО ПОКУПКА 0FactEntity 1FactEntity ОКАЗАТЬСЯ В РЕЙТИНГ НА ПЕРВОЕ МЕСТО А ОГРАНИЧЕНИЕ ДОЛЯ ПРОДАВЕЦ НА РЫНОК ТЕЛЕРЕКЛАМА ДО 35 ЛИШЬ НА ВТОРОЕ
-Pr N N V N Pr N 0FactEntity 1FactEntity Pr N W N Av Cn N 0FactEntity 1FactEntity V Pr N Pr N N Cn N N N Pr N N Pr W W Pr A
-
-0FactEntity МОЧЬ ПРЕКРАТИТЬ СВОЙ РАБОТА ИЗ-ЗА ОСТАНОВКА ПОСТАВКА ГАЗА НА 0FactEntity ОН ЗАКУПАТЬ У КОМПАНИЯ АПАТИТ СЫРЬЁ ДЛЯ ПРОИЗВОДСТВО ГЛИНОЗЁМ СЫРЬЁ ДЛЯ АЛЮМИНИЙ А ПОБОЧНЫЙ ПРОДУКТ ОЧИСТКА ПРОДАВАТЬ 1FactEntity И ПИКАЛЕВСКИЙ ЦЕМЕНТ
-0FactEntity N V A N Pr N N N Pr 0FactEntity Pn V Pr N N N Pr N N N Pr N Cn A N N V 1FactEntity Cn A N
-
-СРЕДСТВО ВЫРУЧИТЬ ОТ ПРОДАЖА КАРТИНА БЫТЬ НАПРАВИТЬ В 1FactEntity ПОСЛЕ СМЕРТЬ ПО ЗАВЕЩАНИЕ ОНА ПЕРЕЙТИ В СОБСТВЕННОСТЬ 0FactEntity КАЛИФОРНИЯ
-N V Pr N N V V Pr 1FactEntity Pr N Pr N Pn V Pr N 0FactEntity N
-
-А 0FactEntity ПОЛУЧИТЬ 7,5 АКЦИЯ 1FactEntity
-Cn 0FactEntity V W N 1FactEntity
-
-В ЭТО ИМЯ ПОМОЧЬ ОРГАНИЗАТОР И ПАРТНЁР ТУРНИР SEED 1FactEntity В РАМКА СОГЛАШЕНИЕ С 0FactEntity ПРОЕКТ СМОЧЬ ПОЛУЧИТЬ ФИНАНСИРОВАНИЕ В РАЗМЕР ОТ 250 ТЫСЯЧА РУБЛЬ ДО 2,5 МИЛЛИОН ПО УПРОЩЁННЫЙ ПРОЦЕДУРА
-Pr W N V N Cn N N W 1FactEntity Pr N N Pr 0FactEntity N V V N Pr N Pr W N N Pr W N Pr A N
-
-ОН ЗАКУПАТЬ У 1FactEntity СЫРЬЁ ДЛЯ ПРОИЗВОДСТВО ГЛИНОЗЁМ СЫРЬЁ ДЛЯ АЛЮМИНИЙ А ПОБОЧНЫЙ ПРОДУКТ ОЧИСТКА ПРОДАВАТЬ МЕТАХИМ И ПИКАЛЕВСКИЙ ЦЕМЕНТ
-Pn V Pr 1FactEntity N Pr N N N Pr N Cn A N N V W Cn A N
-
-ЭКОНОМИКА 0FactEntity ПЛАНИРОВАТЬСЯ УЛУЧШИТЬ ЗА СЧЁТ ПОВЫШЕНИЕ ЗАКУПОЧНЫЙ ЦЕНА ДЛЯ 1FactEntity И ПИКАЛЕВСКИЙ ЦЕМЕНТ
-N 0FactEntity V V Pr N N A N Pr 1FactEntity Cn A N
-
-ПО СЛУХ ЗАИНТЕРЕСОВАННОСТЬ В ИНВЕСТИЦИЯ В 1FactEntity УЖЕ ПРОЯВИТЬ GOOGLE ЯНДЕКС SKYPE 0FactEntity И ДРУГОЙ
-Pr N N Pr N Pr 1FactEntity Av V W N W 0FactEntity Cn A
-
-0FactEntity КУПИТЬ 1FactEntity 0FactEntity ПРИОБРЕСТИ 1FactEntity ЧТОБЫ ДИВЕРСИФИЦИРОВАТЬ ВЫРУЧКА ЗА СЧЁТ НОВЫЙ ИСТОЧНИК ДОХОД И РЫНОК С БОЛЕЕ ВЫСОКИЙ ТЕМП РОСТ
-0FactEntity V 1FactEntity 0FactEntity V 1FactEntity Cn V N Pr N A N N Cn N Pr Av A N N
-
-ОСНОВАТЕЛЬ 2FactEntity В КОНТАКТ 0FactEntity ПРОДАТЬ СВОЙ ДОЛЯ В 2FactEntity 1FactEntity ГЕНДИРЕКТОР МЕГАФОН И СОВЛАДЕЛЕЦ ХОЛДИНГ ЮТВ ОН ВЛАДЕТЬ ИМЯ ВМЕСТЕ С БИЗНЕСМЕН АЛИШЕР УСМАНОВ
-N 2FactEntity Pr N 0FactEntity V A N Pr 2FactEntity 1FactEntity N N Cn N N W Pn V N Av Pr N N N
-
-0FactEntity ПРИОБРЕСТИ ДОЛЯ 2FactEntity И 3FactEntity МЕСЯЦ НАЗАД ОСНОВАТЕЛЬ 1FactEntity СООБЩИТЬ О ПРОДАЖА АГЕНТСТВО 0FactEntity ПРИОБРЕСТИ 1FactEntity
-0FactEntity V N 2FactEntity Cn 3FactEntity N Av N 1FactEntity V Pr N N 0FactEntity V 1FactEntity
-
-ТЕМ ВРЕМЯ РУКОВОДСТВО 0FactEntity УТВЕРЖДАТЬ ЧТО МЕЖДУ 0FactEntity И 1FactEntity НЕТ ДОГОВОРЁННОСТЬ О ПЕРЕСМОТР ГАЗОВЫЙ КОНТРАКТ 2009 ГОД
-Cn N N 0FactEntity V Cn Pr 0FactEntity Cn 1FactEntity Av N Pr N A N W N
-
-ПО СЛУХ ЗАИНТЕРЕСОВАННОСТЬ В ИНВЕСТИЦИЯ В 1FactEntity УЖЕ ПРОЯВИТЬ GOOGLE ЯНДЕКС 0FactEntity UNION SQUARE VENTURE И ДРУГОЙ
-Pr N N Pr N Pr 1FactEntity Av V W N 0FactEntity W W W Cn A
-
-ЛИДЕР 0FactEntity ВЕЛИКОБРИТАНИЯ И 1FactEntity АНГЕЛ МЕРКЕЛЬ ДЭВИД КЭМЕРОН И ФРАНСУА ОЛЛАНДА ПРОВЕСТИ В ВОСКРЕСЕНИЕ ТЕЛЕФОННЫЙ ПЕРЕГОВОРЫ В ВРЕМЯ КОТОРЫЙ ДОГОВОРИТЬСЯ ВВЕСТИ НА ВСТРЕЧА СОВЕТ ПО ИНОСТРАННЫЙ ДЕЛО ЕС В ВТОРНИК НОВОЕ САНКЦИЯ ПРОТИВ РОССИЯ ЕСЛИ ТОТ СРОЧНО НЕ НАДАВИТЬ НА ОПОЛЧЕНЕЦ КОТОРЫЙ ДОЛЖНЫЙ ПРЕДОСТАВИТЬ МЕЖДУНАРОДНЫЙ НАБЛЮДАТЕЛЬ ДОСТУП НА МЕСТО КРУШЕНИЕ
-N 0FactEntity N Cn 1FactEntity N N N N Cn N N V Pr N A N Pr N A V V Pr N N Pr A N N Pr N N N Pr N Cn A Av W V Pr N A A V A N N Pr N N
-
-0FactEntity КОНСТАТИРОВАТЬ ЧТО 1FactEntity ВЫМПЕЛКОМ И МЕГАФОН УСТАНОВИТЬ МОНОПОЛЬНО ВЫСОКИЙ ЦЕНА НА РОУМИНГ НА ТЕРРИТОРИЯ РОССИЯ И В СНГ КРОМЕ ТОТ ГЛАВА МИНСВЯЗИ ОТМЕТИТЬ ЧТО РАСЦЕНКА НА УСЛУГА РОУМИНГ ПРЕДОСТАВЛЯТЬ РОССИЙСКИЙ ОПЕРАТОР ДОЛЖНЫЙ СНИЗИТЬСЯ ПОСЛЕ ТОТ КАК 0FactEntity НАЛОЖИТЬ НА ОНИ ШТРАФ ЗА МОНОПОЛЬНО ВЫСОКИЙ ЦЕНА
-0FactEntity V Cn 1FactEntity N Cn N V Av A N Pr N Pr N N Cn Pr N Pr A N N V Cn N Pr N N V A N A V Pr A Cn 0FactEntity V Pr Pn N Pr Av A N
-
-0FactEntity ПРЕДЛАГАТЬ 44,6 МИЛЛИАРД USD ЗА 1FactEntity ЛИДЕР МИРОВОЙ РЫНОК ПРОГРАММНЫЙ ОБЕСПЕЧЕНИЕ 0FactEntity ГОТОВЫЙ ВЫЛОЖИТЬ ЗА 1FactEntity ФЕНОМЕНАЛЬНЫЙ СУММА 44,6 МИЛЛИАРД ДОЛЛАР
-0FactEntity V W N W Pr 1FactEntity N A N A N 0FactEntity A V Pr 1FactEntity A N W N N
-
-0FactEntity И 1FactEntity СЕГОДНЯ ПРОВЕСТИ ПЕРЕГОВОРЫ ПО ВОПРОС ПОСТАВКА МЯСО ПТИЦА
-0FactEntity Cn 1FactEntity Av V N Pr N N N N
-
-ПОТЕРЯ 0FactEntity ОТ САНКЦИЯ В ГОД СОСТАВЛЯТЬ ОКОЛО ЧЕТЫРЕ МИЛЛИАРД ЕВРО МЫ ЭКСПОРТИРОВАТЬ СЕЛЬСКОХОЗЯЙСТВЕННЫЙ ПРОДУКТ В 1FactEntity
-N 0FactEntity Pr N Pr N V Pr Num N N Pn V A N Pr 1FactEntity
-
-0FactEntity ВЕСТИ ПЕРЕГОВОРЫ С КИТАЙСКИЙ ПРОИЗВОДИТЕЛЬ XIAOMI О ПОСТАВКА СМАРТФОН НА РОССИЙСКИЙ РЫНОК СООБЩИТЬ ПРЕСС-СЕКРЕТАРЬ 1FactEntity АЛИЙ БЕКЕТОВ 1FactEntity УЖЕ ПРОДАВАТЬ АППАРАТ 1FactEntity И ДОВОЛЬНО УСПЕШНО УТОЧНИТЬ ПРЕСС-СЕКРЕТАРЬ
-0FactEntity V N Pr A N W Pr N N Pr A N V N 1FactEntity N N 1FactEntity Av V N 1FactEntity Cn Av Av V N
-
-ПЕНТАГОН ПОПРОСИТЬ 0FactEntity ПОДДЕРЖАТЬ САНКЦИЯ ПРОТИВ 1FactEntity
-N V 0FactEntity V N Pr 1FactEntity
-
-ЕСЛИ КИЕВ СОГЛАСИТЬСЯ НА ПРЕДЛОЖЕНИЕ ТО 0FactEntity БЫТЬ ПРОДАВАТЬ 1FactEntityА ТОПЛИВО ПО 375 ДОЛЛАР ЗА ТЫСЯЧА КУБОМЕТР
-Cn N V Pr N Cn 0FactEntity V V 1FactEntityА N Pr W N Pr N N
-
-0FactEntity ДАТЬ 2FactEntity КРЕДИТ НА СУММА 2 МИЛЛИАРД ДОЛЛАР СООБЩАТЬ ЛЕНТА РУ
-0FactEntity V 2FactEntity N Pr N W N N V N W
+0FactEntity ОБЪЯВИТЬ О ЗАКЛЮЧЕНИЕ СОГЛАШЕНИЕ С 1FactEntity О ПРОДАЖА СВОЙ 50 ПРОЦЕНТНЫЙ ДОЛЯ В 2FactEntity ЗА 469 МИЛЛИОН КОТОРЫЙ БЫТЬ ВЫПЛАТИТЬ НАЛИЧНЫЙ
+0FactEntity V Pr N N Pr 1FactEntity Pr N A W A N Pr 2FactEntity Pr W N A V V A
 
 0FactEntity ПОКУПАТЬ БИЗНЕС 1FactEntity В РОССИЯ ЗА 2,4 МИЛЛИАРД ДОЛЛАР США
 0FactEntity V N 1FactEntity Pr N Pr W N N N
 
+В РАМКА СДЕЛКА ВР СДЕЛАТЬ ПРЕДЛОЖЕНИЕ О ВЫКУП ДОПОЛНИТЕЛЬНЫЙ 600 МИЛЛИОН АКЦИЯ 1FactEntity СОСТАВЛЯТЬ ДОЛЯ В 5,66 В 1FactEntity У ОНА МАТЕРИНСКИЙ 0FactEntity ПО ЦЕНА 8,00 ДОЛЛАР США ЗА АКЦИЯ
+Pr N N N V N Pr N A W N N 1FactEntity V N Pr W Pr 1FactEntity Pr Pn A 0FactEntity Pr N W N N Pr N
+
+ВТОРОЕ ПО РАЗМЕР ВКЛАД ИНВЕСТОР ВЫСТУПИТЬ 0FactEntity МLC В 1FactEntity ТАКЖЕ ВЛОЖИТЬСЯ ТАКОЙ 1FactEntity КАК U S VENTURE PARTNER CMEA CAPITAL И PIVOTNORTH CAPITAL
+A Pr N N N V 0FactEntity W Pr 1FactEntity Cn V A 1FactEntity Cn W W W W W W Cn W W
+
+ТЕПЕРЬ КАК УТВЕРЖДАТЬ В Х5 RETAIL GROUP КУДА ВХОДИТЬ СЕТЬ МАГАЗИН ПЯТЁРОЧКА ПЕРЕКРЁСТОК И КАРУСЕЛЬ О ПОВЫШЕНИЕ ЦЕНА СООБЩИТЬ ДВА ПОСТАВЩИК РЫБА И МОРЕПРОДУКТ И КОМПАНИЯ ПОСТАВЛЯТЬ ОВОЩ И ФРУКТ В ЧАСТНОСТЬ 1FactEntity ЗАНИМАТЬСЯ ПОСТАВКА КРЕВЕТКА СООБЩИТЬ ЧТО С 11 АВГУСТ ЦЕНА В СВЯЗЬ С УВЕЛИЧЕНИЕ ЗАТРАТА НА ТРАНСПОРТИРОВКА И ХРАНЕНИЕ ТОВАР А ТАКЖЕ И ПЕРЕХОД НА ПРЕДВАРИТЕЛЬНЫЙ СИСТЕМА ОПЛАТА СЫРЬЁ С ПОСТАВЩИК ПОВЫШАТЬСЯ НА 20 36
+Av Cn V Pr W W W N V N N N N Cn N Pr N N V Num N N Cn N Cn N V N Cn N Pr N 1FactEntity V N N V Cn Pr W N N Pr N Pr N N Pr N Cn N N Cn Cn Cn N Pr A N N N Pr N V Pr W W
+
+РУКОВОДСТВО 0FactEntity УЖЕ СООБЩИТЬ О СВОЙ БЕСПОВОРОТНЫЙ РЕШЕНИЕ НЕ ПРОДЛЕВАТЬ ДАЛЕЕ КОНТРАКТ С 1FactEntity ЯВЛЯТЬСЯ ВЛАДЕЛЕЦ БРЕНД 2FactEntity
+N 0FactEntity Av V Pr A A N W V Av N Pr 1FactEntity V N N 2FactEntity
+
+YAHOO ПОКУПАТЬ 1FactEntity ЗА МИЛЛИАРД ДОЛЛАР В ПОНЕДЕЛЬНИК ПРЕЗИДЕНТ И ГЛАВНЫЙ ИСПОЛНИТЕЛЬНЫЙ ДИРЕКТОР YAHOO МАРИСС МАЙЕР ОБЪЯВИТЬ О ПОКУПКА В МИКРОБЛОГ 0FactEntity НА 1FactEntity
+W V 1FactEntity Pr N N Pr N N Cn A A N W N N V Pr N Pr N 0FactEntity Pr 1FactEntity
+
+0FactEntity КУПИТЬ 1FactEntity 0FactEntity ЯВЛЯТЬСЯ ОПЕРАТОР ВНЕБИРЖЕВОЙ ФЬЮЧЕРСНЫЙ РЫНОК ОБЪЯВИТЬ О ПРИОБРЕТЕНИЕ 1FactEntity И СИМВОЛ КРЕПОСТЬ АМЕРИКАНСКИЙ КАПИТАЛИЗМ С 220 ЛЕТНИЙ ИСТОРИЯ 1FactEntity ЗА 8,2 МИЛЛИАРД ДОЛЛАР США 6,1 МИЛЛИАРД ЕВРО
+0FactEntity V 1FactEntity 0FactEntity V N A A N V Pr N 1FactEntity Cn N N A N Pr W A N 1FactEntity Pr W N N N W N N
+
+КАНЦЛЕР ТАКЖЕ ЗАЯВИТЬ ЧТО 0FactEntity НЕ НАМЕРИТЬ НАРАЩИВАТЬ БЮДЖЕТ 1FactEntity НЕСМОТРЯ НА ПЛАН НАТО СОЗДАТЬ НОВОЕ СИЛА БЫСТРЫЙ РЕАГИРОВАНИЕ
+N Cn V Cn 0FactEntity W V V N 1FactEntity Pr Pr N N V N N A N
+
+ПЕНТАГОН ПОПРОСИТЬ 0FactEntity ПОДДЕРЖАТЬ САНКЦИЯ ПРОТИВ 1FactEntity
+N V 0FactEntity V N Pr 1FactEntity
+
+ПО ДАННЫЕ СМИ АКЦИЯ ПРИНАДЛЕЖАТЬ РАНЕЕ БЫВШИЙ ГЛАВРЕД ИЗДАНИЕ 0FactEntity БЫТЬ ВЫКУПИТЬ 1FactEntity И КИНОРЕЖИССЁР НИКИТА МИХАЛКОВ
+Pr Pa N N V Av A N N 0FactEntity V V 1FactEntity Cn N N N
+
+17 АПРЕЛЬ 2013 ГОД 0FactEntity КОТОРЫЙ УПРАВЛЯТЬ ИЛЬЯ ЩЕРБОВИЧ ВЫКУПИТЬ У 2FactEntity 1FactEntity И ЛЕВ ЛЕВИЕВА 48 АКЦИЯ СОЦ 3FactEntity В КОНТАКТ БЫТЬ ЗАРЕГИСТРИРОВАТЬ 19 ЯНВАРЬ 2007 ГОД И ОН УЧРЕДИТЕЛЬ СТАТЬ 2FactEntity 1FactEntity 60 И ОН ОТЕЦ ПРЕДПРИНИМАТЕЛЬ 1FactEntity 10 ПАВЕЛ ДУРОВ 20 И ЛЕВЫЙ ЛЕВАЕВ 10
+W N W N 0FactEntity A V N N V Pr 2FactEntity 1FactEntity Cn A N W N W 3FactEntity Pr N V V W N W N Cn Pn N V 2FactEntity 1FactEntity W Cn Pn N N 1FactEntity W N N W Cn A N W
+
+В 1FactEntity ТАКЖЕ ВЛОЖИТЬСЯ ТАКОЙ 1FactEntity КАК U S VENTURE PARTNER CMEA CAPITAL И 0FactEntity
+Pr 1FactEntity Cn V A 1FactEntity Cn W W W W W W Cn 0FactEntity
+
+0FactEntity ВВЕСТИ САНКЦИЯ ПРОТИВ 1FactEntity РАДИ ВСТУПЛЕНИЕ В ЕС 0FactEntity ПРИСОЕДИНИТЬСЯ К САНКЦИЯ ЕВРОСОЮЗ ПРОТИВ 1FactEntity ВВЕСТИ В СВЯЗЬ С УКРАИНСКИЙ КРИЗИС ЧТОБЫ КАК МОЖНО СКОРЕЕ ВСТУПИТЬ В ЕС И НАТО ЗАЯВИТЬ ПРЕЗИДЕНТ СТРАНА ФИЛИП ВУЯН
+0FactEntity V N Pr 1FactEntity Pr N Pr N 0FactEntity V Pr N N Pr 1FactEntity V Pr N Pr A N Cn Cn Av Cn V Pr N Cn N V N N N Pa
+
+В СЕНТЯБРЬ 2013 ГОД МОБИЛЬНЫЙ БИЗНЕС 0FactEntity БЫТЬ ПРОДАТЬ 0FactEntity 1FactEntity ЗА 7,5 МИЛЛИАРД ДОЛЛАР
+Pr N W N A N 0FactEntity V V 0FactEntity 1FactEntity Pr W N N
+
+ОДИН КОНТРАКТ БЫТЬ ПОДПИСАТЬ С ЧЕМПИОН МИР 2FactEntity ВЕСЕЛИН ТОПАЛОВ ДВА С КЛАССИЧЕСКИЙ ЧЕМПИОН МИР 1FactEntity ПРЕЗИДЕНТ 2FactEntity 0FactEntity СООБЩИТЬ ЧТО ОН ПОДПИСАТЬ ТРИ ВАЖНЫЙ КОНТРАКТ
+A N V V Pr N N 2FactEntity N N Num Pr A N N 1FactEntity N 2FactEntity 0FactEntity V Cn Pn V Num A N
+
+ЗА ЭТОТ СОБЫТИЕ СЛЕДОВАТЬ ПОЛУЧЕНИЕ РОССИЯ ПРАВО НА ПРОВЕДЕНИЕ ЧЕМПИОНАТ МИР ПО ФУТБОЛ 2018 СДЕЛКА 0FactEntity ПО ПРИОБРЕТЕНИЕ 25 ПЕРВОЕ 1FactEntity И БЫСТРЫЙ РЕАКЦИЯ TWITTER НА ВЗРЫВ В ДОМОДЕДОВО
+Pr A N V N N N Pr N N N Pr N W N 0FactEntity Pr N W N 1FactEntity Cn A N W Pr N Pr N
+
+В ЭТО ГОД ПРЕМЬЕР-МИНИСТР 0FactEntity ПРЕДПОЛАГАТЬ ДОСРОЧНО ВЫПЛАТИТЬ 1FactEntity ЕЩЁ 12 МИЛЛИАРД ДОЛЛАР
+Pr W N N 0FactEntity V Av V 1FactEntity Av W N N
+
+МИХАИЛ ЛЕСИН ТАКЖЕ ОПРОВЕРГНУТЬ ИНФОРМАЦИЯ О ТОТ ЧТО ГЛАВНЫЙ РЕДАКТОР ЭХО 0FactEntity ПРЕДЛАГАТЬ ВЫКУПИТЬ РАДИОСТАНЦИЯ И ЗАЯВИТЬ ЧТО 1FactEntity НЕ БЫТЬ ПРОДАВАТЬ ЭТОТ РЕСУРС
+N N Cn V N Pr A Cn A N N 0FactEntity V V N Cn V Cn 1FactEntity W V V A N
+
+ИЗВЕСТНО ЧТО 0FactEntity ХОТЕТЬ ИЗБАВИТЬСЯ ОТ РОССИЙСКИЙ РАДИОСТАНЦИЯ ЕЩЁ 2 ГОД НАЗАД ТОГДА И СТАТЬ ПОДЫСКИВАТЬ ПОКУПАТЕЛЬ АКТИВ В СВОЙ ВРЕМЯ БЫТЬ ПРЕДЛОЖИТЬ И ХОЛДИНГ ПРОФ-МЕДИА ВЛАДИМИР ПОТАНИН И АФ МЕДИА ХОЛДИНГ АЛИШЕР УСМАНОВ А 1FactEntity МИХАИЛ ФРИДМАН
+Av Cn 0FactEntity V V Pr A N Av W N Av Av Cn V V N N Pr A N V V Cn N N N N Cn Int N N N N Cn 1FactEntity N N
+
+СТАРШИЙ ДИРЕКТОР СОВЕТ НАЦИОНАЛЬНЫЙ БЕЗОПАСНОСТЬ ПО ЕВРОПЕЙСКИЙ ДЕЛО ЧАРЛЬЗ КУПЧАН ЗАЯВИТЬ ЧТО ОБАМА БЫТЬ ДОГОВАРИВАТЬСЯ С ЛИДЕР 0FactEntity О РАСШИРЕНИЕ САНКЦИЯ В ОТНОШЕНИЕ 1FactEntity В ХОД ПЕРЕГОВОРЫ НА ПОЛЕ САММИТ
+N N N A N Pr A N N N V Cn N V V Pr N 0FactEntity Pr N N Pr N 1FactEntity Pr N N Pr N N
+
+ПОСЛЕ СМЕРТЬ ПО ЗАВЕЩАНИЕ ОНА ПЕРЕЙТИ В СОБСТВЕННОСТЬ ОБНАЖЁННЫЙ НИКОЛАЙ ФЕШИНА ДРУГОЙ ВАЖНЫЙ ЛОТ ВЕЧЕРНИЙ ТОРГ SOTHEBYS
+Pr N Pr N Pn V Pr N A N N A A N A N W
+
+ЧЕРНОГОРИЯ ПРИСОЕДИНИТЬСЯ К САНКЦИЯ 0FactEntity ПРОТИВ 1FactEntity ВВ0FactEntityТИ В СВЯЗЬ С УКРАИНСКИЙ КРИЗИС ЧТОБЫ КАК МОЖНО СКОРЕЕ ВСТУПИТЬ В 0FactEntity И НАТО ЗАЯВИТЬ ПРЕЗИДЕНТ СТРАНА ФИЛИП ВУЯН
+N V Pr N 0FactEntity Pr 1FactEntity ВВ0FactEntityТИ Pr N Pr A N Cn Cn Av Cn V Pr 0FactEntity Cn N V N N N Pa
+
+СЕЙЧАС ПРОДОЛЖАТЬ ОН 0FactEntity АССИГНОВАТЬ 115 МИЛЛИОН ДОЛЛАР НА ПРОДВИЖЕНИЕ РАЗВИТИЕ И ТУРИЗМ В ГОРОД НАШ ПОЗИЦИЯ ПО ЕДИНСТВО 1FactEntity ОСТАВАТЬСЯ ПРЕЖНИЙ И МЫ ПО-ПРЕЖНЕМУ ПРОТЯГИВАТЬ РУКА НАШ АРАБСКИЙ СОСЕД ДОБАВИТЬ ОН
+Av V Pn 0FactEntity V W N N Pr N N Cn N Pr N A N Pr N 1FactEntity V A Cn Pn Av V N A A N V Pn
+
+НА ТРЕТЬЕ МЕСТО ПОКУПКА КРУПНЫЙ 0FactEntity СТРУКТУРА 1FactEntityА РОССИЯ
+Pr N N N A 0FactEntity N 1FactEntityА N
+
+0FactEntity ПО НЕКОТОРЫЕ ПОКАЗАТЕЛЬ КРУПНЫЙ 0FactEntity МИР ПОДПИСАТЬ СОГЛАШЕНИЕ О ПОКУПКА КОНТРОЛЬНЫЙ ДОЛЯ В 1FactEntity УПРАВЛЯТЬ 13 Ю ФИЛИАЛ В КАЛИФОРНИЯ И НЬЮ-ЙОРК
+0FactEntity Pr A N A 0FactEntity N V N Pr N A N Pr 1FactEntity V W N N Pr N Cn N
+
+ПОКА САМЫЙ КРУПНЫЙ СЛИЯНИЕ В МИР IT КОРПОРАЦИЯ ЯВЛЯТЬСЯ СОГЛАШЕНИЕ МЕЖДУ 0FactEntity И 1FactEntity КОТОРЫЙ НАПОМНИТЬ БЫТЬ ОБЪЯВИТЬ В МАЙ ЭТО ГОД
+Av A A N Pr N W N V N Pr 0FactEntity Cn 1FactEntity A V V V Pr N W N
+
+В МАЙ ЭТО ГОД СООБЩАТЬСЯ ЧТО ФЕДЕРАЛЬНЫЙ ЗАКОН ПРЕДУСМОТРЕТЬ ПРЕДОСТАВЛЕНИЕ В 2013 ГОД ГОСУДАРСТВЕННЫЙ ГАРАНТИЯ 0FactEntity ОАО КИНОСТУДИЯ 1FactEntity В ОБЪЁМ 1,53 МИЛЛИАРД РУБЛЬ
+Pr N W N V Cn A N V N Pr W N A N 0FactEntity N N 1FactEntity Pr N W N N
+
+ЖУРД СООБЩАТЬ ЧТО 0FactEntity ПРОДАТЬ СВОЙ ДОЛЯ СТРУКТУРА ПОЛИТТЕХНОЛОГ 1FactEntity
+N V Cn 0FactEntity V A N N N 1FactEntity
+
+РОСНЕФТЬ ОБРАЩАТЬСЯ К 0FactEntity С ПРЕДЛОЖЕНИЕ О ПРОДАЖА ЕЁ ДОЛЯ В ТНК - 0FactEntity ЕЩЁ ЛЕТОМ 2012 ГОД 0FactEntity ОДОБРИТЬ ПРОДАЖА АКЦИЯ ТНК - 0FactEntity РОСНЕФТЬ
+N V Pr 0FactEntity Pr N Pr N A N Pr W W 0FactEntity Av Av W N 0FactEntity V N N W W 0FactEntity N
+
+СОСЕД СЧИТАТЬ ЧТО ЭТО 0FactEntity ДОЛЖНЫЙ 4FactEntity ЗА ТРАНЗИТ ГОЛУБОЙ ТОПЛИВО В ЕВРОПА 200 МИЛЛИОН ДОЛЛАР – РОВНО СТОЛЬКО СКОЛЬКО СОСТАВЛЯТЬ ДОЛГ МИНСК ПЕРЕД МОСКВА
+N V Cn W 0FactEntity A 4FactEntity Pr N N N Pr N W N N W Av Av Cn V N N Pr N
+
+ПО ДАННЫЕ ИНТЕРНЕТОМ-ИЗДАНИЕ TECHCRUNCH В МАРТ ЭТО ГОД 0FactEntity ТАКЖЕ ПРИКУПИТЬ АКЦИЯ 1FactEntity ПОТРАТИТЬ НА ПРИОБРЕТЕНИЕ 0,7 90 МИЛЛИОН ДОЛЛАР
+Pr Pa N W Pr N W N 0FactEntity Cn V N 1FactEntity V Pr N W W N N
+
+0FactEntity УСТУПИТЬ 2FactEntity КОНТРОЛЬ НАД 2FactEntity ВОЗВРАЩАТЬСЯ К 1FactEntity ПО СООБЩЕНИЕ ГАЗЕТА ВЕДОМОСТЬ 4 ЯНВАРЬ 100 АКЦИЯ 2FactEntity ПРИНАДЛЕЖАТЬ СТРУКТУРА 0FactEntity БЫТЬ ПРОДАТЬ СТРУКТУРА ДРУГОЙ ПРЕДПРИНИМАТЕЛЬ 1FactEntity В СВОЙ ВРЕМЯ СОЗДАТЬ 2FactEntity И КОНТРОЛИРОВАТЬ ЕЁ ДО ЛЕТО 2007 ГОД
+0FactEntity V 2FactEntity N Pr 2FactEntity V Pr 1FactEntity Pr N N N W N W N 2FactEntity V N 0FactEntity V V N A N 1FactEntity Pr A N V 2FactEntity Cn V A Pr N W N
+
+0FactEntity ОДОБРИТЬ ПРОДАЖА АКЦИЯ ТНК - 0FactEntity 1FactEntity
+0FactEntity V N N W W 0FactEntity 1FactEntity
+
+ОТНОШЕНИЕ 1FactEntity И ЮЖНЫЙ КОРЕЯ РЕЗКО ОБОСТРИТЬСЯ В КОНЕЦ 2012 ГОД ПОСЛЕ ТОТ КАК ПХЕНЬЯН ЗАПУСТИТЬ БАЛЛИСТИЧЕСКИЙ РАКЕТА ЧТО ПОВЛЕЧЬ ЗА СЕБЯ УЖЕСТОЧЕНИЕ САНКЦИЯ 0FactEntity ПРОТИВ 1FactEntity
+N 1FactEntity Cn A N Av V Pr N W N Pr A Cn N V A N Cn V Pr Pn N N 0FactEntity Pr 1FactEntity
+
+0FactEntity ЗАВЕРШИТЬ СДЕЛКА ПО ПОКУПКА 100 АКЦИЯ 1FactEntity
+0FactEntity V N Pr N W N 1FactEntity
+
+0FactEntity НАПОМНИТЬ ПРИОБРЕСТИ 1FactEntity ЗА 1 МИЛЛИАРД ДОЛЛАР В 2008 ГОД
+0FactEntity V V 1FactEntity Pr W N N Pr W N
+
+СРЕДСТВО ВЫРУЧИТЬ ОТ ПРОДАЖА КАРТИНА БЫТЬ НАПРАВИТЬ В 1FactEntity ПОСЛЕ СМЕРТЬ ПО ЗАВЕЩАНИЕ ОНА ПЕРЕЙТИ В СОБСТВЕННОСТЬ 0FactEntity КАЛИФОРНИЯ
+N V Pr N N V V Pr 1FactEntity Pr N Pr N Pn V Pr N 0FactEntity N
+
+0FactEntity ПРИОБРЕСТИ 1FactEntity И СНЯТЬ СЕМЬ ЭПИЗОД ЗВЁЗДНЫЙ ВОЙНА
+0FactEntity V 1FactEntity Cn V Num N A N
+
+ЛИДЕР 0FactEntity ВЕЛИКОБРИТАНИЯ И 1FactEntity АНГЕЛ МЕРКЕЛЬ ДЭВИД КЭМЕРОН И ФРАНСУА ОЛЛАНДА ПРОВЕСТИ В ВОСКРЕСЕНИЕ ТЕЛЕФОННЫЙ ПЕРЕГОВОРЫ В ВРЕМЯ КОТОРЫЙ ДОГОВОРИТЬСЯ ВВЕСТИ НА ВСТРЕЧА СОВЕТ ПО ИНОСТРАННЫЙ ДЕЛО ЕС В ВТОРНИК НОВОЕ САНКЦИЯ ПРОТИВ РОССИЯ ЕСЛИ ТОТ СРОЧНО НЕ НАДАВИТЬ НА ОПОЛЧЕНЕЦ КОТОРЫЙ ДОЛЖНЫЙ ПРЕДОСТАВИТЬ МЕЖДУНАРОДНЫЙ НАБЛЮДАТЕЛЬ ДОСТУП НА МЕСТО КРУШЕНИЕ
+N 0FactEntity N Cn 1FactEntity N N N N Cn N N V Pr N A N Pr N A V V Pr N N Pr A N N Pr N N N Pr N Cn A Av W V Pr N A A V A N N Pr N N
+
+1FactEntity И 0FactEntity РАСШИРЯТЬ ПРОГРАММА ПОДДЕРЖКА ИННОВАЦИОННЫЙ СТАРТAПОВ
+1FactEntity Cn 0FactEntity V N N A W
+
+КОГДА СТАТЬ ИЗВЕСТНО ЧТО 0FactEntity СДЕЛАТЬ ПРЕДЛОЖЕНИЕ 1FactEntity ПОСТУПИТЬ АНАЛОГИЧНЫЙ ОБРАЗ ПОСЛЕ ЭТОТ ВСТРЕЧА СЕЧИН РАССКАЗАТЬ ЖУРНАЛИСТ ЧТО 0FactEntity МОЧЬ ВЫКУПИТЬ ДОЛЯ BP В ТНК-ВР
+Cn V Av Cn 0FactEntity V N 1FactEntity V A N Pr A N N V N Cn 0FactEntity N V N W Pr N
+
+0FactEntity ПРЕДЛАГАТЬ 44,6 МИЛЛИАРД USD ЗА 1FactEntity ЛИДЕР МИРОВОЙ РЫНОК ПРОГРАММНЫЙ ОБЕСПЕЧЕНИЕ 0FactEntity ГОТОВЫЙ ВЫЛОЖИТЬ ЗА 1FactEntity ФЕНОМЕНАЛЬНЫЙ СУММА 44,6 МИЛЛИАРД ДОЛЛАР
+0FactEntity V W N W Pr 1FactEntity N A N A N 0FactEntity A V Pr 1FactEntity A N W N N
+
+ЗА ПОСЛЕДНИЙ ГОД АКТИВ 0FactEntity В ГАЗОВЫЙ ОТРАСЛЬ ЗНАЧИТЕЛЬНО УВЕЛИЧИТЬСЯ ЗА СЧЁТ ПРИОБРЕТЕНИЕ КОНТРОЛЬНЫЙ ПАКЕТ В 1FactEntity И 100 ТНК-ВР
+Pr A N N 0FactEntity Pr A N Av V Pr N N A N Pr 1FactEntity Cn W N
+
+0FactEntity МОЧЬ ПРЕКРАТИТЬ СВОЙ РАБОТА ИЗ-ЗА ОСТАНОВКА ПОСТАВКА ГАЗА НА 0FactEntity ОН ЗАКУПАТЬ У КОМПАНИЯ АПАТИТ СЫРЬЁ ДЛЯ ПРОИЗВОДСТВО ГЛИНОЗЁМ СЫРЬЁ ДЛЯ АЛЮМИНИЙ А ПОБОЧНЫЙ ПРОДУКТ ОЧИСТКА ПРОДАВАТЬ 1FactEntity И ПИКАЛЕВСКИЙ ЦЕМЕНТ
+0FactEntity N V A N Pr N N N Pr 0FactEntity Pn V Pr N N N Pr N N N Pr N Cn A N N V 1FactEntity Cn A N
+
+КРОМЕ ТОТ ВИДЕО 0FactEntity ЛЕГАЛЬНО РАЗМЕЩАТЬСЯ НА 1FactEntity
+Pr A N 0FactEntity Av V Pr 1FactEntity
+
+ОТМЕТИТЬ ТАКЖЕ ЧТО МЕЖДУ 1FactEntity И ПЕРВОЕ КАНАЛ УЖЕ ЗАКЛЮЧИТЬ ДОГОВОР НА ПРИОБРЕТЕНИЕ ПРАВО НА РЕТРАНСЛЯЦИЯ ТАКОЙ ПОПУЛЯРНЫЙ ПРОГРАММА КАК ПРОЖЕКТОРПЕРИСХИЛТОН И БОЛЬШОЙ РАЗНИЦА
+V Cn Cn Pr 1FactEntity Cn N N Av V N Pr N N Pr N A A N Cn N Cn A N
+
+0FactEntity ПОДТВЕРДИТЬ ЗАКРЫТИЕ СДЕЛКА С 1FactEntity В ПЕРВОЕ КВАРТАЛ 2011 ГОД
+0FactEntity V N N Pr 1FactEntity Pr N N W N
+
+О ВОЗМОЖНЫЙ НОВЫЙ САНКЦИЯ НАМЕКНУТЬ И КЕРРИ КОТОРЫЙ ЗАЯВИТЬ ЧТО 0FactEntity СТАРАТЬСЯ СДЕЛАТЬ ТАК ЧТОБЫ ЕВРОПЕЙСКИЙ ПАРТНЁР АКТИВНЫЙ БЫТЬ ВОВЛЕЧЬ В НАЛОЖЕНИЕ САНКЦИЯ НА 1FactEntity
+Pr A A N V Cn N A V Cn 0FactEntity V V Cn Cn A N A V V Pr N N Pr 1FactEntity
+
+1FactEntity ТРЕБОВАТЬ ЧТОБЫ 0FactEntity СНЯТЬ ОГРАНИЧЕНИЕ НА ИМПОРТ СЕЛЬСКОХОЗЯЙСТВЕННЫЙ ПРОДУКЦИЯ ИЗ 1FactEntity И ЧТОБЫ 0FactEntity ПОДПИСАТЬ ЭНЕРГЕТИЧЕСКИЙ ХАРТИЯ
+1FactEntity V Cn 0FactEntity V N Pr N A N Pr 1FactEntity Cn Cn 0FactEntity V A N
+
 ПРЕЗИДЕНТ 0FactEntity 2FactEntity СООБЩИТЬ ЧТО ОН ПОДПИСАТЬ ТРИ ВАЖНЫЙ КОНТРАКТ ТРИ КОНТРАКТ БЫТЬ ПОДПИСАТЬ МЕЖДУ 0FactEntity И 1FactEntity
 N 0FactEntity 2FactEntity V Cn Pn V Num A N Num N V V Pr 0FactEntity Cn 1FactEntity
+
+0FactEntity И 1FactEntity СЕГОДНЯ ПРОВЕСТИ ПЕРЕГОВОРЫ ПО ВОПРОС ПОСТАВКА МЯСО ПТИЦА
+0FactEntity Cn 1FactEntity Av V N Pr N N N N
+
+УГРОЗА НАД 0FactEntity НАВИСЛЫЙ ИЗ-ЗА КОНФЛИКТ МЕЖДУ РУКОВОДСТВО МОДНЫЙ 0FactEntity И 1FactEntity ПОСЛЕДНИЙ ОБВИНЯТЬ 0FactEntity В ПРОСРОЧКА ПОГАШЕНИЕ ВЕКСЕЛЬ НА СУММА ОКОЛО 20 МИЛЛИОН РУБЛЬ
+N Pr 0FactEntity A Pr N Pr N A 0FactEntity Cn 1FactEntity A V 0FactEntity Pr N N N Pr N Pr W N N
+
+В ЧАСТНОСТЬ 0FactEntity ОФИЦИАЛЬНО ПОДТВЕРДИТЬ ИНФОРМАЦИЯ О ПОДПИСАНИЕ СОГЛАШЕНИЕ О ОСНОВНЫЙ УСЛОВИЕ СДЕЛКА С 1FactEntity О ПРИОБРЕТЕНИЕ 50 ДОЛЯ В Т0FactEntity - 1FactEntity В ОБМЕН НА 17,1 МИЛЛИАРД ДОЛЛАР США НАЛИЧНЫЙ И 12,84 АКЦИЯ 0FactEntity ЯВЛЯТЬСЯ В НАСТОЯЩЕЕ 1FactEntityЕМЯ КАЗНАЧЕЙСКИЙ
+Pr N 0FactEntity Av V N Pr N N Pr A N N Pr 1FactEntity Pr N W N Pr Т0FactEntity W 1FactEntity Pr N Pr W N N N A Cn W N 0FactEntity V Pr N 1FactEntityЕМЯ A
+
+ЗАПАД ПООБЕЩАТЬ 1FactEntity САНКЦИЯ ЗА КРУШЕНИЕ MH17 В ЧАСТНОСТЬ РЕЧЬ МОЧЬ ИДТИ О ПРИСОЕДИНЕНИЕ 0FactEntity К СПЕКТРАЛЬНЫЙ САНКЦИЯ ПРОТИВ ЦЕЛОЕ РЯД КРУПНЫЙ РОССИЙСКИЙ КОМПАНИЯ КОТОРЫЙ УЖЕ ВВЕСТИ США
+N V 1FactEntity N Pr N W Pr N N N V Pr N 0FactEntity Pr A N Pr N N A A N A Av V N
+
+0FactEntity КОТОРЫЙ В 1990 Е ГОД ЯВЛЯТЬСЯ ДЕПУТАТ ГОСУДАРСТВЕННЫЙ ДУМА ОТ ЛДПР И СПОНСОР ЭТОТ ПАРТИЯ В ОДИН ПОЛОВИНА 2007 ГОД БЫТЬ ОБВИНИТЬ В НЕЗАКОННЫЙ ПРЕДПРИНИМАТЕЛЬСТВО И НЕУПЛАТА НАЛОГ В ОСОБО КРУПНЫЙ РАЗМЕР ПОСЛЕ ЭТО ОН ПРОДАТЬ РУССНЕФТЬ 1FactEntity И ПОКИНУТЬ РОССИЯ
+0FactEntity A Pr W N N V N A N Pr N Cn N A N Pr A N W N V V Pr A N Cn N N Pr Av A N Pr W Pn V N 1FactEntity Cn V N
+
+1FactEntity НАЧАТЬ ПРИЁМ ЗАЯВКА НА РЕГИСТРАЦИЯ ДОМЕННЫЙ ИМЯ В КИРИЛЛИЧЕСКИЙ ЗОНА РФ И ПЕРВОЕ ЗАЯВЛЕНИЕ ПОСТУПИТЬ ОТ 0FactEntity НА ИМЯ КРЕМЛЬ РФ
+1FactEntity V N N Pr N A N Pr A N N Cn N N V Pr 0FactEntity Pr N N N
+
+1FactEntity НАЧАТЬ ПРИЁМ ЗАЯВКА НА РЕГИСТРАЦИЯ ДОМЕННЫЙ ИМЯ В КИРИЛЛИЧЕСКИЙ ЗОНА РФ И ПЕРВОЕ ЗАЯВЛЕНИЕ ПОСТУПИТЬ ОТ 0FactEntity КРЕМЛЬ НА ИМЯ КРЕМЛЬ РФ ВСЕГО В РЕГИСТРАЦИОННЫЙ ЦЕНТР ПОСТУПИТЬ ОКОЛО ДЕСЯТКА ЗАЯВКА В ТОТ ЧИСЛО НА ИМЯ ЕКАТЕРИНБУРГ РФ И ЕКБУРГ РФ ОНИ ПОДАТЬ 0FactEntity
+1FactEntity V N N Pr N A N Pr A N N Cn N N V Pr 0FactEntity N Pr N N N Av Pr A N V Pr N N Pr A N Pr N N N Cn N N Pn V 0FactEntity
+
+В СЕРЕДИНА ЯНВАРЬ 2013 ГОД ПОЯВИТЬСЯ СООБЩЕНИЕ ЧТО В ПОКУПКА БИЗНЕС TELE 2 В РОССИЯ ЗАИНТЕРЕСОВАТЬ 0FactEntity НА 82 ПРИНАДЛЕЖАЩИЙ АЛИШЕР УСМАНОВ
+Pr N N W N V N Cn Pr N N W W Pr N V 0FactEntity Pr W A N N
+
+ПО НЕКОТОРЫЕ ДАННЫЕ ЗАИНТЕРЕСОВАННОСТЬ В 1FactEntity РОССИЯ ПРОЯВЛЯТЬ И 0FactEntity
+Pr A Pa N Pr 1FactEntity N V Cn 0FactEntity
+
+0FactEntity ВПЕРВЫЕ ПРИОБРЕСТИ АКЦИЯ 1FactEntity В МАЙ 2009 ГОД
+0FactEntity Av V N 1FactEntity Pr N W N
+
+В 1FactEntity ТАКЖЕ ВЛОЖИТЬСЯ ТАКОЙ 1FactEntity КАК U S VENTURE PARTNER 0FactEntity И PIVOTNORTH CAPITAL
+Pr 1FactEntity Cn V A 1FactEntity Cn W W W W 0FactEntity Cn W W
+
+В ЭТО ИМЯ ПОМОЧЬ ОРГАНИЗАТОР И ПАРТНЁР ТУРНИР SEED 1FactEntity В РАМКА СОГЛАШЕНИЕ С 0FactEntity ПРОЕКТ СМОЧЬ ПОЛУЧИТЬ ФИНАНСИРОВАНИЕ В РАЗМЕР ОТ 250 ТЫСЯЧА РУБЛЬ ДО 2,5 МИЛЛИОН ПО УПРОЩЁННЫЙ ПРОЦЕДУРА
+Pr W N V N Cn N N W 1FactEntity Pr N N Pr 0FactEntity N V V N Pr N Pr W N N Pr W N Pr A N
+
+ОСНОВАТЕЛЬ 2FactEntity В КОНТАКТ 0FactEntity ПРОДАТЬ СВОЙ ДОЛЯ В 2FactEntity 1FactEntity ГЕНДИРЕКТОР МЕГАФОН И СОВЛАДЕЛЕЦ ХОЛДИНГ ЮТВ ОН ВЛАДЕТЬ ИМЯ ВМЕСТЕ С БИЗНЕСМЕН АЛИШЕР УСМАНОВ
+N 2FactEntity Pr N 0FactEntity V A N Pr 2FactEntity 1FactEntity N N Cn N N W Pn V N Av Pr N N N
+
+В ФЕВРАЛЬ ЭТО ГОД 0FactEntity НЕ СМОЧЬ ВОВРЕМЯ ПРОВЕСТИ ПЛАТЁЖ ПО КРЕДИТ 1FactEntity СООБЩИТЬ РБК ПРЕДСТАВИТЕЛЬ ОБЛАСТНОЙ ДЕПАРТАМЕНТ ФИНАНСЫ
+Pr N W N 0FactEntity W V Av V N Pr N 1FactEntity V N N A N N
+
+0FactEntity ПОКУПАТЬ 1FactEntity ЗА 67 МИЛЛИАРД
+0FactEntity V 1FactEntity Pr W N
+
+ЗА ПОСЛЕДНИЙ ГОД АКТИВ 0FactEntity В ГАЗОВЫЙ ОТРАСЛЬ ЗНАЧИТЕЛЬНО УВЕЛИЧИТЬСЯ ЗА СЧЁТ ПРИОБРЕТЕНИЕ КОНТРОЛЬНЫЙ ПАКЕТ В ИТЕР И 100 1FactEntity
+Pr A N N 0FactEntity Pr A N Av V Pr N N A N Pr V Cn W 1FactEntity
+
+ПО СЛУХ ЗАИНТЕРЕСОВАННОСТЬ В ИНВЕСТИЦИЯ В 1FactEntity УЖЕ ПРОЯВИТЬ GOOGLE ЯНДЕКС SKYPE 0FactEntity И ДРУГОЙ
+Pr N N Pr N Pr 1FactEntity Av V W N W 0FactEntity Cn A
+
+ЭКОНОМИКА 0FactEntity ПЛАНИРОВАТЬСЯ УЛУЧШИТЬ ЗА СЧЁТ ПОВЫШЕНИЕ ЗАКУПОЧНЫЙ ЦЕНА ДЛЯ 1FactEntity И ПИКАЛЕВСКИЙ ЦЕМЕНТ
+N 0FactEntity V V Pr N N A N Pr 1FactEntity Cn A N
+
+1FactEntity ВСЕРЬЁЗ ЗАИНТЕРЕСОВАТЬ В НАЛАЖИВАНИЕ ПАРТНЁРСТВО С 0FactEntity И ДАЖЕ ПОДАТЬ ЗАЯВКА НА УЧАСТИЕ В 0FactEntity 1FactEntity ПОДАТЬ ЗАЯВКА НА СОТРУДНИЧЕСТВО С 0FactEntity
+1FactEntity Av V Pr N N Pr 0FactEntity Cn W V N Pr N Pr 0FactEntity 1FactEntity V N Pr N Pr 0FactEntity
+
+БЫТЬ КРУПНЫЙ В МИР ЭКСПОРТЁР НЕФТЬ 0FactEntity ПЛАНИРОВАТЬ ОТПРАВЛЯТЬ КРУПНЫЙ ПОТРЕБИТЕЛЬ ЭНЕРГОНОСИТЕЛЬ 1FactEntity БОЛЕЕ 300 ТЫСЯЧА БАРРЕЛЬ В ДЕНЬ
+V A Pr N N N 0FactEntity V V A N N 1FactEntity Av W N N Pr N
+
+В РАМКА ПАРТНЕРСТВО 1FactEntity И 0FactEntity БЫТЬ ДЕЛИТЬ ДОХОД ОТ ПОКАЗ РЕКЛАМА В РОЛИК ТЕЛЕ 0FactEntity В 1FactEntity
+Pr N N 1FactEntity Cn 0FactEntity V V N Pr N N Pr N N 0FactEntity Pr 1FactEntity
+
+0FactEntity ГОТОВЫЙ ПРИОБРЕСТИ 10 1FactEntity АНДРЕЙ ТЕРНОВСКИЙ
+0FactEntity A V W 1FactEntity N A
+
+В ФЕВРАЛЬ 2011 ГОД 1FactEntity ДОГОВАРИВАТЬСЯ О СЛИЯНИЕ С ФРАНКФУРТСКИЙ DEUTSCHE BORSE В РАМКА СДЕЛКА НА 9,5 МИЛЛИАРД ДОЛЛАР США
+Pr N W N 1FactEntity V Pr N Pr A W W Pr N N Pr W N N N
+
+Я ОСОБЕННО ПРИЯТНО ОТМЕТИТЬ ТОТ ФАКТ ЧТО 0FactEntity ОСТАВАТЬСЯ ОДИН ИЗ КРУПНЫЙ ИНВЕСТОР В РОССИЙСКИЙ ЭКОНОМИКА ПРИЗНАВАТЬ ТЕМ САМЫЙ ПОТЕНЦИАЛ РОСНЕФТЬ И НЕФТЕГАЗОВЫЙ СЕКТОР 1FactEntity
+Pn Av Av V A N Cn 0FactEntity V A Pr A N Pr A N V Cn A N N Cn A N 1FactEntity
+
+ЕСЛИ КИЕВ СОГЛАСИТЬСЯ НА ПРЕДЛОЖЕНИЕ ТО 0FactEntity БЫТЬ ПРОДАВАТЬ 1FactEntityА ТОПЛИВО ПО 375 ДОЛЛАР ЗА ТЫСЯЧА КУБОМЕТР
+Cn N V Pr N Cn 0FactEntity V V 1FactEntityА N Pr W N Pr N N
+
+НА ДАННЫЙ МОМЕНТ 1FactEntity НАХОДИТЬСЯ ПОД ЭКОНОМИЧЕСКИЙ САНКЦИЯ США ЕС 0FactEntity ЯПОНИЯ АВСТРАЛИЯ И КАНАДА
+Pr A N 1FactEntity V Pr A N N N 0FactEntity N N Cn N
+
+ИЗВЕСТНО ЧТО 0FactEntity ХОТЕТЬ ИЗБАВИТЬСЯ ОТ РОССИЙСКИЙ РАДИОСТАНЦИЯ ЕЩЁ 2 ГОД НАЗАД ТОГДА И СТАТЬ ПОДЫСКИВАТЬ ПОКУПАТЕЛЬ АКТИВ В СВОЙ ВРЕМЯ БЫТЬ ПРЕДЛОЖИТЬ И 1FactEntity ПРОФ-МЕДИА ВЛАДИМИР ПОТАНИН И 1FactEntity АЛИШЕР УСМАНОВ А АЛЬФА-ГРУППА МИХАИЛ ФРИДМАН
+Av Cn 0FactEntity V V Pr A N Av W N Av Av Cn V V N N Pr A N V V Cn 1FactEntity N N N Cn 1FactEntity N N Cn N N N
+
+НА ДАННЫЙ МОМЕНТ 1FactEntity НАХОДИТЬСЯ ПОД ЭКОНОМИЧЕСКИЙ САНКЦИЯ США ЕС НОРВЕГИЯ 0FactEntity АВСТРАЛИЯ И КАНАДА
+Pr A N 1FactEntity V Pr A N N N N 0FactEntity N Cn N
+
+0FactEntity И 1FactEntity ДОГОВОРИТЬСЯ О ПЕРЕСМОТР ГАЗОВЫЙ СОГЛАШЕНИЕ 2009 ГОД И РЕСТРУКТУРИЗАЦИЯ 2FactEntity
+0FactEntity Cn 1FactEntity V Pr N A N W N Cn N 2FactEntity
+
+СУД ЛОС-АНДЖЕЛЕС ПОСТАНОВИТЬ ЧТО 0FactEntity НЕ ПРИНАДЛЕЖАТЬ АВТОРСКИЙ ПРАВО НА ПЕСНЯ HAPPY BIRTHDAY TO YOU С ДНЁМ РОЖДЕНИЕ ТЫ ПЕРЕДАВАТЬ ИЗДАНИЕ LOS ANGELES TIME ПО ДАННЫЕ ИЗДАНИЕ 0FactEntity ПРЕТЕНДОВАТЬ НА АВТОРСТВО С ТОТ ПОРА КАК ЗАПЛАТИТЬ 15 МИЛЛИОН ДОЛЛАР ЗА ПОКУПКА 1FactEntity ПРЕЕМНИЦА CLAYTON F SUMMY CO КОТОРЫЙ ПРИНАДЛЕЖАТЬ ПРАВО НА ПЕСНЯ
+N N V Cn 0FactEntity W V A N Pr N W W W W Pr Av N Pn V N W W W Pr Pa N 0FactEntity V Pr N Pr A N Cn V W N N Pr N 1FactEntity N W W W W A V N Pr N
+
+YAHOO РАНЕЕ ПОКУПАТЬ НЕБОЛЬШОЙ РАСТИ 0FactEntity ТАКОЙ КАК 1FactEntity И FLICKR НО С ВРЕМЯ ПРЕКРАЩАТЬ ОНИ ПОДДЕРЖИВАТЬ
+W Av V A V 0FactEntity A Cn 1FactEntity Cn W Cn Pr N V Pn V
+
+В 1FactEntity ТАКЖЕ ВЛОЖИТЬСЯ ТАКОЙ 1FactEntity КАК U S VENTURE PARTNER CMEA CAPITAL И PIVOTNORTH CAPITAL
+Pr 1FactEntity Cn V A 1FactEntity Cn W W W W W W Cn W W
+
+ТАКОЙ ЖЕ УВЕДОМЛЕНИЕ 0FactEntity ПОЛУЧИТЬ ОТ ПОСТАВЩИК КРАСНЫЙ РЫБА ЗАО СК РИТЕЙЛ О КОРРЕКТИРОВКА ОБЪЁМ И СТОИМОСТЬ ПРОДУКЦИЯ СООБЩИТЬ В ПИСЬМО СВОЙ КЛИЕНТ И 1FactEntity ПОСТАВЛЯТЬ ПЛОДООВОЩНОЙ ПРОДУКЦИЯ
+A W N 0FactEntity V Pr N A N N W N Pr N N Cn N N V Pr N A N Cn 1FactEntity V A N
+
+0FactEntity ВЕСТИ ПЕРЕГОВОРЫ С КИТАЙСКИЙ ПРОИЗВОДИТЕЛЬ XIAOMI О ПОСТАВКА СМАРТФОН НА РОССИЙСКИЙ РЫНОК СООБЩИТЬ ПРЕСС-СЕКРЕТАРЬ 1FactEntity АЛИЙ БЕКЕТОВ 1FactEntity УЖЕ ПРОДАВАТЬ АППАРАТ 1FactEntity И ДОВОЛЬНО УСПЕШНО УТОЧНИТЬ ПРЕСС-СЕКРЕТАРЬ
+0FactEntity V N Pr A N W Pr N N Pr A N V N 1FactEntity N N 1FactEntity Av V N 1FactEntity Cn Av Av V N
+
+0FactEntity ЯВЛЯТЬСЯ ОПЕРАТОР ВНЕБИРЖЕВОЙ ФЬЮЧЕРСНЫЙ РЫНОК ОБЪЯВИТЬ О ПРИОБРЕТЕНИЕ 1FactEntity И СИМВОЛ КРЕПОСТЬ АМЕРИКАНСКИЙ КАПИТАЛИЗМ С 220 ЛЕТНИЙ ИСТОРИЯ 1FactEntity ЗА 8,2 МИЛЛИАРД ДОЛЛАР США 6,1 МИЛЛИАРД ЕВРО 0FactEntity КУПИТЬ 1FactEntity
+0FactEntity V N A A N V Pr N 1FactEntity Cn N N A N Pr W A N 1FactEntity Pr W N N N W N N 0FactEntity V 1FactEntity
+
+2FactEntity ЗАВЕРШИТЬ СДЕЛКА ПО ПОКУПКА 100 АКЦИЯ ТНК - 0FactEntity
+2FactEntity V N Pr N W N W W 0FactEntity
+
+НА ДАННЫЙ МОМЕНТ 1FactEntity НАХОДИТЬСЯ ПОД ЭКОНОМИЧЕСКИЙ САНКЦИЯ США ЕС НОРВЕГИЯ ЯПОНИЯ 0FactEntity И КАНАДА
+Pr A N 1FactEntity V Pr A N N N N N 0FactEntity Cn N
+
+ЕСЛИ ДЕНЬГА ТАК И НЕ ПОСТУПИТЬ НА СЧЁТ 0FactEntity ПОСТАВКА ЭЛЕКТРИЧЕСТВО В 1FactEntity ПРЕКРАТИТЬСЯ В ПОЛНОЧЬ 29 ИЮНЬ
+Cn N Cn Cn W V Pr N 0FactEntity N N Pr 1FactEntity V Pr N W N
+
+КОНТРАКТ БЫТЬ В 1961 ГОД ЗАКЛЮЧИТЬ МЕЖДУ 0FactEntity И ГЕРМАНСКИЙ ПРОДЮСЕР БЕРТ КЕМПФЕРТ ПРЕДСТАВЛЯТЬ 1FactEntity
+N V Pr W N V Pr 0FactEntity Cn A N N N V 1FactEntity
+
+0FactEntity ПРИОБРЕСТИ ДОЛЯ 2FactEntity И 3FactEntity МЕСЯЦ НАЗАД ОСНОВАТЕЛЬ 1FactEntity СООБЩИТЬ О ПРОДАЖА АГЕНТСТВО 0FactEntity ПРИОБРЕСТИ 1FactEntity
+0FactEntity V N 2FactEntity Cn 3FactEntity N Av N 1FactEntity V Pr N N 0FactEntity V 1FactEntity
+
+ПО СЛУХ ЗАИНТЕРЕСОВАННОСТЬ В ИНВЕСТИЦИЯ В 1FactEntity УЖЕ ПРОЯВИТЬ GOOGLE 0FactEntity SKYPE UNION SQUARE VENTURE И ДРУГОЙ
+Pr N N Pr N Pr 1FactEntity Av V W 0FactEntity W W W W Cn A
+
+МЕЖДУ ТЕМ ПИСАТЬ КОММЕРСАНТЪ 1FactEntity ИМЕТЬ СЛОЖНОСТЬ И В РАСПЛАТА С ДРУГОЙ КРЕДИТОР О ТОТ ЧТО ТЕЛЕ 1FactEntity ДОЛЖНЫЙ ОН 8 МИЛЛИОН РУБЛЬ ЗАЯВИТЬ БЫВШИЙ ГЛАВА РУССКИЙ ВИННО-ВОДОЧНЫЙ КОМПАНИЯ И СОВЛАДЕЛЕЦ 1FactEntity 0FactEntity
+Pr Cn V N 1FactEntity V N Cn Pr N Pr A N Pr A Cn N 1FactEntity A Pn W N N V A N A A N Cn N 1FactEntity 0FactEntity
+
+А 0FactEntity ПОЛУЧИТЬ 7,5 АКЦИЯ 1FactEntity
+Cn 0FactEntity V W N 1FactEntity
+
+ТАКОЙ ЖЕ УВЕДОМЛЕНИЕ 0FactEntity ПОЛУЧИТЬ ОТ 1FactEntity О КОРРЕКТИРОВКА ОБЪЁМ И СТОИМОСТЬ ПРОДУКЦИЯ СООБЩИТЬ В ПИСЬМО СВОЙ КЛИЕНТ И ООО ФРУТА СЕРВИС ПОСТАВЛЯТЬ ПЛОДООВОЩНОЙ ПРОДУКЦИЯ
+A W N 0FactEntity V Pr 1FactEntity Pr N N Cn N N V Pr N A N Cn N N N V A N
+
+0FactEntity ТАКЖЕ СОГЛАСОВАТЬ ОСНОВНОЙ УСЛОВИЕ СДЕЛКА C 1FactEntity АЛЬФА-ГРУППА ACCESS INDUSTRY И ГРУППА КОМПАНИЯ РЕНОВЫЙ О ПРИОБРЕТЕНИЕ ОСТАТЬСЯ 50 ДОЛЯ 1FactEntity В Т0FactEntity - ВР ЗА ДЕНЕЖНЫЙ СРЕДСТВО В РАЗМЕР 28,0 МИЛЛИАРД ДОЛЛАР США ПРИ УСЛОВИЕ ДОСТИЖЕНИЕ ДОГОВОРЁННОСТЬ ПО ОБЯЗЫВАТЬ ДОКУМЕНТ ПОЛУЧЕНИЕ КОРПОРАТИВНЫЙ И РЕГУЛЯТОРНЫЙ ОДОБРЕНИЕ И ВЫПОЛНЕНИЕ НЕКОТОРЫЙ ДРУГОЙ УСЛОВИЕ
+0FactEntity Cn V A N N W 1FactEntity N W W Cn N N A Pr N V W N 1FactEntity Pr Т0FactEntity W N Pr A N Pr N W N N N Pr N N N Pr V N N A Cn A N Cn N A A N
+
+ГЛАВНОЕ ЖЕ ПРИЗ ЭТО МЕРОПРИЯТИЕ СТАТЬ ГРАНТ ХОРОШИЙ ПРОЕКТ НА ОБУЧЕНИЕ ПО ПРОГРАММА STAR IN GARAGE ОБРАЗОВАТЕЛЬНЫЙ ПРОЕКТ КОМПАНИЯ 0FactEntity ПРИ ПОДДЕРЖКА 1FactEntity 2FactEntity И 3FactEntity ПРЕДПРИНИМАТЕЛЬСТВО США РОССИЯ
+A W N W N V N A N Pr N Pr N W W W A N N 0FactEntity Pr N 1FactEntity 2FactEntity Cn 3FactEntity N N N
+
+ТЕМ ВРЕМЯ РУКОВОДСТВО 0FactEntity УТВЕРЖДАТЬ ЧТО МЕЖДУ 0FactEntity И 1FactEntity НЕТ ДОГОВОРЁННОСТЬ О ПЕРЕСМОТР ГАЗОВЫЙ КОНТРАКТ 2009 ГОД
+Cn N N 0FactEntity V Cn Pr 0FactEntity Cn 1FactEntity Av N Pr N A N W N
+
+ПОДЧЁРКИВАТЬСЯ ЧТО ПОПУЛЯРНОСТЬ TELEGRAM ВОЗРАСТИ ПОСЛЕ ТОТ КАК 1FactEntity БЫТЬ КУПИТЬ 0FactEntity ЗА 19 МИЛЛИАРД ДОЛЛАР
+V Cn N W V Pr A Cn 1FactEntity V V 0FactEntity Pr W N N
+
+НА ПЕРВОЕ МЕСТО ОКАЗАТЬСЯ СДЕЛКА ПО ПРИОБРЕТЕНИЕ 0FactEntity 1FactEntity В ДЕКАБРЬ 2010 ГОД ПРИМЕЧАТЕЛЬНО ЧТО ПОКУПКА 0FactEntity 1FactEntity ОКАЗАТЬСЯ В РЕЙТИНГ НА ПЕРВОЕ МЕСТО А ОГРАНИЧЕНИЕ ДОЛЯ ПРОДАВЕЦ НА РЫНОК ТЕЛЕРЕКЛАМА ДО 35 ЛИШЬ НА ВТОРОЕ
+Pr N N V N Pr N 0FactEntity 1FactEntity Pr N W N Av Cn N 0FactEntity 1FactEntity V Pr N Pr N N Cn N N N Pr N N Pr W W Pr A
+
+0FactEntity КУПИТЬ NYSE В 2011 ГОД 0FactEntity СОВМЕСТНО С 1FactEntity ПРЕДЛАГАТЬ ЗА ОНА 11 МИЛЛИАРД ДОЛЛАР США ПЛАНИРОВАТЬ В ДАЛЬНЕЙШИЙ РАЗДЕЛИТЬ АКТИВ 1FactEntity ДОСТАТЬСЯ БЫ ТОРГОВЛЯ АКЦИЯ А 0FactEntity ДЕРИВАТИВ
+0FactEntity V W Pr W N 0FactEntity Av Pr 1FactEntity V Pr Pn W N N N V Pr A V N 1FactEntity V W N N Cn 0FactEntity N
+
+0FactEntity СТАТЬ ВЛАДЕЛЕЦ 1FactEntity В 2009 ГОД
+0FactEntity V N 1FactEntity Pr W N
+
+КОГДА СТАТЬ ИЗВЕСТНО ЧТО РОСНЕФТЬ СДЕЛАТЬ ПРЕДЛОЖЕНИЕ 0FactEntity ПОСТУПИТЬ АНАЛОГИЧНЫЙ ОБРАЗ РОСНЕФТЬ ОБРАЩАТЬСЯ К 1FactEntity С ПРЕДЛОЖЕНИЕ О ПРОДАЖА ЕЁ ДОЛЯ В ТНК - 1FactEntity ЕЩЁ ЛЕТОМ 2012 ГОД
+Cn V Av Cn N V N 0FactEntity V A N N V Pr 1FactEntity Pr N Pr N A N Pr W W 1FactEntity Av Av W N
+
+ОДИН КОМПАНИЯ ПОЛУЧИТЬ СОВМЕСТНЫЙ ПОДДЕРЖКА 0FactEntity И 1FactEntity ОБЩИЙ ОБЪЁМ 3 МИЛЛИОН РУБЛЬ СТАТЬ 2FactEntity
+A N V A N 0FactEntity Cn 1FactEntity A N W N N V 2FactEntity
+
+ПОСЛЕ ЭТОТ ВСТРЕЧА СЕЧИН РАССКАЗАТЬ ЖУРНАЛИСТ ЧТО 0FactEntity МОЧЬ ВЫКУПИТЬ ДОЛЯ 1FactEntity В ТНК-ВР
+Pr A N N V N Cn 0FactEntity N V N 1FactEntity Pr N
+
+YAHOO РАНЕЕ ПОКУПАТЬ НЕБОЛЬШОЙ РАСТИ КОМПАНИЯ ТАКОЙ КАК 0FactEntity И 1FactEntity НО С ВРЕМЯ ПРЕКРАЩАТЬ ОНИ ПОДДЕРЖИВАТЬ – НЕВЕРНЫЙ ВЫДЕЛИТЬ ФАКТ
+W Av V A V N A Cn 0FactEntity Cn 1FactEntity Cn Pr N V Pn V W A V N
+
+САНКЦИЯ ЯВЛЯТЬСЯ ЕДИНСТВЕННЫЙ СРЕДСТВО НАЖАТЬ НА РОССИЯ СЧИТАТЬ КАНЦЛЕР 0FactEntity АНГЕЛ МЕРКЕЛЬ ПИСАТЬ ВЕДОМОСТЬ
+N V A N V Pr N V N 0FactEntity N N V N
+
+0FactEntity КОНСТАТИРОВАТЬ ЧТО 1FactEntity ВЫМПЕЛКОМ И МЕГАФОН УСТАНОВИТЬ МОНОПОЛЬНО ВЫСОКИЙ ЦЕНА НА РОУМИНГ НА ТЕРРИТОРИЯ РОССИЯ И В СНГ КРОМЕ ТОТ ГЛАВА МИНСВЯЗИ ОТМЕТИТЬ ЧТО РАСЦЕНКА НА УСЛУГА РОУМИНГ ПРЕДОСТАВЛЯТЬ РОССИЙСКИЙ ОПЕРАТОР ДОЛЖНЫЙ СНИЗИТЬСЯ ПОСЛЕ ТОТ КАК 0FactEntity НАЛОЖИТЬ НА ОНИ ШТРАФ ЗА МОНОПОЛЬНО ВЫСОКИЙ ЦЕНА
+0FactEntity V Cn 1FactEntity N Cn N V Av A N Pr N Pr N N Cn Pr N Pr A N N V Cn N Pr N N V A N A V Pr A Cn 0FactEntity V Pr Pn N Pr Av A N
+
+ЭКОНОМИКА 0FactEntity ПЛАНИРОВАТЬСЯ УЛУЧШИТЬ ЗА СЧЁТ ПОВЫШЕНИЕ ЗАКУПОЧНЫЙ ЦЕНА ДЛЯ ПИКАЛЕВСКИЙ СОДА И 1FactEntity
+N 0FactEntity V V Pr N N A N Pr A N Cn 1FactEntity
+
+0FactEntity ОБЪЯВИТЬ О ВЫДЕЛЕНИЕ 1FactEntity ГРАНТ В 29 МИЛЛИОН ДОЛЛАР ДЛЯ БОРЬБА С КОРРУПЦИЯ И ДОГОВОРНЫЙ МАТЧ
+0FactEntity V Pr N 1FactEntity N Pr W N N Pr N Pr N Cn A N
+
+КРОМЕ ТОТ В 2010 ГОД 0FactEntity ВЛОЖИТЬ В 1FactEntity СУММА ОТ 100 ДО 200 МИЛЛИОН ДОЛЛАР
+Pr A Pr W N 0FactEntity V Pr 1FactEntity N Pr W Pr W N N
+
+ОН ЗАКУПАТЬ У 1FactEntity СЫРЬЁ ДЛЯ ПРОИЗВОДСТВО ГЛИНОЗЁМ СЫРЬЁ ДЛЯ АЛЮМИНИЙ А ПОБОЧНЫЙ ПРОДУКТ ОЧИСТКА ПРОДАВАТЬ МЕТАХИМ И ПИКАЛЕВСКИЙ ЦЕМЕНТ
+Pn V Pr 1FactEntity N Pr N N N Pr N Cn A N N V W Cn A N
+
+В ИЮНЬ ИСТЕКАТЬ СРОК САНКЦИЯ 0FactEntity ПРОТИВ РФ
+Pr N V N N 0FactEntity Pr N
+
+0FactEntity ЗАВЕРШИТЬ СДЕЛКА ПО ПОКУПКА 100 АКЦИЯ 1FactEntity ДОЛЯ 2FactEntity 0FactEntity ВЫКУПИТЬ ЗА 27,73 МИЛЛИАРД ДОЛЛАР США
+0FactEntity V N Pr N W N 1FactEntity N 2FactEntity 0FactEntity V Pr W N N N
+
+0FactEntity КОНСТАТИРОВАТЬ ЧТО МТС 1FactEntity И МЕГАФОН УСТАНОВИТЬ МОНОПОЛЬНО ВЫСОКИЙ ЦЕНА НА РОУМИНГ НА ТЕРРИТОРИЯ РОССИЯ И В СНГ КРОМЕ ТОТ ГЛАВА МИНСВЯЗИ ОТМЕТИТЬ ЧТО РАСЦЕНКА НА УСЛУГА РОУМИНГ ПРЕДОСТАВЛЯТЬ РОССИЙСКИЙ ОПЕРАТОР ДОЛЖНЫЙ СНИЗИТЬСЯ ПОСЛЕ ТОТ КАК 0FactEntity НАЛОЖИТЬ НА ОНИ ШТРАФ ЗА МОНОПОЛЬНО ВЫСОКИЙ ЦЕНА
+0FactEntity V Cn N 1FactEntity Cn N V Av A N Pr N Pr N N Cn Pr N Pr A N N V Cn N Pr N N V A N A V Pr A Cn 0FactEntity V Pr Pn N Pr Av A N
+
+ПО СЛУХ ЗАИНТЕРЕСОВАННОСТЬ В ИНВЕСТИЦИЯ В 1FactEntity УЖЕ ПРОЯВИТЬ GOOGLE ЯНДЕКС 0FactEntity UNION SQUARE VENTURE И ДРУГОЙ
+Pr N N Pr N Pr 1FactEntity Av V W N 0FactEntity W W W Cn A
+
+0FactEntity ЗАПРЕТИТЬ ВВОЗИТЬ ОВОЩ И ФРУКТ ИЗ 1FactEntity
+0FactEntity V V N Cn N Pr 1FactEntity
+
+1FactEntity ОФИЦИАЛЬНО ОБЪЯВИТЬ О ПОКУПКА 0FactEntity 3COM
+1FactEntity Av V Pr N 0FactEntity W
+
+ДВА КИНОПРОЕКТ 1FactEntity ТРЕК ИЛЬЯ СЕВЕРОВ И САМЫЙ РЫЖИЙ ЛИС АЛЕКСАНДРА СТРЕЛЯНЫЙ ПОЛУЧИТЬ ПОДДЕРЖКА 0FactEntity
+Num N 1FactEntity N N N Cn A N N N A V N 0FactEntity
+
+ОДИН КОНТРАКТ БЫТЬ ПОДПИСАТЬ С ЧЕМПИОН МИР 2FactEntity ВЕСЕЛИН 1FactEntity ДВА С КЛАССИЧЕСКИЙ ЧЕМПИОН МИР ВЛАДИМИР КРАМНИК ПРЕЗИДЕНТ 2FactEntity 0FactEntity СООБЩИТЬ ЧТО ОН ПОДПИСАТЬ ТРИ ВАЖНЫЙ КОНТРАКТ
+A N V V Pr N N 2FactEntity N 1FactEntity Num Pr A N N N N N 2FactEntity 0FactEntity V Cn Pn V Num A N
+
+ИЗВЕСТНО ЧТО 0FactEntity ХОТЕТЬ ИЗБАВИТЬСЯ ОТ РОССИЙСКИЙ РАДИОСТАНЦИЯ ЕЩЁ 2 ГОД НАЗАД ТОГДА И СТАТЬ ПОДЫСКИВАТЬ ПОКУПАТЕЛЬ АКТИВ В СВОЙ ВРЕМЯ БЫТЬ ПРЕДЛОЖИТЬ И 1FactEntity ВЛАДИМИР ПОТАНИН И АФ МЕДИА 1FactEntity АЛИШЕР УСМАНОВ А АЛЬФА-ГРУППА МИХАИЛ ФРИДМАН
+Av Cn 0FactEntity V V Pr A N Av W N Av Av Cn V V N N Pr A N V V Cn 1FactEntity N N Cn Int N 1FactEntity N N Cn N N N
+
+0FactEntity КУПИТЬ 1FactEntity 0FactEntity ПРИОБРЕСТИ 1FactEntity ЧТОБЫ ДИВЕРСИФИЦИРОВАТЬ ВЫРУЧКА ЗА СЧЁТ НОВЫЙ ИСТОЧНИК ДОХОД И РЫНОК С БОЛЕЕ ВЫСОКИЙ ТЕМП РОСТ
+0FactEntity V 1FactEntity 0FactEntity V 1FactEntity Cn V N Pr N A N N Cn N Pr Av A N N
+
+ПОТЕРЯ 0FactEntity ОТ САНКЦИЯ В ГОД СОСТАВЛЯТЬ ОКОЛО ЧЕТЫРЕ МИЛЛИАРД ЕВРО МЫ ЭКСПОРТИРОВАТЬ СЕЛЬСКОХОЗЯЙСТВЕННЫЙ ПРОДУКТ В 1FactEntity
+N 0FactEntity Pr N Pr N V Pr Num N N Pn V A N Pr 1FactEntity
+
+НА ДАННЫЙ МОМЕНТ 1FactEntity НАХОДИТЬСЯ ПОД ЭКОНОМИЧЕСКИЙ САНКЦИЯ США ЕС НОРВЕГИЯ ЯПОНИЯ АВСТРАЛИЯ И 0FactEntity
+Pr A N 1FactEntity V Pr A N N N N N N Cn 0FactEntity
+
+0FactEntity ВЕСТИ ПЕРЕГОВОРЫ С 1FactEntity О ПОСТАВКА СМАРТФОН НА РОССИЙСКИЙ РЫНОК СООБЩИТЬ ПРЕСС-СЕКРЕТАРЬ 1FactEntity АЛИЙ БЕКЕТОВ
+0FactEntity V N Pr 1FactEntity Pr N N Pr A N V N 1FactEntity N N
+
+НА ДАННЫЙ МОМЕНТ 1FactEntity НАХОДИТЬСЯ ПОД ЭКОНОМИЧЕСКИЙ САНКЦИЯ 0FactEntity ЕС НОРВЕГИЯ ЯПОНИЯ АВСТРАЛИЯ И КАНАДА
+Pr A N 1FactEntity V Pr A N 0FactEntity N N N N Cn N
+
+0FactEntity ИНВЕСТИРОВАТЬ 15 МИЛЛИОН ДОЛЛАР В АМЕРИКАНСКИЙ 0FactEntity 1FactEntity КОТОРЫЙ ПРИНАДЛЕЖАТЬ ПОИСКОВЫЙ СИСТЕМА 1FactEntity.COM
+0FactEntity V W N N Pr A 0FactEntity 1FactEntity A V A N 1FactEntity.COM
+
+0FactEntity КОНСТАТИРОВАТЬ ЧТО МТС ВЫМПЕЛКОМ И 1FactEntity УСТАНОВИТЬ МОНОПОЛЬНО ВЫСОКИЙ ЦЕНА НА РОУМИНГ НА ТЕРРИТОРИЯ РОССИЯ И В СНГ КРОМЕ ТОТ ГЛАВА МИНСВЯЗИ ОТМЕТИТЬ ЧТО РАСЦЕНКА НА УСЛУГА РОУМИНГ ПРЕДОСТАВЛЯТЬ РОССИЙСКИЙ ОПЕРАТОР ДОЛЖНЫЙ СНИЗИТЬСЯ ПОСЛЕ ТОТ КАК 0FactEntity НАЛОЖИТЬ НА ОНИ ШТРАФ ЗА МОНОПОЛЬНО ВЫСОКИЙ ЦЕНА
+0FactEntity V Cn N N Cn 1FactEntity V Av A N Pr N Pr N N Cn Pr N Pr A N N V Cn N Pr N N V A N A V Pr A Cn 0FactEntity V Pr Pn N Pr Av A N
+
+1FactEntity БЫТЬ ОТРЕЗАТЬ ОТ ВСЕМИРНЫЙ ПАУТИНА КАБЕЛЬНЫЙ ТЕЛЕКОММУНИКАЦИЯ В РЕЗУЛЬТАТ НАЛОЖИТЬ ВАШИНГТОН ЭМБАРГО НА ТОРГОВЛЯ С КОММУНИСТИЧЕСКИЙ ГОСУДАРСТВО
+1FactEntity V V Pr A N A N Pr N V N N Pr N Pr A N
+
+ОСНОВАТЕЛЬ MYSQL МАЙКЛ ВИДЕНИУС ЗАЯВИТЬ ЧТО ВЫСТУПАТЬ ПРОТИВ СДЕЛКА ПО СЛИЯНИЕ 0FactEntity И 1FactEntity
+N W N N V Cn V Pr N Pr N 0FactEntity Cn 1FactEntity
+
+ПО СЛУХ ЗАИНТЕРЕСОВАННОСТЬ В ИНВЕСТИЦИЯ В 1FactEntity УЖЕ ПРОЯВИТЬ 0FactEntity ЯНДЕКС SKYPE UNION SQUARE VENTURE И ДРУГОЙ
+Pr N N Pr N Pr 1FactEntity Av V 0FactEntity N W W W W Cn A
+
+ЕЩЁ В 2004 ГОД 1FactEntity НАЛОЖИТЬ НА 0FactEntity ШТРАФ В РАЗМЕР 500 МИЛЛИОН ДОЛЛАР ЗА ЗЛОУПОТРЕБЛЕНИЕ СВОЙ МОНОПОЛЬНЫЙ ПОЛОЖЕНИЕ
+Av Pr W N 1FactEntity V Pr 0FactEntity N Pr N W N N Pr N A A N
+
+1FactEntity МОЧЬ ПРЕКРАТИТЬ СВОЙ РАБОТА ИЗ-ЗА ОСТАНОВКА ПОСТАВКА ГАЗА НА 1FactEntity О ЭТО СООБЩАТЬ ВЕДОМОСТЬ ССЫЛАТЬСЯ НА ПИСЬМО ИЗ 0FactEntity
+1FactEntity N V A N Pr N N N Pr 1FactEntity Pr W V N V Pr N Pr 0FactEntity
+
+19 ОКТЯБРЬ 2012 ГОД СОВЕТ ДИРЕКТОР БРИТАНСКИЙ НЕФТЕГАЗОВЫЙ 0FactEntity BP ЕДИНОГЛАСНО УТВЕРДИТЬ ПРОДАЖА ПРИНАДЛЕЖАЩИЙ ОНА 50 АКЦИЯ ОДИН ИЗ КРУПНЫЙ РОССИЙСКИЙ 0FactEntity ТНК-BP 0FactEntity ЗА ОКОЛО 17 МИЛЛИАРД ДОЛЛАР США НАЛИЧНЫЙ И 13 АКЦИЯ 0FactEntity
+W N W N N N A A 0FactEntity W Av V N A Pn W N A Pr A A 0FactEntity W 0FactEntity Pr Pr W N N N A Cn W N 0FactEntity
+
+РАНЕЕ СООБЩАТЬСЯ ЧТО ПРОИЗВОДИТЕЛЬ ДОКУМЕНТАЛЬНЫЙ ФИЛЬМ О ПЕСНЯ HAPPY BIRTHDAY 0FactEntity РЕШИТЬ ОБРАТИТЬСЯ В СУД ПОСЛЕ ТОТ КАК ПОД УГРОЗА КРУПНЫЙ ШТРАФ БЫТЬ ВЫНУДИТЬ ЗАПЛАТИТЬ 1,5 ТЫСЯЧА ДОЛЛАР ЗА ИСПОЛЬЗОВАНИЕ ПЕСНЬ ПО МНЕНИЕ ИСТЕЦ В ДЕЙСТВИТЕЛЬНОСТЬ 1FactEntity ОБЛАДАТЬ ПРАВО ЛИШЬ НА ФОРТЕПИАННЫЙ АРАНЖИРОВКА ПЕСНЬ КОТОРЫЙ БЫТЬ СОЗДАТЬ В 1935 ГОД И НЕ ИМЕТЬ ПРАВО ВЗИМАТЬ ЛИЦЕНЗИОННЫЙ ГОНОРАР ЗА ИСПОЛЬЗОВАНИЕ ОНА ТЕКСТ ИЛИ МЕЛОДИЯ
+Av V Cn N A N Pr N W W 0FactEntity V V Pr N Pr A Cn Pr N A N V V V W N N Pr N N Pr N N Pr N 1FactEntity V N W Pr A N N A V V Pr W N Cn W V N V A N Pr N Pn N Cn N
+
+0FactEntity ДАТЬ 2FactEntity КРЕДИТ НА СУММА 2 МИЛЛИАРД ДОЛЛАР СООБЩАТЬ ЛЕНТА РУ
+0FactEntity V 2FactEntity N Pr N W N N V N W
 

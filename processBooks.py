@@ -143,7 +143,7 @@ def main():
     books = {}
     books.update(getTexts('E:\\PycharmProjects\\PZKL\\devsetNorm'))
     patterns = {}
-    patterns.update(getPatterns('E:\\PycharmProjects\\PZKL\\testsetPatternNO.txt'))
+    patterns.update(getPatterns('E:\\PycharmProjects\\PZKL\\testsetPatternsNO.txt'))
     result = {}
     corefsFiles = {}
     corefsFiles.update(getCorefs('E:\\PycharmProjects\\PZKL\\devset'))

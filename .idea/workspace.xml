@@ -15,10 +15,10 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PZKL$prepareBooks.coverage" NAME="prepareBooks Coverage Results" MODIFIED="1481536957129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PZKL$processBooks.coverage" NAME="processBooks Coverage Results" MODIFIED="1481627327350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PZKL$OptimizeValidation.coverage" NAME="OptimizeValidation Coverage Results" MODIFIED="1481536989464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PZKL$Validation.coverage" NAME="Validation Coverage Results" MODIFIED="1481627338715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PZKL$parseSentenses.coverage" NAME="parseSentenses Coverage Results" MODIFIED="1480791370661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PZKL$processBooks.coverage" NAME="processBooks Coverage Results" MODIFIED="1481830558230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PZKL$OptimizeValidation.coverage" NAME="OptimizeValidation Coverage Results" MODIFIED="1481723736996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PZKL$Validation.coverage" NAME="Validation Coverage Results" MODIFIED="1481830565443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PZKL$parseSentenses.coverage" NAME="parseSentenses Coverage Results" MODIFIED="1481723407526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -29,11 +29,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="getFactsSenteses.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getFactsSenteses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="14" />
+              <folding>
+                <element signature="e#24#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Validation.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Validation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2354">
-              <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="71" column="20" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="20" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
                 <element signature="e#231#3136#0" expanded="false" />
@@ -45,16 +57,16 @@
       <file leaf-file-name="parseSentenses.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/parseSentenses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="420" column="32" selection-start-line="420" selection-start-column="32" selection-end-line="420" selection-end-column="32" />
+            <state relative-caret-position="3689">
+              <caret line="389" column="64" selection-start-line="389" selection-start-column="64" selection-end-line="389" selection-end-column="64" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
                 <element signature="e#213#276#0" expanded="false" />
-                <element signature="e#1479#3551#0" expanded="false" />
-                <element signature="e#3582#6654#0" expanded="false" />
-                <element signature="e#8161#9101#0" expanded="false" />
-                <element signature="e#9232#12821#0" expanded="false" />
-                <element signature="e#9441#11273#0" expanded="false" />
+                <element signature="e#2329#4401#0" expanded="false" />
+                <element signature="e#4432#7504#0" expanded="false" />
+                <element signature="e#9011#9951#0" expanded="false" />
+                <element signature="e#10082#13671#0" expanded="false" />
+                <element signature="e#10291#12123#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -63,13 +75,17 @@
       <file leaf-file-name="OptimizeValidation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OptimizeValidation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1432">
-              <caret line="270" column="25" selection-start-line="270" selection-start-column="25" selection-end-line="270" selection-end-column="25" />
+            <state relative-caret-position="-1219">
+              <caret line="365" column="76" selection-start-line="365" selection-start-column="61" selection-end-line="365" selection-end-column="76" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#77#746#0" expanded="false" />
                 <element signature="e#771#3644#0" expanded="false" />
+                <element signature="e#3673#4741#0" expanded="false" />
                 <element signature="e#4771#4949#0" expanded="false" />
                 <element signature="e#4984#5115#0" expanded="false" />
+                <element signature="e#5148#5311#0" expanded="false" />
+                <element signature="e#5346#10680#0" expanded="false" />
                 <element signature="e#10729#11174#0" expanded="false" />
               </folding>
             </state>
@@ -79,7 +95,7 @@
       <file leaf-file-name="prepareBooks.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prepareBooks.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
+            <state relative-caret-position="2057">
               <caret line="253" column="33" selection-start-line="253" selection-start-column="33" selection-end-line="253" selection-end-column="33" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -97,8 +113,8 @@
       <file leaf-file-name="processBooks.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/processBooks.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="145" column="76" selection-start-line="145" selection-start-column="76" selection-end-line="145" selection-end-column="76" />
+            <state relative-caret-position="340">
+              <caret line="145" column="77" selection-start-line="145" selection-start-column="77" selection-end-line="145" selection-end-column="77" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
                 <element signature="e#228#795#0" expanded="false" />
@@ -120,11 +136,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/parseSentenses.py" />
         <option value="$PROJECT_DIR$/getFactsSenteses.py" />
         <option value="$PROJECT_DIR$/Validation.py" />
         <option value="$PROJECT_DIR$/OptimizeValidation.py" />
         <option value="$PROJECT_DIR$/prepareBooks.py" />
+        <option value="$PROJECT_DIR$/parseSentenses.py" />
         <option value="$PROJECT_DIR$/processBooks.py" />
       </list>
     </option>
@@ -135,10 +151,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="64" />
-    <option name="y" value="1" />
-    <option name="width" value="1862" />
-    <option name="height" value="1085" />
+    <option name="x" value="62" />
+    <option name="y" value="-8" />
+    <option name="width" value="1866" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -165,6 +181,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,8 +203,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -523,8 +539,8 @@
         <item index="0" class="java.lang.String" itemvalue="Python.Validation" />
         <item index="1" class="java.lang.String" itemvalue="Python.processBooks" />
         <item index="2" class="java.lang.String" itemvalue="Python.OptimizeValidation" />
-        <item index="3" class="java.lang.String" itemvalue="Python.prepareBooks" />
-        <item index="4" class="java.lang.String" itemvalue="Python.parseSentenses" />
+        <item index="3" class="java.lang.String" itemvalue="Python.parseSentenses" />
+        <item index="4" class="java.lang.String" itemvalue="Python.prepareBooks" />
       </list>
     </recent_temporary>
   </component>
@@ -545,20 +561,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="1" width="1862" height="1085" extended-state="0" />
+    <frame x="62" y="-8" width="1866" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0882353" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.089147285" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33613446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3364486" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39728883" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39626557" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -583,12 +599,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/parseSentenses.py</url>
-          <line>350</line>
-          <option name="timeStamp" value="38" />
+          <url>file://$PROJECT_DIR$/getFactsSenteses.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="161" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="157" />
+      <option name="time" value="162" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -607,12 +623,85 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#231#3136#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parseSentenses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4216">
+          <caret line="420" column="32" selection-start-line="420" selection-start-column="32" selection-end-line="420" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#213#276#0" expanded="false" />
+            <element signature="e#2329#4401#0" expanded="false" />
+            <element signature="e#4432#7504#0" expanded="false" />
+            <element signature="e#9011#9951#0" expanded="false" />
+            <element signature="e#10082#13671#0" expanded="false" />
+            <element signature="e#10291#12123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OptimizeValidation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3332">
+          <caret line="270" column="25" selection-start-line="270" selection-start-column="25" selection-end-line="270" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#77#746#0" expanded="false" />
+            <element signature="e#771#3644#0" expanded="false" />
+            <element signature="e#3673#4741#0" expanded="false" />
+            <element signature="e#4771#4949#0" expanded="false" />
+            <element signature="e#4984#5115#0" expanded="false" />
+            <element signature="e#5148#5311#0" expanded="false" />
+            <element signature="e#5346#10680#0" expanded="false" />
+            <element signature="e#10729#11174#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepareBooks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2159">
+          <caret line="253" column="33" selection-start-line="253" selection-start-column="33" selection-end-line="253" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#213#276#0" expanded="false" />
+            <element signature="e#850#1454#0" expanded="false" />
+            <element signature="e#1479#3551#0" expanded="false" />
+            <element signature="e#3576#6449#0" expanded="false" />
+            <element signature="e#6473#6886#0" expanded="false" />
+            <element signature="e#12734#14715#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processBooks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="145" column="76" selection-start-line="145" selection-start-column="76" selection-end-line="145" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#228#795#0" expanded="false" />
+            <element signature="e#820#3693#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/getFactsSenteses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3298">
           <caret line="197" column="41" selection-start-line="197" selection-start-column="41" selection-end-line="197" selection-end-column="41" />
           <folding>
-            <element signature="e#24#33#0" expanded="false" />
+            <element signature="e#24#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -624,11 +713,11 @@
           <folding>
             <element signature="e#0#9#0" expanded="true" />
             <element signature="e#213#276#0" expanded="false" />
-            <element signature="e#1479#3551#0" expanded="false" />
-            <element signature="e#3582#6654#0" expanded="false" />
-            <element signature="e#8161#9101#0" expanded="false" />
-            <element signature="e#9232#12821#0" expanded="false" />
-            <element signature="e#9441#11273#0" expanded="false" />
+            <element signature="e#2329#4401#0" expanded="false" />
+            <element signature="e#4432#7504#0" expanded="false" />
+            <element signature="e#9011#9951#0" expanded="false" />
+            <element signature="e#10082#13671#0" expanded="false" />
+            <element signature="e#10291#12123#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -665,7 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -682,7 +770,7 @@
         <state relative-caret-position="3349">
           <caret line="197" column="41" selection-start-line="197" selection-start-column="41" selection-end-line="197" selection-end-column="41" />
           <folding>
-            <element signature="e#24#33#0" expanded="false" />
+            <element signature="e#24#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -694,11 +782,11 @@
           <folding>
             <element signature="e#0#9#0" expanded="true" />
             <element signature="e#213#276#0" expanded="false" />
-            <element signature="e#1479#3551#0" expanded="false" />
-            <element signature="e#3582#6654#0" expanded="false" />
-            <element signature="e#8161#9101#0" expanded="false" />
-            <element signature="e#9232#12821#0" expanded="false" />
-            <element signature="e#9441#11273#0" expanded="false" />
+            <element signature="e#2329#4401#0" expanded="false" />
+            <element signature="e#4432#7504#0" expanded="false" />
+            <element signature="e#9011#9951#0" expanded="false" />
+            <element signature="e#10082#13671#0" expanded="false" />
+            <element signature="e#10291#12123#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -715,7 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -732,7 +819,7 @@
         <state relative-caret-position="4268">
           <caret line="197" column="41" selection-start-line="197" selection-start-column="41" selection-end-line="197" selection-end-column="41" />
           <folding>
-            <element signature="e#24#33#0" expanded="false" />
+            <element signature="e#24#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -744,11 +831,11 @@
           <folding>
             <element signature="e#0#9#0" expanded="true" />
             <element signature="e#213#276#0" expanded="false" />
-            <element signature="e#1479#3551#0" expanded="false" />
-            <element signature="e#3582#6654#0" expanded="false" />
-            <element signature="e#8161#9101#0" expanded="false" />
-            <element signature="e#9232#12821#0" expanded="false" />
-            <element signature="e#9441#11273#0" expanded="false" />
+            <element signature="e#2329#4401#0" expanded="false" />
+            <element signature="e#4432#7504#0" expanded="false" />
+            <element signature="e#9011#9951#0" expanded="false" />
+            <element signature="e#10082#13671#0" expanded="false" />
+            <element signature="e#10291#12123#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -765,7 +852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -782,7 +868,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,7 +883,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,7 +890,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="311" column="0" selection-start-line="311" selection-start-column="0" selection-end-line="311" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -814,7 +897,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
           <caret line="356" column="0" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -822,7 +904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="258" column="0" selection-start-line="258" selection-start-column="0" selection-end-line="258" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -830,7 +911,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -838,7 +918,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="1078" column="0" selection-start-line="1078" selection-start-column="0" selection-end-line="1078" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -846,7 +925,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="487" column="0" selection-start-line="487" selection-start-column="0" selection-end-line="487" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -854,7 +932,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -862,7 +939,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="422">
           <caret line="500" column="0" selection-start-line="500" selection-start-column="0" selection-end-line="500" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -870,17 +946,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="349" column="0" selection-start-line="349" selection-start-column="0" selection-end-line="349" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getFactsSenteses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="14" />
-          <folding>
-            <element signature="e#24#33#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -896,35 +961,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parseSentenses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="420" column="32" selection-start-line="420" selection-start-column="32" selection-end-line="420" selection-end-column="32" />
+        <state relative-caret-position="3689">
+          <caret line="389" column="64" selection-start-line="389" selection-start-column="64" selection-end-line="389" selection-end-column="64" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
             <element signature="e#213#276#0" expanded="false" />
-            <element signature="e#1479#3551#0" expanded="false" />
-            <element signature="e#3582#6654#0" expanded="false" />
-            <element signature="e#8161#9101#0" expanded="false" />
-            <element signature="e#9232#12821#0" expanded="false" />
-            <element signature="e#9441#11273#0" expanded="false" />
+            <element signature="e#2329#4401#0" expanded="false" />
+            <element signature="e#4432#7504#0" expanded="false" />
+            <element signature="e#9011#9951#0" expanded="false" />
+            <element signature="e#10082#13671#0" expanded="false" />
+            <element signature="e#10291#12123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getFactsSenteses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OptimizeValidation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1432">
-          <caret line="270" column="25" selection-start-line="270" selection-start-column="25" selection-end-line="270" selection-end-column="25" />
+        <state relative-caret-position="-1219">
+          <caret line="365" column="76" selection-start-line="365" selection-start-column="61" selection-end-line="365" selection-end-column="76" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#77#746#0" expanded="false" />
             <element signature="e#771#3644#0" expanded="false" />
+            <element signature="e#3673#4741#0" expanded="false" />
             <element signature="e#4771#4949#0" expanded="false" />
             <element signature="e#4984#5115#0" expanded="false" />
+            <element signature="e#5148#5311#0" expanded="false" />
+            <element signature="e#5346#10680#0" expanded="false" />
             <element signature="e#10729#11174#0" expanded="false" />
           </folding>
         </state>
@@ -932,7 +1010,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prepareBooks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
+        <state relative-caret-position="2057">
           <caret line="253" column="33" selection-start-line="253" selection-start-column="33" selection-end-line="253" selection-end-column="33" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -948,8 +1026,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/processBooks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="145" column="76" selection-start-line="145" selection-start-column="76" selection-end-line="145" selection-end-column="76" />
+        <state relative-caret-position="340">
+          <caret line="145" column="77" selection-start-line="145" selection-start-column="77" selection-end-line="145" selection-end-column="77" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
             <element signature="e#228#795#0" expanded="false" />
@@ -960,8 +1038,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Validation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2354">
-          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="71" column="20" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="20" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
             <element signature="e#231#3136#0" expanded="false" />

@@ -23,7 +23,31 @@ def longest_common_substring_words(s1, s2):
             else:
                 m[x][y] = 0
     return x_longest - longest,x_longest
-    #return s1[x_longest - longest: x_longest]
+
+def longest_common_substring_words_with_verb(s1, s2):
+    m = [[0] * (1 + len(s2)) for i in range(1 + len(s1))]
+    longest, x_longest = 0, 0
+    for x in range(1, 1 + len(s1)):
+        for y in range(1, 1 + len(s2)):
+            if s1[x - 1] == s2[y - 1]:
+                m[x][y] = m[x - 1][y - 1] + 1
+                if m[x][y] > longest:
+                    longest = m[x][y]
+                    x_longest = x
+            else:
+                m[x][y] = 0
+    substrsList =[]
+    for i in range(1, 1 + len(s1)):
+        for j in range(1, 1 + len(s2)):
+            if m[i][j] != 0:
+                substrsList.append((m[i][j],i-m[i][j],i))
+    substrsList.sort(key=lambda t: t[1])
+    substrsList.sort(key=lambda t: t[0], reverse=True)
+    for substr in substrsList:
+        s1_substr = s1[substr[1]:substr[2]]
+        if 'V' in s1_substr:
+            return substr[1],substr[2]
+    return 0,0
 
 def getFactsSents(inputFile):
     books = {}
@@ -348,12 +372,12 @@ def main():
     similarParts = Counter()
     patterns = {}
     co = 0
-    output = open("devsetPatterns.txt","w",encoding="utf-8-sig")
+    output = open("testsetPatterns.txt","w",encoding="utf-8-sig")
     for i in range(0,len(sentencies)):
         for k in range(0,len(sentencies[i]["pat"])):
             for j in range(i+1,len(sentencies)):
                 for p in range(0,len(sentencies[j]["pat"])):
-                    longestFrom, longestTo = longest_common_substring_words(sentencies[i]["pat"][k],sentencies[j]["pat"][p])
+                    longestFrom, longestTo = longest_common_substring_words_with_verb(sentencies[i]["pat"][k],sentencies[j]["pat"][p])
                     longestSbstr = sentencies[i]["pat"][k][longestFrom:longestTo]
                     if len(longestSbstr) > 0 and 'V' in longestSbstr:
                         newpattern = ' '.join(longestSbstr)
@@ -368,10 +392,9 @@ def main():
                             similarParts[newpattern] = 0
                         else:
                             similarParts[newpattern] += 1
-                        longestFrom2, longestTo2 = longest_common_substring_words(sentencies[j]["pat"][p],sentencies[i]["sent"][k][longestFrom:longestTo])
-
-
+                        longestFrom2, longestTo2 = longest_common_substring_words_with_verb(sentencies[j]["pat"][p],longestSbstr)
                         patterns[newpattern]["words"].add(' '.join(sentencies[i]["sent"][k][longestFrom:longestTo]))
+                        patterns[newpattern]["words"].add(' '.join(sentencies[j]["sent"][p][longestFrom2:longestTo2]))
                         if longestFrom < patterns[newpattern]["minLeft"]:
                             patterns[newpattern]["minLeft"] = longestFrom
                         if longestFrom > patterns[newpattern]["maxLeft"]:

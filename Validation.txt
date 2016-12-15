@@ -1,0 +1,19 @@
+Simple Validation
+allFactsPatternsCount =  615
+allFactsRuFactEvalCount =  30
+trueFactsPatternsCount =  28
+0.04552845528455285 0.9333333333333333 0.086821705426356
+
+
+Optimize Validation - TestSet
+allFactsPatternsCount =  126
+allFactsRuFactEvalCount =  114
+error book_3978 3
+trueFactsPatternsCount =  71
+0.5634920634920635 0.6228070175438597 0.5916666666666667
+
+Optimum Validation - DevSet
+allFactsPatternsCount =  24
+allFactsRuFactEvalCount =  30
+trueFactsPatternsCount =  7
+0.2916666666666667 0.23333333333333334 0.2592592592592593
