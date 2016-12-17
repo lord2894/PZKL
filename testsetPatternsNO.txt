@@ -1,1098 +1,226 @@
-﻿{"V N Cn N" : {"minLeft" : 0,
-"maxLeft" : 3,
-"minRight" : 1,
-"maxRight" : 3,
-"words" : [
-]},
-"V Pr A N N N N N" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 0,
-"maxRight" : 2,
-"words" : [
-]},
-"N Cn V Cn" : {"minLeft" : 0,
-"maxLeft" : 2,
-"minRight" : 0,
-"maxRight" : 0,
-"words" : [
-]},
-"N V Cn" : {"minLeft" : 0,
-"maxLeft" : 18,
-"minRight" : 0,
-"maxRight" : 12,
-"words" : [
-"ЭКОНОМИКА ПРИЗНАВАТЬ ТЕМ","ГОД СООБЩАТЬСЯ ЧТО"]},
-"Pn V N" : {"minLeft" : 13,
-"maxLeft" : 34,
-"minRight" : 0,
-"maxRight" : 6,
-"words" : [
-]},
-"Cn V Pr" : {"minLeft" : 1,
-"maxLeft" : 16,
-"minRight" : 0,
-"maxRight" : 28,
-"words" : [
-]},
-"N V N Cn N" : {"minLeft" : 2,
-"maxLeft" : 25,
-"minRight" : 2,
-"maxRight" : 2,
-"words" : [
-]},
-"Av V N" : {"minLeft" : 0,
-"maxLeft" : 2,
-"minRight" : 0,
-"maxRight" : 8,
-"words" : [
-"ВОВРЕМЯ ПРОВЕСТИ ПЛАТЁЖ","ЕДИНОГЛАСНО УТВЕРДИТЬ ПРОДАЖА"]},
-"V W N" : {"minLeft" : 0,
-"maxLeft" : 13,
-"minRight" : 0,
-"maxRight" : 12,
-"words" : [
-"ИНВЕСТИРОВАТЬ 15 МИЛЛИОН","ПРЕДЛАГАТЬ 44,6 МИЛЛИАРД","ДОСТАТЬСЯ БЫ ТОРГОВЛЯ"]},
-"Av V N Pr N" : {"minLeft" : 0,
-"maxLeft" : 2,
-"minRight" : 0,
-"maxRight" : 6,
-"words" : [
-]},
-"A N N V" : {"minLeft" : 1,
-"maxLeft" : 16,
-"minRight" : 0,
-"maxRight" : 13,
-"words" : [
-]},
-"V Pr N N Pr" : {"minLeft" : 0,
-"maxLeft" : 9,
-"minRight" : 0,
-"maxRight" : 11,
-"words" : [
-]},
-"V A Pr" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 3,
-"maxRight" : 13,
-"words" : [
-]},
-"W V Av" : {"minLeft" : 0,
-"maxLeft" : 6,
-"minRight" : 2,
-"maxRight" : 4,
-"words" : [
-]},
-"V Av A N Pr N Pr N N Cn Pr N Pr A N N V Cn N Pr N N V A N A V Pr A Cn" : {"minLeft" : 0,
-"maxLeft" : 3,
-"minRight" : 0,
-"maxRight" : 0,
-"words" : [
-]},
-"N Pr A N N V" : {"minLeft" : 2,
-"maxLeft" : 14,
-"minRight" : 2,
-"maxRight" : 13,
-"words" : [
-]},
-"N V V Pr" : {"minLeft" : 1,
-"maxLeft" : 19,
-"minRight" : 0,
-"maxRight" : 14,
-"words" : [
-]},
-"V N Pr N" : {"minLeft" : 0,
-"maxLeft" : 4,
-"minRight" : 0,
-"maxRight" : 6,
-"words" : [
-"ЗАВЕРШИТЬ СДЕЛКА ПО ПОКУПКА","СДЕЛАТЬ ПРЕДЛОЖЕНИЕ О ВЫКУП","СНЯТЬ ОГРАНИЧЕНИЕ НА ИМПОРТ"]},
-"A V Pr" : {"minLeft" : 0,
-"maxLeft" : 28,
-"minRight" : 0,
-"maxRight" : 2,
-"words" : [
-]},
-"A N V" : {"minLeft" : 0,
-"maxLeft" : 16,
-"minRight" : 0,
-"maxRight" : 15,
-"words" : [
-"СВОЙ ВРЕМЯ БЫТЬ"]},
-"Pn V Pr" : {"minLeft" : 0,
-"maxLeft" : 4,
-"minRight" : 0,
-"maxRight" : 14,
-"words" : [
-]},
-"N V N N N" : {"minLeft" : 2,
-"maxLeft" : 7,
-"minRight" : 8,
-"maxRight" : 20,
-"words" : [
-]},
-"N V N N" : {"minLeft" : 1,
-"maxLeft" : 7,
-"minRight" : 0,
-"maxRight" : 21,
-"words" : [
-]},
-"N N V Pr" : {"minLeft" : 2,
-"maxLeft" : 12,
-"minRight" : 0,
-"maxRight" : 4,
-"words" : [
-]},
-"V V Cn" : {"minLeft" : 0,
-"maxLeft" : 18,
-"minRight" : 0,
-"maxRight" : 10,
-"words" : [
-"СТАРАТЬСЯ СДЕЛАТЬ ТАК"]},
-"A N V V" : {"minLeft" : 0,
-"maxLeft" : 16,
-"minRight" : 1,
-"maxRight" : 12,
-"words" : [
-]},
-"V V Pr A N" : {"minLeft" : 0,
-"maxLeft" : 20,
-"minRight" : 12,
-"maxRight" : 27,
-"words" : [
-]},
-"V Pr" : {"minLeft" : 0,
-"maxLeft" : 29,
-"minRight" : 0,
-"maxRight" : 29,
-"words" : [
-"ПОЛУЧИТЬ ОТ","ВЛОЖИТЬ В","УВЕЛИЧИТЬСЯ ЗА","ДОГОВОРИТЬСЯ О","ОБЪЯВИТЬ О","СОСТАВЛЯТЬ ОКОЛО","РАЗМЕЩАТЬСЯ НА","УЛУЧШИТЬ ЗА","ВОЙТИ В"]},
-"A N Av V Pr N" : {"minLeft" : 1,
-"maxLeft" : 1,
-"minRight" : 4,
-"maxRight" : 15,
-"words" : [
-]},
-"V Pr A Cn" : {"minLeft" : 4,
-"maxLeft" : 29,
-"minRight" : 0,
-"maxRight" : 0,
-"words" : [
-]},
-"V Pr A N N N N" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 0,
-"maxRight" : 3,
-"words" : [
-]},
-"V N Cn N Pr N" : {"minLeft" : 0,
-"maxLeft" : 26,
-"minRight" : 0,
-"maxRight" : 1,
-"words" : [
-]},
-"N N V Cn" : {"minLeft" : 0,
-"maxLeft" : 17,
-"minRight" : 0,
-"maxRight" : 12,
-"words" : [
-]},
-"N V N Pr" : {"minLeft" : 0,
-"maxLeft" : 7,
-"minRight" : 0,
-"maxRight" : 5,
-"words" : [
-]},
-"V N N" : {"minLeft" : 0,
-"maxLeft" : 12,
-"minRight" : 0,
-"maxRight" : 21,
-"words" : [
-"ПОДТВЕРДИТЬ ЗАКРЫТИЕ СДЕЛКА","ОДОБРИТЬ ПРОДАЖА АКЦИЯ"]},
-"V Av V" : {"minLeft" : 0,
-"maxLeft" : 1,
-"minRight" : 0,
-"maxRight" : 3,
-"words" : [
-]},
-"N V Pr N Pr" : {"minLeft" : 3,
-"maxLeft" : 12,
-"minRight" : 0,
-"maxRight" : 1,
-"words" : [
-]},
-"A N N N V" : {"minLeft" : 0,
-"maxLeft" : 6,
-"minRight" : 0,
-"maxRight" : 6,
-"words" : [
-]},
-"Av Cn V" : {"minLeft" : 0,
-"maxLeft" : 9,
-"minRight" : 1,
-"maxRight" : 29,
-"words" : [
-]},
-"Av Cn V Pr" : {"minLeft" : 0,
-"maxLeft" : 7,
-"minRight" : 0,
-"maxRight" : 28,
-"words" : [
-]},
-"V Cn W" : {"minLeft" : 1,
-"maxLeft" : 11,
-"minRight" : 0,
-"maxRight" : 0,
-"words" : [
-]},
-"N N N V Pr" : {"minLeft" : 3,
-"maxLeft" : 5,
-"minRight" : 1,
-"maxRight" : 3,
-"words" : [
-]},
-"V Av A N" : {"minLeft" : 0,
-"maxLeft" : 4,
-"minRight" : 1,
-"maxRight" : 26,
-"words" : [
-]},
-"V Pr A N" : {"minLeft" : 0,
-"maxLeft" : 21,
-"minRight" : 0,
-"maxRight" : 27,
-"words" : [
-]},
-"Pr N V N" : {"minLeft" : 0,
-"maxLeft" : 5,
-"minRight" : 0,
-"maxRight" : 1,
-"words" : [
-]},
-"Pr A N N V" : {"minLeft" : 0,
-"maxLeft" : 15,
-"minRight" : 2,
-"maxRight" : 13,
-"words" : [
-]},
-"W Av V A V" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 0,
-"maxRight" : 3,
-"words" : [
-]},
-"V V" : {"minLeft" : 0,
-"maxLeft" : 20,
-"minRight" : 0,
-"maxRight" : 30,
-"words" : [
-"БЫТЬ ВЫКУПИТЬ","БЫТЬ КУПИТЬ","БЫТЬ НАПРАВИТЬ","БЫТЬ ПРОДАТЬ","НАМЕРИТЬ НАРАЩИВАТЬ"]},
-"N V Cn A N" : {"minLeft" : 3,
-"maxLeft" : 7,
-"minRight" : 4,
-"maxRight" : 7,
-"words" : [
-]},
-"Pr N N V" : {"minLeft" : 0,
-"maxLeft" : 22,
-"minRight" : 2,
-"maxRight" : 13,
-"words" : [
-]},
-"V N Pr N A N Pr" : {"minLeft" : 0,
-"maxLeft" : 1,
-"minRight" : 0,
-"maxRight" : 0,
-"words" : [
-]},
-"N N V N" : {"minLeft" : 1,
-"maxLeft" : 5,
-"minRight" : 1,
-"maxRight" : 30,
-"words" : [
-]},
-"V Pr Pn" : {"minLeft" : 0,
-"maxLeft" : 17,
-"minRight" : 2,
-"maxRight" : 9,
-"words" : [
-]},
-"Av V W" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 0,
-"maxRight" : 2,
-"words" : [
-]},
-"V V Pr A N Av W N Av Av Cn V V N N Pr A N V V Cn" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 0,
-"maxRight" : 11,
-"words" : [
-]},
-"Pr N N Pr A N V N" : {"minLeft" : 0,
-"maxLeft" : 6,
-"minRight" : 0,
-"maxRight" : 0,
-"words" : [
-]},
-"V Pr N N A" : {"minLeft" : 1,
-"maxLeft" : 6,
-"minRight" : 0,
-"maxRight" : 5,
-"words" : [
-]},
-"V N" : {"minLeft" : 0,
-"maxLeft" : 14,
-"minRight" : 0,
-"maxRight" : 30,
-"words" : [
-"ПОДДЕРЖАТЬ САНКЦИЯ","ПОЛУЧИТЬ ПОДДЕРЖКА","ВЫКУПИТЬ ДОЛЯ","ПРИОБРЕСТИ АКЦИЯ","ПРИНАДЛЕЖАТЬ СТРУКТУРА","СДЕЛАТЬ ПРЕДЛОЖЕНИЕ","СОСТАВЛЯТЬ ДОЛЯ","ВВЕСТИ САНКЦИЯ"]},
-"V Pr A N N N" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 0,
-"maxRight" : 4,
-"words" : [
-]},
-"V Av" : {"minLeft" : 0,
-"maxLeft" : 7,
-"minRight" : 1,
-"maxRight" : 28,
-"words" : [
-"СТАТЬ ИЗВЕСТНО"]},
-"V N N W W" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 0,
-"maxRight" : 0,
-"words" : [
-]},
-"N W N N V" : {"minLeft" : 0,
-"maxLeft" : 9,
-"minRight" : 0,
-"maxRight" : 6,
-"words" : [
-]},
-"Pn V Pr N" : {"minLeft" : 0,
-"maxLeft" : 4,
-"minRight" : 0,
-"maxRight" : 13,
-"words" : [
-]},
-"Av V A" : {"minLeft" : 1,
-"maxLeft" : 2,
-"minRight" : 1,
-"maxRight" : 4,
-"words" : [
-"ПРИЯТНО ОТМЕТИТЬ ТОТ"]},
-"W V" : {"minLeft" : 0,
-"maxLeft" : 6,
-"minRight" : 0,
-"maxRight" : 20,
-"words" : [
-]},
-"N A V" : {"minLeft" : 5,
-"maxLeft" : 27,
-"minRight" : 1,
-"maxRight" : 5,
-"words" : [
-]},
-"V W" : {"minLeft" : 0,
-"maxLeft" : 13,
-"minRight" : 0,
-"maxRight" : 13,
-"words" : [
-]},
-"N V N Pr N A" : {"minLeft" : 0,
-"maxLeft" : 3,
-"minRight" : 2,
-"maxRight" : 3,
-"words" : [
-]},
-"V N A A N V Pr N" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 0,
-"maxRight" : 0,
-"words" : [
-]},
-"N V Pr N N" : {"minLeft" : 0,
-"maxLeft" : 8,
-"minRight" : 1,
-"maxRight" : 12,
-"words" : [
-]},
-"A V N" : {"minLeft" : 0,
-"maxLeft" : 9,
-"minRight" : 0,
-"maxRight" : 3,
-"words" : [
-]},
-"A N A V" : {"minLeft" : 4,
-"maxLeft" : 26,
-"minRight" : 3,
-"maxRight" : 5,
-"words" : [
-]},
-"Pr N N N V" : {"minLeft" : 0,
-"maxLeft" : 4,
-"minRight" : 0,
-"maxRight" : 7,
-"words" : [
-]},
-"N V" : {"minLeft" : 0,
-"maxLeft" : 17,
-"minRight" : 0,
-"maxRight" : 31,
-"words" : [
-"ИНВЕСТОР ВЫСТУПИТЬ"]},
-"V N Pr N N Pr" : {"minLeft" : 1,
-"maxLeft" : 1,
-"minRight" : 2,
-"maxRight" : 4,
-"words" : [
-]},
-"V N Cn" : {"minLeft" : 0,
-"maxLeft" : 26,
-"minRight" : 0,
-"maxRight" : 9,
-"words" : [
-"ПОМОЧЬ ОРГАНИЗАТОР И"]},
-"V A" : {"minLeft" : 0,
-"maxLeft" : 25,
-"minRight" : 0,
-"maxRight" : 19,
-"words" : [
-"ПОСТУПИТЬ АНАЛОГИЧНЫЙ","ПРИНАДЛЕЖАТЬ ПОИСКОВЫЙ"]},
-"V Cn Cn" : {"minLeft" : 0,
-"maxLeft" : 1,
-"minRight" : 1,
-"maxRight" : 9,
-"words" : [
-]},
-"N N N V" : {"minLeft" : 1,
-"maxLeft" : 7,
-"minRight" : 0,
-"maxRight" : 7,
-"words" : [
-]},
-"Av V Pr N" : {"minLeft" : 0,
-"maxLeft" : 3,
-"minRight" : 0,
-"maxRight" : 15,
-"words" : [
-]},
-"V N Pr" : {"minLeft" : 0,
-"maxLeft" : 8,
-"minRight" : 0,
-"maxRight" : 11,
-"words" : [
-]},
-"N N V Cn N" : {"minLeft" : 8,
-"maxLeft" : 17,
-"minRight" : 4,
-"maxRight" : 11,
-"words" : [
-]},
-"N V Av A N" : {"minLeft" : 1,
-"maxLeft" : 3,
-"minRight" : 1,
-"maxRight" : 26,
-"words" : [
-]},
-"V A N Pr N" : {"minLeft" : 1,
-"maxLeft" : 1,
-"minRight" : 3,
-"maxRight" : 16,
-"words" : [
-]},
-"V A N Cn" : {"minLeft" : 3,
-"maxLeft" : 13,
-"minRight" : 0,
-"maxRight" : 5,
-"words" : [
-]},
-"V W N W" : {"minLeft" : 0,
-"maxLeft" : 3,
-"minRight" : 0,
-"maxRight" : 5,
-"words" : [
-]},
-"Pn V" : {"minLeft" : 0,
-"maxLeft" : 34,
-"minRight" : 0,
-"maxRight" : 15,
-"words" : [
-]},
-"Cn W V" : {"minLeft" : 0,
-"maxLeft" : 3,
-"minRight" : 2,
-"maxRight" : 4,
-"words" : [
-]},
-"A N V N" : {"minLeft" : 1,
-"maxLeft" : 10,
-"minRight" : 0,
-"maxRight" : 10,
-"words" : [
-]},
-"V Cn N" : {"minLeft" : 0,
-"maxLeft" : 19,
-"minRight" : 0,
-"maxRight" : 11,
-"words" : [
-]},
-"Pr A N V N" : {"minLeft" : 0,
-"maxLeft" : 9,
-"minRight" : 0,
-"maxRight" : 10,
-"words" : [
-]},
-"N N V Pr N" : {"minLeft" : 4,
-"maxLeft" : 12,
-"minRight" : 0,
-"maxRight" : 3,
-"words" : [
-]},
-"Pr N V" : {"minLeft" : 0,
-"maxLeft" : 13,
-"minRight" : 0,
-"maxRight" : 9,
-"words" : [
-]},
-"A N V Cn" : {"minLeft" : 2,
-"maxLeft" : 6,
-"minRight" : 4,
-"maxRight" : 6,
-"words" : [
-]},
-"N V Cn N" : {"minLeft" : 3,
-"maxLeft" : 18,
-"minRight" : 3,
-"maxRight" : 11,
-"words" : [
-]},
-"V V W N" : {"minLeft" : 2,
-"maxLeft" : 12,
-"minRight" : 6,
-"maxRight" : 9,
-"words" : [
-]},
-"W Av V" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 2,
-"maxRight" : 9,
-"words" : [
-]},
-"N V Pr N" : {"minLeft" : 0,
-"maxLeft" : 13,
-"minRight" : 0,
-"maxRight" : 13,
-"words" : [
-"СРЕДСТВО ВЫРУЧИТЬ ОТ ПРОДАЖА","РЫНОК ОБЪЯВИТЬ О ПРИОБРЕТЕНИЕ","МОЧЬ ИДТИ О ПРИСОЕДИНЕНИЕ"]},
-"N N V A N A" : {"minLeft" : 3,
-"maxLeft" : 23,
-"minRight" : 4,
-"maxRight" : 4,
-"words" : [
-]},
-"V N Pr N W N" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 0,
-"maxRight" : 2,
-"words" : [
-]},
-"Av V" : {"minLeft" : 0,
-"maxLeft" : 3,
-"minRight" : 0,
-"maxRight" : 17,
-"words" : [
-"УЖЕ ПРОЯВИТЬ"]},
-"Pr A N Av V Pr N N A N Pr" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 0,
-"maxRight" : 3,
-"words" : [
-]},
-"N Pn V" : {"minLeft" : 3,
-"maxLeft" : 22,
-"minRight" : 0,
-"maxRight" : 7,
-"words" : [
-]},
-"V V N Cn" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 2,
-"maxRight" : 2,
-"words" : [
-]},
-"N V N A N Pr N" : {"minLeft" : 4,
-"maxLeft" : 4,
-"minRight" : 8,
-"maxRight" : 26,
-"words" : [
-]},
-"V N N Pr" : {"minLeft" : 0,
-"maxLeft" : 12,
-"minRight" : 0,
-"maxRight" : 16,
-"words" : [
-]},
-"V V Pr N N" : {"minLeft" : 0,
-"maxLeft" : 7,
-"minRight" : 0,
-"maxRight" : 6,
-"words" : [
-]},
-"V Pr N" : {"minLeft" : 0,
-"maxLeft" : 14,
-"minRight" : 0,
-"maxRight" : 21,
-"words" : [
-]},
-"V Pr A" : {"minLeft" : 0,
-"maxLeft" : 29,
-"minRight" : 1,
-"maxRight" : 28,
-"words" : [
-]},
-"N Cn V" : {"minLeft" : 0,
-"maxLeft" : 15,
-"minRight" : 1,
-"maxRight" : 7,
-"words" : [
-]},
-"A N W N N V" : {"minLeft" : 0,
-"maxLeft" : 8,
-"minRight" : 0,
-"maxRight" : 4,
-"words" : [
-]},
-"N V N" : {"minLeft" : 0,
-"maxLeft" : 11,
-"minRight" : 0,
-"maxRight" : 30,
-"words" : [
-]},
-"Cn V Av Cn" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 0,
-"maxRight" : 3,
-"words" : [
-]},
-"A A N V" : {"minLeft" : 1,
-"maxLeft" : 2,
-"minRight" : 2,
-"maxRight" : 5,
-"words" : [
-]},
-"N V W N" : {"minLeft" : 3,
-"maxLeft" : 8,
-"minRight" : 0,
-"maxRight" : 0,
-"words" : [
-]},
-"A N Cn V" : {"minLeft" : 4,
-"maxLeft" : 14,
-"minRight" : 4,
-"maxRight" : 5,
-"words" : [
-]},
-"N V N Cn" : {"minLeft" : 2,
-"maxLeft" : 25,
-"minRight" : 0,
-"maxRight" : 8,
-"words" : [
-]},
-"Pr N W N V" : {"minLeft" : 0,
-"maxLeft" : 4,
-"minRight" : 2,
-"maxRight" : 10,
-"words" : [
-]},
-"W N V N" : {"minLeft" : 1,
-"maxLeft" : 6,
-"minRight" : 1,
-"maxRight" : 22,
-"words" : [
-]},
-"V Pr W" : {"minLeft" : 1,
-"maxLeft" : 2,
-"minRight" : 3,
-"maxRight" : 27,
-"words" : [
-]},
-"Pr A N V" : {"minLeft" : 0,
-"maxLeft" : 15,
-"minRight" : 0,
-"maxRight" : 15,
-"words" : [
-]},
-"V Cn" : {"minLeft" : 0,
-"maxLeft" : 19,
-"minRight" : 0,
-"maxRight" : 12,
-"words" : [
-]},
-"V Pr N Pr" : {"minLeft" : 0,
-"maxLeft" : 13,
-"minRight" : 0,
-"maxRight" : 20,
-"words" : [
-]},
-"V V Pr" : {"minLeft" : 0,
-"maxLeft" : 20,
-"minRight" : 0,
-"maxRight" : 29,
-"words" : [
-]},
-"Cn V A" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 0,
-"maxRight" : 3,
-"words" : [
-"ТАКЖЕ СОГЛАСОВАТЬ ОСНОВНОЙ","ТАКЖЕ ВЛОЖИТЬСЯ ТАКОЙ"]},
-"V N Pr A" : {"minLeft" : 0,
-"maxLeft" : 3,
-"minRight" : 4,
-"maxRight" : 10,
-"words" : [
-]},
-"V N A N" : {"minLeft" : 1,
-"maxLeft" : 5,
-"minRight" : 0,
-"maxRight" : 28,
-"words" : [
-]},
-"V W N N Pr N" : {"minLeft" : 0,
-"maxLeft" : 13,
-"minRight" : 0,
-"maxRight" : 9,
-"words" : [
-]},
-"Cn N Pr N N V" : {"minLeft" : 13,
-"maxLeft" : 20,
-"minRight" : 7,
-"maxRight" : 13,
-"words" : [
-]},
-"Av V Pr N N" : {"minLeft" : 0,
-"maxLeft" : 3,
-"minRight" : 1,
-"maxRight" : 6,
-"words" : [
-]},
-"V A N N" : {"minLeft" : 0,
-"maxLeft" : 1,
-"minRight" : 0,
-"maxRight" : 2,
-"words" : [
-]},
-"V" : {"minLeft" : 0,
-"maxLeft" : 13,
-"minRight" : 0,
-"maxRight" : 31,
-"words" : [
-"ЗАИНТЕРЕСОВАТЬ","КУПИТЬ","УВЕЛИЧИТЬСЯ","ПОКУПАТЬ","ПРОЯВЛЯТЬ","ПРИОБРЕСТИ"]},
-"Pr W N V" : {"minLeft" : 0,
-"maxLeft" : 2,
-"minRight" : 1,
-"maxRight" : 5,
-"words" : [
-]},
-"N V A N Pr N N N Pr" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 0,
-"maxRight" : 0,
-"words" : [
-]},
-"W N N V" : {"minLeft" : 1,
-"maxLeft" : 10,
-"minRight" : 0,
-"maxRight" : 31,
-"words" : [
-]},
-"A N V Pr N" : {"minLeft" : 2,
-"maxLeft" : 7,
-"minRight" : 0,
-"maxRight" : 13,
-"words" : [
-]},
-"N V V" : {"minLeft" : 1,
-"maxLeft" : 19,
-"minRight" : 1,
-"maxRight" : 15,
-"words" : [
-]},
-"N V V Pr N" : {"minLeft" : 1,
-"maxLeft" : 12,
-"minRight" : 0,
-"maxRight" : 1,
-"words" : [
-]},
-"V N Cn Pr N" : {"minLeft" : 0,
-"maxLeft" : 5,
-"minRight" : 6,
-"maxRight" : 7,
-"words" : [
-]},
-"V W N N" : {"minLeft" : 0,
-"maxLeft" : 13,
-"minRight" : 1,
-"maxRight" : 11,
-"words" : [
-]},
-"Cn V N" : {"minLeft" : 0,
-"maxLeft" : 2,
-"minRight" : 0,
-"maxRight" : 6,
-"words" : [
-"ТАКЖЕ ОПРОВЕРГНУТЬ ИНФОРМАЦИЯ"]},
-"N Pr A N V" : {"minLeft" : 2,
-"maxLeft" : 14,
-"minRight" : 1,
-"maxRight" : 13,
-"words" : [
-]},
-"N N Pr A N V" : {"minLeft" : 1,
-"maxLeft" : 13,
-"minRight" : 1,
-"maxRight" : 13,
-"words" : [
-]},
-"W V Pr" : {"minLeft" : 3,
-"maxLeft" : 4,
-"minRight" : 1,
-"maxRight" : 2,
-"words" : [
-]},
-"N N V" : {"minLeft" : 0,
-"maxLeft" : 17,
-"minRight" : 0,
-"maxRight" : 31,
-"words" : [
-]},
-"V A N" : {"minLeft" : 0,
-"maxLeft" : 25,
-"minRight" : 0,
-"maxRight" : 18,
-"words" : [
-]},
-"N W N V N" : {"minLeft" : 2,
-"maxLeft" : 5,
-"minRight" : 1,
-"maxRight" : 12,
-"words" : [
-]},
-"A V" : {"minLeft" : 0,
-"maxLeft" : 28,
-"minRight" : 0,
-"maxRight" : 5,
-"words" : [
-"КОТОРЫЙ ПЕРЕДАТЬ"]},
-"V V Pr N N A N Pr" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 0,
-"maxRight" : 3,
-"words" : [
-]},
-"N V A N" : {"minLeft" : 0,
-"maxLeft" : 24,
-"minRight" : 0,
-"maxRight" : 6,
-"words" : [
-]},
-"V N N Pr N A N Pr A N N Cn N N V Pr" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 0,
-"maxRight" : 0,
-"words" : [
-]},
-"V W N N Pr" : {"minLeft" : 0,
-"maxLeft" : 13,
-"minRight" : 1,
-"maxRight" : 10,
-"words" : [
-]},
-"V N A" : {"minLeft" : 0,
-"maxLeft" : 5,
-"minRight" : 1,
-"maxRight" : 29,
-"words" : [
-]},
-"N V N Pr N" : {"minLeft" : 0,
-"maxLeft" : 2,
-"minRight" : 0,
-"maxRight" : 3,
-"words" : [
-]},
-"Cn N V N" : {"minLeft" : 3,
-"maxLeft" : 24,
-"minRight" : 0,
-"maxRight" : 4,
-"words" : [
-]},
-"A N V V Pr N N" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 0,
-"maxRight" : 0,
-"words" : [
-]},
-"W N V N Cn" : {"minLeft" : 1,
-"maxLeft" : 3,
-"minRight" : 3,
-"maxRight" : 8,
-"words" : [
-]},
-"V N Cn N Pr" : {"minLeft" : 0,
-"maxLeft" : 26,
-"minRight" : 0,
-"maxRight" : 2,
-"words" : [
-]},
-"V W N N Pr N N" : {"minLeft" : 0,
-"maxLeft" : 13,
-"minRight" : 5,
-"maxRight" : 8,
-"words" : [
-]},
-"V N Pr W" : {"minLeft" : 0,
-"maxLeft" : 8,
-"minRight" : 1,
-"maxRight" : 3,
-"words" : [
-]},
-"W N V" : {"minLeft" : 1,
-"maxLeft" : 18,
-"minRight" : 1,
-"maxRight" : 23,
-"words" : [
-]},
-"N N Pn V" : {"minLeft" : 7,
-"maxLeft" : 21,
-"minRight" : 0,
-"maxRight" : 3,
-"words" : [
-]},
-"Av V W N" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 0,
-"maxRight" : 1,
-"words" : [
-]},
-"Cn N V" : {"minLeft" : 0,
-"maxLeft" : 24,
-"minRight" : 1,
-"maxRight" : 29,
-"words" : [
-]},
-"Av V Pr" : {"minLeft" : 0,
-"maxLeft" : 3,
-"minRight" : 0,
-"maxRight" : 16,
-"words" : [
-]},
-"V Cn N A" : {"minLeft" : 1,
-"maxLeft" : 4,
-"minRight" : 2,
-"maxRight" : 5,
-"words" : [
-]},
-"N N N V Pr N" : {"minLeft" : 3,
-"maxLeft" : 5,
-"minRight" : 0,
-"maxRight" : 2,
-"words" : [
-]},
-"W V N" : {"minLeft" : 1,
-"maxLeft" : 1,
-"minRight" : 3,
-"maxRight" : 4,
-"words" : [
-]},
-"Cn N V Av A N Pr N Pr N N Cn Pr N Pr A N N V Cn N Pr N N V A N A V Pr A Cn" : {"minLeft" : 0,
-"maxLeft" : 1,
-"minRight" : 0,
-"maxRight" : 0,
-"words" : [
-]},
-"N W N V" : {"minLeft" : 1,
-"maxLeft" : 17,
-"minRight" : 2,
-"maxRight" : 16,
-"words" : [
-]},
-"Pr A N N V N Cn" : {"minLeft" : 0,
-"maxLeft" : 3,
-"minRight" : 0,
-"maxRight" : 0,
-"words" : [
-]},
-"N V Pr" : {"minLeft" : 0,
-"maxLeft" : 13,
-"minRight" : 0,
-"maxRight" : 14,
-"words" : [
-]},
-"N N Cn N N V Pr" : {"minLeft" : 9,
-"maxLeft" : 9,
-"minRight" : 0,
-"maxRight" : 4,
-"words" : [
-]},
-"V Pr N A N" : {"minLeft" : 0,
-"maxLeft" : 0,
-"minRight" : 4,
-"maxRight" : 15,
-"words" : [
-]},
-"N N V N Pr N" : {"minLeft" : 1,
-"maxLeft" : 2,
-"minRight" : 0,
-"maxRight" : 4,
-"words" : [
-]},
-"V Cn N N" : {"minLeft" : 0,
-"maxLeft" : 19,
-"minRight" : 1,
-"maxRight" : 9,
-"words" : [
-]},
-"V V N" : {"minLeft" : 0,
-"maxLeft" : 11,
-"minRight" : 0,
-"maxRight" : 18,
-"words" : [
-]},
-"V V Pr N" : {"minLeft" : 0,
-"maxLeft" : 13,
-"minRight" : 0,
-"maxRight" : 21,
-"words" : [
-]},
-"V Pr N N" : {"minLeft" : 0,
-"maxLeft" : 9,
-"minRight" : 0,
-"maxRight" : 12,
-"words" : [
-]},
-"Cn V" : {"minLeft" : 0,
-"maxLeft" : 16,
-"minRight" : 1,
-"maxRight" : 29,
-"words" : [
-]},
-"V A N Pr" : {"minLeft" : 0,
-"maxLeft" : 10,
-"minRight" : 0,
-"maxRight" : 17,
-"words" : [
-]},
-"V N Pr N A" : {"minLeft" : 0,
-"maxLeft" : 4,
-"minRight" : 2,
-"maxRight" : 3,
-"words" : [
-]},
-"V Pr N N A N Pr" : {"minLeft" : 1,
-"maxLeft" : 4,
-"minRight" : 0,
-"maxRight" : 3,
-"words" : [
-]}}
+{
+  "N V Cn": {
+    "minLeft": 0,
+    "maxLeft": 18,
+    "minRight": 0,
+    "maxRight": 12,
+    "words": [
+      "ЭКОНОМИКА ПРИЗНАВАТЬ ТЕМ",
+      "ГОД СООБЩАТЬСЯ ЧТО"
+    ]
+  },
+  "Av V N": {
+    "minLeft": 0,
+    "maxLeft": 2,
+    "minRight": 0,
+    "maxRight": 8,
+    "words": [
+      "ВОВРЕМЯ ПРОВЕСТИ ПЛАТЁЖ",
+      "ЕДИНОГЛАСНО УТВЕРДИТЬ ПРОДАЖА"
+    ]
+  },
+  "V W N": {
+    "minLeft": 0,
+    "maxLeft": 13,
+    "minRight": 0,
+    "maxRight": 12,
+    "words": [
+      "ИНВЕСТИРОВАТЬ 15 МИЛЛИОН",
+      "ПРЕДЛАГАТЬ 44,6 МИЛЛИАРД",
+      "ДОСТАТЬСЯ БЫ ТОРГОВЛЯ"
+    ]
+  },
+  "V N Pr N": {
+    "minLeft": 0,
+    "maxLeft": 4,
+    "minRight": 0,
+    "maxRight": 6,
+    "words": [
+      "ЗАВЕРШИТЬ СДЕЛКА ПО ПОКУПКА",
+      "СДЕЛАТЬ ПРЕДЛОЖЕНИЕ О ВЫКУП",
+      "СНЯТЬ ОГРАНИЧЕНИЕ НА ИМПОРТ"
+    ]
+  },
+  "A N V": {
+    "minLeft": 0,
+    "maxLeft": 16,
+    "minRight": 0,
+    "maxRight": 15,
+    "words": [
+      "СВОЙ ВРЕМЯ БЫТЬ"
+    ]
+  },
+  "V V Cn": {
+    "minLeft": 0,
+    "maxLeft": 18,
+    "minRight": 0,
+    "maxRight": 10,
+    "words": [
+      "СТАРАТЬСЯ СДЕЛАТЬ ТАК"
+    ]
+  },
+  "V Pr": {
+    "minLeft": 0,
+    "maxLeft": 29,
+    "minRight": 0,
+    "maxRight": 29,
+    "words": [
+      "ПОЛУЧИТЬ ОТ",
+      "ВЛОЖИТЬ В",
+      "УВЕЛИЧИТЬСЯ ЗА",
+      "ДОГОВОРИТЬСЯ О",
+      "ОБЪЯВИТЬ О",
+      "СОСТАВЛЯТЬ ОКОЛО",
+      "РАЗМЕЩАТЬСЯ НА",
+      "УЛУЧШИТЬ ЗА",
+      "ВОЙТИ В"
+    ]
+  },
+  "V N N": {
+    "minLeft": 0,
+    "maxLeft": 12,
+    "minRight": 0,
+    "maxRight": 21,
+    "words": [
+      "ПОДТВЕРДИТЬ ЗАКРЫТИЕ СДЕЛКА",
+      "ОДОБРИТЬ ПРОДАЖА АКЦИЯ"
+    ]
+  },
+  "V V": {
+    "minLeft": 0,
+    "maxLeft": 20,
+    "minRight": 0,
+    "maxRight": 30,
+    "words": [
+      "БЫТЬ ВЫКУПИТЬ",
+      "БЫТЬ КУПИТЬ",
+      "БЫТЬ НАПРАВИТЬ",
+      "БЫТЬ ПРОДАТЬ",
+      "НАМЕРИТЬ НАРАЩИВАТЬ"
+    ]
+  },
+  "V N": {
+    "minLeft": 0,
+    "maxLeft": 14,
+    "minRight": 0,
+    "maxRight": 30,
+    "words": [
+      "ПОДДЕРЖАТЬ САНКЦИЯ",
+      "ПОЛУЧИТЬ ПОДДЕРЖКА",
+      "ВЫКУПИТЬ ДОЛЯ",
+      "ПРИОБРЕСТИ АКЦИЯ",
+      "ПРИНАДЛЕЖАТЬ СТРУКТУРА",
+      "СДЕЛАТЬ ПРЕДЛОЖЕНИЕ",
+      "СОСТАВЛЯТЬ ДОЛЯ",
+      "ВВЕСТИ САНКЦИЯ"
+    ]
+  },
+  "V Av": {
+    "minLeft": 0,
+    "maxLeft": 7,
+    "minRight": 1,
+    "maxRight": 28,
+    "words": [
+      "СТАТЬ ИЗВЕСТНО"
+    ]
+  },
+  "Av V A": {
+    "minLeft": 1,
+    "maxLeft": 2,
+    "minRight": 1,
+    "maxRight": 4,
+    "words": [
+      "ПРИЯТНО ОТМЕТИТЬ ТОТ"
+    ]
+  },
+  "N V": {
+    "minLeft": 0,
+    "maxLeft": 17,
+    "minRight": 0,
+    "maxRight": 31,
+    "words": [
+      "ИНВЕСТОР ВЫСТУПИТЬ"
+    ]
+  },
+  "V N Cn": {
+    "minLeft": 0,
+    "maxLeft": 26,
+    "minRight": 0,
+    "maxRight": 9,
+    "words": [
+      "ПОМОЧЬ ОРГАНИЗАТОР И"
+    ]
+  },
+  "V A": {
+    "minLeft": 0,
+    "maxLeft": 25,
+    "minRight": 0,
+    "maxRight": 19,
+    "words": [
+      "ПОСТУПИТЬ АНАЛОГИЧНЫЙ",
+      "ПРИНАДЛЕЖАТЬ ПОИСКОВЫЙ"
+    ]
+  },
+  "N V Pr N": {
+    "minLeft": 0,
+    "maxLeft": 13,
+    "minRight": 0,
+    "maxRight": 13,
+    "words": [
+      "СРЕДСТВО ВЫРУЧИТЬ ОТ ПРОДАЖА",
+      "РЫНОК ОБЪЯВИТЬ О ПРИОБРЕТЕНИЕ",
+      "МОЧЬ ИДТИ О ПРИСОЕДИНЕНИЕ"
+    ]
+  },
+  "Av V": {
+    "minLeft": 0,
+    "maxLeft": 3,
+    "minRight": 0,
+    "maxRight": 17,
+    "words": [
+      "УЖЕ ПРОЯВИТЬ"
+    ]
+  },
+  "Cn V A": {
+    "minLeft": 0,
+    "maxLeft": 0,
+    "minRight": 0,
+    "maxRight": 3,
+    "words": [
+      "ТАКЖЕ СОГЛАСОВАТЬ ОСНОВНОЙ",
+      "ТАКЖЕ ВЛОЖИТЬСЯ ТАКОЙ"
+    ]
+  },
+  "V": {
+    "minLeft": 0,
+    "maxLeft": 13,
+    "minRight": 0,
+    "maxRight": 31,
+    "words": [
+      "ЗАИНТЕРЕСОВАТЬ",
+      "КУПИТЬ",
+      "УВЕЛИЧИТЬСЯ",
+      "ПОКУПАТЬ",
+      "ПРОЯВЛЯТЬ",
+      "ПРИОБРЕСТИ"
+    ]
+  },
+  "Cn V N": {
+    "minLeft": 0,
+    "maxLeft": 2,
+    "minRight": 0,
+    "maxRight": 6,
+    "words": [
+      "ТАКЖЕ ОПРОВЕРГНУТЬ ИНФОРМАЦИЯ"
+    ]
+  },
+  "A V": {
+    "minLeft": 0,
+    "maxLeft": 28,
+    "minRight": 0,
+    "maxRight": 5,
+    "words": [
+      "КОТОРЫЙ ПЕРЕДАТЬ"
+    ]
+  }
+}
